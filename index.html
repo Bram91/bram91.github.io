@@ -1,0 +1,231 @@
+<html>
+<style>
+p {display: inline-block; color:white; }
+body {background-color: #1f1f1f;}
+</style>
+<script>
+	let totalRegionCount = 0;
+	let currentIteration = 0;
+	let tileBuffer = [];
+	let tileSize = 10;
+	var setTileSize = function()
+	{
+		tileSize = parseInt(document.getElementById("tileSize").value,10);
+		process();
+	}
+	var setSize = function(w, h,id)
+	{
+		let canvas = document.getElementById(id);
+    	let ctx = canvas.getContext('2d');
+    	ctx.canvas.width = w;
+    	ctx.canvas.height = h;
+	}
+	var drawGrid = function(w, h, id,region,plane,jsonData,offsetX,offsetY) {
+	if(offsetX == undefined)
+	{
+		offsetX = 0;
+		offsetY = 0;
+	}
+    var canvas = document.getElementById(id);
+    canvas.onclick = function(evt) {
+
+	  var rect = canvas.getBoundingClientRect();
+      let x = Math.floor((evt.clientX - rect.left) / tileSize);
+      let y = Math.floor((evt.clientY - rect.top) / tileSize);
+      for(let i = 0; i < tileBuffer.length; i++)
+      {
+      	if(tileBuffer[i].x == x && tileBuffer[i].y == y)
+      	{
+      		document.getElementById("data").innerHTML = 
+      		"X location:"+x+"<br>"+
+      		"Y location:"+y+"<br>"+
+      		"Label:"+tileBuffer[i].label+"<br>";
+      	}
+      }
+    };
+    var ctx = canvas.getContext('2d');
+    ctx.fillStyle = "#000";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    let background = new Image();
+    background.src = "https://raw.githubusercontent.com/Bram91/TileMarkers/master/tiles/"+plane+"/8/"+getLocation(region).x+"/"+getLocation(region).y+".png";
+    background.onload = function () {
+
+	    ctx.drawImage(background,offsetX,offsetY,w,h);
+	    let alpha = document.getElementById("transparency").value/10;
+	    ctx.fillStyle = "rgba(0,0,0,"+alpha+")";
+	    ctx.fillRect(offsetX,offsetY,w,h);
+	    if(document.getElementById("drawGrid").checked)
+	    {
+	    	for (x = 0; x <= w; x += tileSize) {
+		        ctx.moveTo(x+offsetX, 0+offsetY);
+		        ctx.lineTo(x+offsetX, h+offsetY);
+		        for (y = 0; y <= h; y += tileSize) {
+		            ctx.moveTo(0+offsetX, y+offsetY);
+		            ctx.lineTo(w+offsetX, y+offsetY);
+		        }
+		    }
+		}
+    	ctx.stroke();
+
+    	if(jsonData != undefined)
+    	{
+    		for(let i = 0; i<jsonData.length; i++)
+    		{
+    			if(jsonData[i].regionId == region)
+    			{
+    				tileBuffer.push({"x":jsonData[i].regionX,"y":63-jsonData[i].regionY,"col":jsonData[i].color.value,"offsetX":offsetX,"offsetY":offsetY,"label":jsonData[i].label});
+    			}
+    		}
+    	}
+    	currentIteration++;
+    	if(currentIteration == totalRegionCount)
+    	{
+    		drawTiles();
+    	}
+    }
+};
+var drawTile = function(x,y,col,offsetX,offsetY,label){
+	xPos = x * tileSize + offsetX;
+	yPos = y * tileSize + offsetY;
+	let canvas = document.getElementById("myCanvas");
+	let ctx = canvas.getContext('2d');
+	ctx.fillStyle = "#"+decimalToHexString(col);
+	ctx.fillRect(xPos, yPos, tileSize, tileSize);
+	if(label)
+	{
+		ctx.font = tileSize+"px Arial";
+		ctx.fillStyle = "#"+decimalToHexString(-1*col);
+		ctx.fillText("?", xPos+2, yPos+tileSize-2);
+	}
+};
+
+var decimalToHexString = function(number)
+{
+  if (number < 0)
+  {
+    number = 0xFFFFFF + number + 1;
+  }
+  
+  
+  let hex = number.toString(16).toUpperCase();
+  while (hex.length < 6) {
+    hex = "0" + hex;
+  }
+  return hex;
+};
+
+var drawTiles = function()
+{
+	for(let i = 0; i<tileBuffer.length; i++)
+	{
+		let tile = tileBuffer[i];
+		if(tile.label != undefined)
+		{
+			drawTile(tile.x,tile.y,tile.col,tile.offsetX,tile.offsetY,true);	
+		}
+		else
+		{
+			drawTile(tile.x,tile.y,tile.col,tile.offsetX,tile.offsetY);
+		}
+	}
+}
+
+const process = function()
+{
+	totalRegionCount = 0;
+	currentIteration = 0;
+	tileBuffer = [];
+	if(document.getElementById("tiles").value === "")
+	{
+		setSize(64*tileSize,64*tileSize,'myCanvas'); 
+		drawGrid(64*tileSize,64*tileSize,'myCanvas',12850,0);
+	}
+	else
+	{
+		let data = JSON.parse(document.getElementById("tiles").value);
+		let temp = [];
+		for(let i = 0; i < data.length; i++)
+		{
+			if(!temp.includes(data[i].regionId))
+			{
+				temp.push(data[i].regionId);
+			}
+		}
+		let startx = 0;
+		let starty = 0;
+		let endx = 0;
+		let endy = 0;
+		for(let i = 0; i < temp.length; i++)
+		{
+			let location = getLocation(temp[i]);
+			if(startx == 0)
+			{
+				startx = location.x
+			}
+			if(location.x > endx)
+			{
+				endx = location.x;
+			}
+			if(starty == 0)
+			{
+				starty = location.y
+			}	
+			if(location.y > endy)
+			{
+				endy = location.y;
+			}
+		}
+		
+		let width = startx - endx;
+		let height = starty - endy;
+		if(width < 0)
+		{
+			width *= -1;
+		}
+		if(height < 0)
+		{
+			height *= -1;
+		}
+		width++;
+		height++;
+		totalRegionCount = temp.length;
+		setSize(64*tileSize * width, 64*tileSize * height, "myCanvas");
+		for(let i = temp.length - 1; i>=0; i--)
+		{
+			let offsetX = 0;
+			let offsetY = 0;
+			if(getLocation(temp[i]).x < endx)
+			{
+				offsetX = 64*tileSize;
+			}
+			if(getLocation(temp[i]).y < endy)
+			{
+				offsetY = 64*tileSize;
+			}
+			drawGrid(64*tileSize,64*tileSize,"myCanvas",temp[i], data[0].z,data,offsetX,offsetY);
+		}
+	}
+};
+
+const getLocation = function(region)
+{
+	let x = ((region >>> 8) << 6) / 64 - 18;
+	let y = ((region & 0xff) << 6) / 64 - 19;
+	return {x,y};
+}
+
+
+</script>
+<body onload="setSize(64*tileSize,64*tileSize,'myCanvas'); drawGrid(64*tileSize,64*tileSize,'myCanvas',12850,0)"></body>
+<div><p style="height:60px;" id="data">data</p></div>
+<!-- <input type="text" id="tiles" value='[{"regionId":5536,"regionX":18,"regionY":29,"z":0,"color":{"value":-15066598}},{"regionId":5536,"regionX":16,"regionY":29,"z":0,"color":{"value":-16777216},"label":"S"},{"regionId":5536,"regionX":17,"regionY":26,"z":0,"color":{"value":-65536},"label":"1"},{"regionId":5536,"regionX":16,"regionY":26,"z":0,"color":{"value":-65536},"label":"2"},{"regionId":5536,"regionX":15,"regionY":26,"z":0,"color":{"value":-65536},"label":"3"},{"regionId":5536,"regionX":15,"regionY":27,"z":0,"color":{"value":-65536},"label":"4"},{"regionId":5536,"regionX":15,"regionY":28,"z":0,"color":{"value":-65536},"label":"5"},{"regionId":5536,"regionX":16,"regionY":28,"z":0,"color":{"value":-65536},"label":"6"},{"regionId":5536,"regionX":15,"regionY":29,"z":0,"color":{"value":-65536},"label":"7"},{"regionId":5536,"regionX":15,"regionY":37,"z":0,"color":{"value":-16729089},"label":"1"},{"regionId":5536,"regionX":15,"regionY":38,"z":0,"color":{"value":-16711681},"label":"2"},{"regionId":5536,"regionX":16,"regionY":27,"z":0,"color":{"value":-65536},"label":"Start"},{"regionId":5536,"regionX":33,"regionY":19,"z":0,"color":{"value":-16711936},"label":"Start"},{"regionId":5536,"regionX":25,"regionY":38,"z":0,"color":{"value":-16741633},"label":"Start"},{"regionId":5536,"regionX":23,"regionY":28,"z":0,"color":{"value":-1},"label":"Hydra Spawns around here"},{"regionId":5536,"regionX":23,"regionY":27,"z":0,"color":{"value":-1},"label":"Move to the start tile of each colour as phases change"},{"regionId":5536,"regionX":23,"regionY":26,"z":0,"color":{"value":-1},"label":"Remove labels \u0026 tiles as needed, keeping start tile highly recommended"},{"regionId":5536,"regionX":23,"regionY":25,"z":0,"color":{"value":-1},"label":"White tiles are entirely instructional"},{"regionId":5536,"regionX":16,"regionY":23,"z":0,"color":{"value":-1},"label":"As soon as the hydra uses the chasing fire, move up the numbered tiles, targeting the hydra after each step. End on the Black Start tile"},{"regionId":5536,"regionX":16,"regionY":22,"z":0,"color":{"value":-1},"label":"For the final phase, move to the other black tile after 3 attacks, when the hydra spits. If the fire from previous phase is still spawned, you\u0027ll get a single blob to dodge"},{"regionId":5536,"regionX":36,"regionY":27,"z":0,"color":{"value":-1},"label":"Walk to the spot left of here after the hydra is lured to the South East"},{"regionId":5536,"regionX":36,"regionY":26,"z":0,"color":{"value":-1},"label":"When the hydra starts the poison spit attack, start moving towards the northern green spot"},{"regionId":5536,"regionX":25,"regionY":35,"z":0,"color":{"value":-16711936}},{"regionId":5536,"regionX":33,"regionY":27,"z":0,"color":{"value":-15141855}},{"regionId":5536,"regionX":15,"regionY":40,"z":0,"color":{"value":-1},"label":"When the lightning attack is adjacent to the blue tile marked 1, click on tile 1, then click on tile 2 the next tick"},{"regionId":5536,"regionX":15,"regionY":39,"z":0,"color":{"value":-1},"label":"Stay on tile 2 until the phase ends"},{"regionId":5536,"regionX":15,"regionY":41,"z":0,"color":{"value":-1},"label":"Walk to the western-most blue tile as soon as blue phase starts, as the hydra will get doused as you walk"},{"regionId":5536,"regionX":23,"regionY":24,"z":0,"color":{"value":-1},"label":"\"Walk\" and \"Walking\" refer to Woox-walking with Blowpipe (move 2 tiles while running, then attack for a tick)"},{"regionId":5536,"regionX":14,"regionY":38,"z":0,"color":{"value":-16741633}}]'> -->
+<input type="text" id="tiles" value='[{"regionId":9007,"regionX":23,"regionY":62,"z":0,"color":{"value":-256,"falpha":0.0},"label":"4"},{"regionId":9007,"regionX":32,"regionY":63,"z":0,"color":{"value":-256,"falpha":0.0},"label":"3"},{"regionId":9007,"regionX":28,"regionY":61,"z":0,"color":{"value":-256,"falpha":0.0}},{"regionId":9008,"regionX":24,"regionY":0,"z":0,"color":{"value":-256,"falpha":0.0},"label":"5"},{"regionId":9008,"regionX":32,"regionY":6,"z":0,"color":{"value":-256,"falpha":0.0},"label":"2"},{"regionId":9008,"regionX":22,"regionY":3,"z":0,"color":{"value":-256,"falpha":0.0},"label":"6"},{"regionId":9008,"regionX":24,"regionY":6,"z":0,"color":{"value":-256,"falpha":0.0},"label":"7"},{"regionId":9008,"regionX":34,"regionY":5,"z":0,"color":{"value":-256,"falpha":0.0}}]'>
+<button onclick="process()">Click me</button>
+<p>Map visibility:</p>
+<input type="range" min="0" max="10" value="5" class="slider" id="transparency" onchange="process()">
+<p>Show Grid:</p>
+<input type="checkbox" id="drawGrid" checked = "true" onchange="process()">
+<p>Tile Size:</p>
+<input type="range" min="0" max="20" value="10" class="slider" id="tileSize" onchange="setTileSize()"><br>
+<canvas id="myCanvas"></canvas>
+</html>
