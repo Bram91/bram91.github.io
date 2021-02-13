@@ -3,16 +3,58 @@
 	<style>
 		p {display: inline-block; color:white; }
 		body {background-color: #1f1f1f;}
+		.tooltip {
+			position: relative;
+			display: inline-block;
+		}
+
+		.tooltip .tooltiptext {
+			visibility: hidden;
+			width: 140px;
+			background-color: #555;
+			color: #fff;
+			text-align: center;
+			border-radius: 6px;
+			padding: 5px;
+			position: absolute;
+			z-index: 1;
+			bottom: 150%;
+			left: 50%;
+			
+			opacity: 0;
+			transition: opacity 0.3s;
+		}
+
+		.tooltip .tooltiptext::after {
+			content: "";
+			position: absolute;
+			top: 100%;
+			left: 10%;
+			margin-left: -5px;
+			border-width: 5px;
+			border-style: solid;
+			border-color: #555 transparent transparent transparent;
+		}
+
+		.tooltip:hover .tooltiptext {
+			visibility: visible;
+			opacity: 1;
+		}
 	</style>
 	<script src="main.js"></script>
+
 </head>
-	<body onload="setSize(64*tileSize,64*tileSize,'myCanvas'); setSize(64*tileSize,64*tileSize,'myInteraction'); drawGrid(64*tileSize,64*tileSize,'myCanvas',12850,0)">
-		<textarea id="tiles" cols="100">[{"regionId":5536,"regionX":18,"regionY":29,"z":0,"color":{"value":-15066598}},{"regionId":5536,"regionX":16,"regionY":29,"z":0,"color":{"value":-16777216},"label":"S"},{"regionId":5536,"regionX":17,"regionY":26,"z":0,"color":{"value":-65536},"label":"1"},{"regionId":5536,"regionX":16,"regionY":26,"z":0,"color":{"value":-65536},"label":"2"},{"regionId":5536,"regionX":15,"regionY":26,"z":0,"color":{"value":-65536},"label":"3"},{"regionId":5536,"regionX":15,"regionY":27,"z":0,"color":{"value":-65536},"label":"4"},{"regionId":5536,"regionX":15,"regionY":28,"z":0,"color":{"value":-65536},"label":"5"},{"regionId":5536,"regionX":16,"regionY":28,"z":0,"color":{"value":-65536},"label":"6"},{"regionId":5536,"regionX":15,"regionY":29,"z":0,"color":{"value":-65536},"label":"7"},{"regionId":5536,"regionX":15,"regionY":37,"z":0,"color":{"value":-16729089},"label":"1"},{"regionId":5536,"regionX":15,"regionY":38,"z":0,"color":{"value":-16711681},"label":"2"},{"regionId":5536,"regionX":16,"regionY":27,"z":0,"color":{"value":-65536},"label":"Start"},{"regionId":5536,"regionX":33,"regionY":19,"z":0,"color":{"value":-16711936},"label":"Start"},{"regionId":5536,"regionX":25,"regionY":38,"z":0,"color":{"value":-16741633},"label":"Start"},{"regionId":5536,"regionX":23,"regionY":28,"z":0,"color":{"value":-1},"label":"Hydra Spawns around here"},{"regionId":5536,"regionX":23,"regionY":27,"z":0,"color":{"value":-1},"label":"Move to the start tile of each colour as phases change"},{"regionId":5536,"regionX":23,"regionY":26,"z":0,"color":{"value":-1},"label":"Remove labels \u0026 tiles as needed, keeping start tile highly recommended"},{"regionId":5536,"regionX":23,"regionY":25,"z":0,"color":{"value":-1},"label":"White tiles are entirely instructional"},{"regionId":5536,"regionX":16,"regionY":23,"z":0,"color":{"value":-1},"label":"As soon as the hydra uses the chasing fire, move up the numbered tiles, targeting the hydra after each step. End on the Black Start tile"},{"regionId":5536,"regionX":16,"regionY":22,"z":0,"color":{"value":-1},"label":"For the final phase, move to the other black tile after 3 attacks, when the hydra spits. If the fire from previous phase is still spawned, you\u0027ll get a single blob to dodge"},{"regionId":5536,"regionX":36,"regionY":27,"z":0,"color":{"value":-1},"label":"Walk to the spot left of here after the hydra is lured to the South East"},{"regionId":5536,"regionX":36,"regionY":26,"z":0,"color":{"value":-1},"label":"When the hydra starts the poison spit attack, start moving towards the northern green spot"},{"regionId":5536,"regionX":25,"regionY":35,"z":0,"color":{"value":-16711936}},{"regionId":5536,"regionX":33,"regionY":27,"z":0,"color":{"value":-15141855}},{"regionId":5536,"regionX":15,"regionY":40,"z":0,"color":{"value":-1},"label":"When the lightning attack is adjacent to the blue tile marked 1, click on tile 1, then click on tile 2 the next tick"},{"regionId":5536,"regionX":15,"regionY":39,"z":0,"color":{"value":-1},"label":"Stay on tile 2 until the phase ends"},{"regionId":5536,"regionX":15,"regionY":41,"z":0,"color":{"value":-1},"label":"Walk to the western-most blue tile as soon as blue phase starts, as the hydra will get doused as you walk"},{"regionId":5536,"regionX":23,"regionY":24,"z":0,"color":{"value":-1},"label":"\"Walk\" and \"Walking\" refer to Woox-walking with Blowpipe (move 2 tiles while running, then attack for a tick)"},{"regionId":5536,"regionX":14,"regionY":38,"z":0,"color":{"value":-16741633}}]	
-		</textArea>
+	<body onload="setSize(64*tileSize,64*tileSize,'myCanvas'); setSize(64*tileSize,64*tileSize,'myInteraction'); processUrl();">
+		<textarea id="tiles" cols="100"></textArea>
 		<br>
-		<!-- <input type="text" id="tiles" value='[{"regionId":9007,"regionX":23,"regionY":62,"z":0,"color":{"value":-256,"falpha":0.0},"label":"4"},{"regionId":9007,"regionX":32,"regionY":63,"z":0,"color":{"value":-256,"falpha":0.0},"label":"3"},{"regionId":9007,"regionX":28,"regionY":61,"z":0,"color":{"value":-256,"falpha":0.0}},{"regionId":9008,"regionX":24,"regionY":0,"z":0,"color":{"value":-256,"falpha":0.0},"label":"5"},{"regionId":9008,"regionX":32,"regionY":6,"z":0,"color":{"value":-256,"falpha":0.0},"label":"2"},{"regionId":9008,"regionX":22,"regionY":3,"z":0,"color":{"value":-256,"falpha":0.0},"label":"6"},{"regionId":9008,"regionX":24,"regionY":6,"z":0,"color":{"value":-256,"falpha":0.0},"label":"7"},{"regionId":9008,"regionX":34,"regionY":5,"z":0,"color":{"value":-256,"falpha":0.0}}]'> -->
-		<!--  [{"regionId":12341,"regionX":62,"regionY":62,"z":0,"color":{"value":-13566208}},{"regionId":12342,"regionX":62,"regionY":1,"z":0,"color":{"value":-13566208}},{"regionId":12597,"regionX":1,"regionY":62,"z":0,"color":{"value":-13566208}},{"regionId":12598,"regionX":58,"regionY":34,"z":0,"color":{"value":-13566208}},{"regionId":12598,"regionX":1,"regionY":1,"z":0,"color":{"value":-13566208}}]		 !-->
-		<button onclick="process()">Click me</button>
+		
+		<div class="tooltip">
+			<button onclick="copyMarkers()" onmouseout="copyMarkersOut()">
+			<span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
+				Copy markers
+			</button>
+		</div>
+		<button onclick="process();">Reload markers</button>
 		<p>Map visibility:</p>
 		<input type="range" min="1" max="10" value="5" class="slider" id="transparency" onchange="process()">
 		<p>White overlay:</p>
@@ -20,7 +62,7 @@
 		<p>Show Grid:</p>
 		<input type="checkbox" id="drawGrid"  onchange="process()">
 		<p>Tile Size:</p>
-		<input type="range" min="1" max="20" value="13" class="slider" id="tileSize" onchange="setTileSize()"><br>
+		<input type="range" min="7" max="20" value="13" class="slider" id="tileSize" onchange="setTileSize()"><br>
 		<div style="position: relative;">
 			<canvas id="myCanvas" style = "position:absolute; left:0; top:0; z-index:0;"></canvas>
 			<canvas id="myInteraction" style = "position:absolute; left:0; top:0; z-index:1; pointer-events: none"></canvas>

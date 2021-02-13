@@ -113,9 +113,10 @@ const drawTile = function(x, y, col, offsetX, offsetY, label) {
 	ctx.lineWidth = 1;
 	ctx.strokeRect(xPos, yPos, tileSize, tileSize);
 	if (label) {
-		ctx.font = "bold " + tileSize + "px Arial";
-		ctx.fillStyle = "#" + decimalToHexString(col, true);
-		ctx.fillText("⚠", xPos + 1, yPos + tileSize - 2);
+		ctx.font = "bold " + (tileSize - 4) + "px Arial";
+		ctx.strokeStyle = "#" + decimalToHexString(col, true);
+		ctx.fillStyle = "#" + decimalToHexString(col, false);
+		ctx.fillText(decodeURI("\u2022\u2022\u2022"), xPos + 2, yPos + tileSize - 1);
 	}
 };
 
@@ -141,7 +142,6 @@ const drawArrow = function(xPos, yPos) {
 	ctx.lineTo(0.2 * tileSize, 1.2 * tileSize);
 	ctx.fill();
 	ctx.stroke();
-	// ctx.translate((-xPos * tileSize) + 5, (-yPos * tileSize) + 15);
 	ctx.restore();
 };
 
@@ -174,24 +174,35 @@ const wrapText = function(ctx, x, y, text, fontsize, maxwidth) {
 	return (currentY + lineHeight - startingY + 7);
 };
 
-const drawInfo = function(xPos, yPos, content, color) {
+const drawInfo = function(xPos, yPos, content, color, size) {
 	let canvas = document.getElementById("myInteraction");
 	let ctx = canvas.getContext('2d');
 	ctx.strokeStyle = "#222";
 	ctx.fillStyle = "#333";
 	let lineWidth = 2;
 	ctx.lineWidth = lineWidth;
-	ctx.font = "12px Arial";
-	let height = wrapText(ctx, xPos + 2, yPos + 7, content, 12, 200);
+	let fontSize;
+	if(size == undefined)
+	{
+		fontSize = 12;
+	}
+	else
+	{
+		fontSize = size;
+	}
+	ctx.font = fontSize+"px Arial";
+	let height = wrapText(ctx, xPos + 2, yPos + 7, content, fontSize, 200);
 	ctx.fillRect(xPos, yPos, 200, height);
 	ctx.strokeRect(xPos, yPos, 200, height);
 	ctx.fillStyle = "#DADADA";
-	wrapText(ctx, xPos + 2, yPos + 7, content, 12, 200);
-	ctx.fillStyle = color;
-	ctx.fillRect(120, 7, 70, 10);
-
-
+	wrapText(ctx, xPos + 2, yPos + 7, content, fontSize, 200);
+	if(color != undefined)
+	{
+		ctx.fillStyle = color;
+		ctx.fillRect(120, 7, 70, 10);
+	}
 };
+
 const drawSelection = function(xPos, yPos, col) {
 	let canvas = document.getElementById("myInteraction");
 	let ctx = canvas.getContext('2d');
@@ -239,7 +250,21 @@ const process = function() {
 		setSize(64 * tileSize, 64 * tileSize, 'myInteraction');
 		drawGrid(64 * tileSize, 64 * tileSize, 'myCanvas', 12850, 0);
 	} else {
-		let data = JSON.parse(document.getElementById("tiles").value);
+		let data;
+		try
+		{
+			data = JSON.parse(document.getElementById("tiles").value);
+			window.history.replaceState(null, null, '?'+document.getElementById('tiles').value);
+		}
+		catch (e)
+		{
+			setSize(64 * tileSize, 64 * tileSize, 'myCanvas');
+			setSize(64 * tileSize, 64 * tileSize, 'myInteraction');
+			drawGrid(64*tileSize,64*tileSize,'myCanvas',12850,0);
+			drawInfo((64*tileSize) / 3, (64*tileSize) / 3, "Invalid tile data!" , undefined, 25);
+			return;
+		}
+
 		let temp = [];
 		for (let i = 0; i < data.length; i++) {
 			if (!temp.includes(data[i].regionId)) {
@@ -300,4 +325,32 @@ const getLocation = function(region) {
 		x,
 		y
 	};
+};
+
+const processUrl = function(){
+	if(window.location.search == "")
+	{
+		drawGrid(64*tileSize,64*tileSize,'myCanvas',12850,0);	
+	}
+	else
+	{
+		document.getElementById("tiles").value = decodeURI(window.location.search).substring(1);
+		process();
+	}
+};
+
+const copyMarkers = function()
+{
+	let copyText = document.getElementById("tiles");
+  	copyText.select();
+  	document.execCommand("copy");
+  
+  	let tooltip = document.getElementById("myTooltip");
+  	tooltip.innerHTML = "Copied to clipboard!";
+};
+
+const copyMarkersOut = function()
+{
+	let tooltip = document.getElementById("myTooltip");
+  	tooltip.innerHTML = "Copy to clipboard";
 };
