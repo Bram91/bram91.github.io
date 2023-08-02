@@ -1,71 +1,65 @@
+<!DOCTYPE html>
 <html>
 <head>
+	<title>OSRS Animation Search</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 	<style>
-		p {display: inline-block; color:white; }
-		body {background-color: #1f1f1f;}
-		.tooltip {
-			position: relative;
-			display: inline-block;
-		}
-
-		.tooltip .tooltiptext {
-			visibility: hidden;
-			width: 140px;
-			background-color: #555;
-			color: #fff;
-			text-align: center;
-			border-radius: 6px;
-			padding: 5px;
-			position: absolute;
-			z-index: 1;
-			bottom: 150%;
-			left: 50%;
-			
-			opacity: 0;
-			transition: opacity 0.3s;
-		}
-
-		.tooltip .tooltiptext::after {
-			content: "";
-			position: absolute;
-			top: 100%;
-			left: 10%;
-			margin-left: -5px;
-			border-width: 5px;
-			border-style: solid;
-			border-color: #555 transparent transparent transparent;
-		}
-
-		.tooltip:hover .tooltiptext {
-			visibility: visible;
-			opacity: 1;
-		}
+		#result {
+        position: absolute;
+        width: 100%;
+        max-width:870px;
+        cursor: pointer;
+        overflow-y: auto;
+        max-height: 400px;
+        box-sizing: border-box;
+        z-index: 1001;
+        }
+        .link-class:hover{
+        background-color:#f1f1f1;
+        }
 	</style>
-	<script src="main.js"></script>
-
 </head>
-	<body onload="setSize(64*tileSize,64*tileSize,'myCanvas'); setSize(64*tileSize,64*tileSize,'myInteraction'); processUrl();">
-		<textarea id="tiles" cols="100"></textArea>
-		<br>
-		
-		<div class="tooltip">
-			<button onclick="copyMarkers()" onmouseout="copyMarkersOut()">
-			<span class="tooltiptext" id="myTooltip">Copy to clipboard</span>
-				Copy markers
-			</button>
-		</div>
-		<button onclick="process();">Reload markers</button>
-		<p>Map visibility:</p>
-		<input type="range" min="1" max="10" value="5" class="slider" id="transparency" onchange="process()">
-		<p>White overlay:</p>
-		<input type="checkbox" id="whiteOverlay" onchange="process()">
-		<p>Show Grid:</p>
-		<input type="checkbox" id="drawGrid"  onchange="process()">
-		<p>Tile Size:</p>
-		<input type="range" min="7" max="20" value="13" class="slider" id="tileSize" onchange="setTileSize()"><br>
-		<div style="position: relative;">
-			<canvas id="myCanvas" style = "position:absolute; left:0; top:0; z-index:0;"></canvas>
-			<canvas id="myInteraction" style = "position:absolute; left:0; top:0; z-index:1; pointer-events: none"></canvas>
-		</div>
-	</body>
+<body>
+<br /><br />
+<div class="container" style="width:900px;">
+	<h2 align="center">OSRS Animation search</h2>
+	<br /><br />
+	<div align="center">
+		<input type="text" name="search" id="search" placeholder="Search OSRS Npcs" class="form-control" />
+	</div>
+	<ul class="list-group" id="result"></ul>
+	<br />
+</div>
+</body>
 </html>
+<script>
+	$(document).ready(function(){
+     $.ajaxSetup({ cache: false });
+     $('#search').keyup(function(event){
+        if(event.keyCode != 13)
+        {
+            return;
+        }
+      $('#result').html('');
+      $('#state').val('');
+      var searchField = $('#search').val();
+      var expression = new RegExp(searchField, "i");
+      $.getJSON('data.json', function(data) {
+       $.each(data, function(key, value){
+        if (value.name.search(expression) != -1 || value.id.toString().search(expression) != -1)
+        {
+         $('#result').append('<li class="list-group-item link-class">Id:'+value.id+' | <span class="text-muted">'+value.name+', standingAnim:'+value.standingAnimation+', walkingAnim:'+value.walkingAnimation+'</span></li>');
+        }
+       });
+      });
+     });
+
+     $('#result').on('click', 'li', function() {
+      var click_text = $(this).text();
+      $('#search').val($.trim(click_text));
+      $("#result").html('');
+     });
+    });
+</script>
