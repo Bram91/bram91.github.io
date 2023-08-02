@@ -31,6 +31,8 @@
 	</div>
 	<ul class="list-group" id="result"></ul>
 	<br />
+	<button id="animations">Find all matching animations</button>
+	<p id="animationResults"></button>
 </div>
 </body>
 </html>
@@ -51,6 +53,8 @@
         if (value.name.search(expression) != -1 || value.id.toString().search(expression) != -1)
         {
          $('#result').append('<li class="list-group-item link-class">Id:'+value.id+' | <span class="text-muted">'+value.name+', standingAnim:'+value.standingAnimation+', walkingAnim:'+value.walkingAnimation+'</span></li>');
+         standingAnim = parseInt(value.standingAnimation);
+         walkingAnim = parseInt(value.walkingAnimation);
         }
        });
       });
@@ -61,5 +65,28 @@
       $('#search').val($.trim(click_text));
       $("#result").html('');
      });
-    });
+     $.getJSON('animations.json', function(data){
+         animationData = data;
+     });
+     standingAnim = -1;
+     walkingAnim = -1;
+     $('#animations').on( "click",function(event){
+         if(!isNaN(standingAnim) && !isNaN(walkingAnim))
+         {
+             let id = Math.max(standingAnim, walkingAnim)
+             //if(id == -1) return;
+             let animArr = Object.values(animationData)
+             animationCount = animArr.length;
+             for (let i = 0; i < animationCount; i++)
+             {
+
+                 if(animArr[i]!=undefined && animArr[i].includes(id))
+                 {
+                     $('#animationResults').html(animArr[i].toString());
+                 }
+             }
+         }
+     });
+     });
+
 </script>
