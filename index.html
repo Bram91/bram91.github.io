@@ -53,8 +53,6 @@
         if (value.name.search(expression) != -1 || value.id.toString().search(expression) != -1)
         {
          $('#result').append('<li class="list-group-item link-class">Id:'+value.id+' | <span class="text-muted">'+value.name+', standingAnim:'+value.standingAnimation+', walkingAnim:'+value.walkingAnimation+'</span></li>');
-         standingAnim = parseInt(value.standingAnimation);
-         walkingAnim = parseInt(value.walkingAnimation);
         }
        });
       });
@@ -63,6 +61,8 @@
      $('#result').on('click', 'li', function() {
       var click_text = $(this).text();
       $('#search').val($.trim(click_text));
+      standingAnim = parseInt($.trim(click_text).split("standingAnim:")[1].split(",")[0]);
+      walkingAnim = parseInt($.trim(click_text).split("walkingAnim:")[1]);
       $("#result").html('');
      });
      $.getJSON('animations.json', function(data){
