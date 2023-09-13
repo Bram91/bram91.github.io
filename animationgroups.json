@@ -1260,6 +1260,7 @@
   {"animationGroup":[{"id":8767},{"id":8768},{"id":8769},{"id":8770},{"id":8771},{"id":8772},{"id":8773},{"id":8774}]},
   {"animationGroup":[{"id":3573}]},
   {"animationGroup":[{"id":681}]},
+  [main] INFO net.runelite.cache.SequenceDumper - Dumped 0 sequences to /tmp/junit961671643808304122/junit9690959387662291670
   {"animationGroup":[{"id":7503}]},
   {"animationGroup":[{"id":8775}]},
   {"animationGroup":[{"id":4970}]},
