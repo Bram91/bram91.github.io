@@ -330,6 +330,12 @@
     "walkingAnimation": 314
   },
   {
+    "name": "General Graardor",
+    "id": 12444,
+    "standingAnimation": 7017,
+    "walkingAnimation": 7016
+  },
+  {
     "name": "null",
     "id": 10128,
     "standingAnimation": -1,
@@ -2790,6 +2796,12 @@
     "walkingAnimation": 5553
   },
   {
+    "name": "Evil Creature",
+    "id": 12477,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
+  },
+  {
     "name": "Elfinlocks",
     "id": 2662,
     "standingAnimation": 808,
@@ -4098,6 +4110,12 @@
     "walkingAnimation": 7997
   },
   {
+    "name": "Cave abomination",
+    "id": 12454,
+    "standingAnimation": 4231,
+    "walkingAnimation": 4236
+  },
+  {
     "name": "Incapacitated Pyromancer",
     "id": 7372,
     "standingAnimation": 6296,
@@ -4198,6 +4216,12 @@
     "id": 0,
     "standingAnimation": 2904,
     "walkingAnimation": 189
+  },
+  {
+    "name": "null",
+    "id": 12467,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "Helena",
@@ -4432,6 +4456,12 @@
     "id": 8839,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12504,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "Frog",
@@ -5814,6 +5844,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Malevolent Mage",
+    "id": 12456,
+    "standingAnimation": 813,
+    "walkingAnimation": 1205
+  },
+  {
     "name": "Galvek",
     "id": 8178,
     "standingAnimation": 7902,
@@ -6870,6 +6906,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Cute Creature",
+    "id": 12476,
+    "standingAnimation": 4472,
+    "walkingAnimation": 4473
+  },
+  {
     "name": "Combat stone",
     "id": 5106,
     "standingAnimation": -1,
@@ -6918,7 +6960,7 @@
     "walkingAnimation": 98
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1249,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -7320,6 +7362,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12499,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "null",
     "id": 8828,
     "standingAnimation": 808,
@@ -7648,6 +7696,12 @@
     "id": 2750,
     "standingAnimation": -1,
     "walkingAnimation": -1
+  },
+  {
+    "name": "Night beast",
+    "id": 12459,
+    "standingAnimation": 2730,
+    "walkingAnimation": 2729
   },
   {
     "name": "Ikkle Hydra",
@@ -10890,6 +10944,12 @@
     "walkingAnimation": 1205
   },
   {
+    "name": "King Black Dragon",
+    "id": 12440,
+    "standingAnimation": 90,
+    "walkingAnimation": 4635
+  },
+  {
     "name": "Ice giant",
     "id": 2087,
     "standingAnimation": 4670,
@@ -12372,6 +12432,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Longramble",
+    "id": 12466,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
+  },
+  {
     "name": "Evil Chicken",
     "id": 1870,
     "standingAnimation": 2298,
@@ -12478,6 +12544,12 @@
     "id": 955,
     "standingAnimation": 6218,
     "walkingAnimation": 6220
+  },
+  {
+    "name": "Spirit tree",
+    "id": 12468,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "null",
@@ -14326,6 +14398,12 @@
     "id": 12034,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Hazelmere",
+    "id": 12473,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
   },
   {
     "name": "Trader Crewmember",
@@ -16326,7 +16404,7 @@
     "walkingAnimation": 8702
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1241,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -16354,6 +16432,12 @@
     "id": 5617,
     "standingAnimation": 3535,
     "walkingAnimation": 3537
+  },
+  {
+    "name": "Mutated Tortoise",
+    "id": 12465,
+    "standingAnimation": 10435,
+    "walkingAnimation": 10434
   },
   {
     "name": "H.A.M. Member",
@@ -18324,6 +18408,12 @@
     "walkingAnimation": 189
   },
   {
+    "name": "Dagannoth Rex",
+    "id": 12439,
+    "standingAnimation": 2850,
+    "walkingAnimation": 2849
+  },
+  {
     "name": "Dog",
     "id": 7771,
     "standingAnimation": 2268,
@@ -19452,6 +19542,12 @@
     "walkingAnimation": -1
   },
   {
+    "name": "Terrorbird Guard 21",
+    "id": 12482,
+    "standingAnimation": 10444,
+    "walkingAnimation": 10443
+  },
+  {
     "name": "Guard Bandit",
     "id": 1027,
     "standingAnimation": 808,
@@ -19738,6 +19834,12 @@
     "id": 1927,
     "standingAnimation": 6415,
     "walkingAnimation": 6414
+  },
+  {
+    "name": "Terrorbird Guard 72",
+    "id": 12481,
+    "standingAnimation": 10446,
+    "walkingAnimation": 10443
   },
   {
     "name": "Fishing spot",
@@ -20116,6 +20218,12 @@
     "id": 5556,
     "standingAnimation": 362,
     "walkingAnimation": 362
+  },
+  {
+    "name": "Warped Tortoise",
+    "id": 12490,
+    "standingAnimation": 10435,
+    "walkingAnimation": 10434
   },
   {
     "name": "null",
@@ -20662,6 +20770,12 @@
     "id": 9208,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Porazdir",
+    "id": 12448,
+    "standingAnimation": 7837,
+    "walkingAnimation": 7839
   },
   {
     "name": "Rocky",
@@ -22068,6 +22182,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "<col=00ffff>Small Monolith</col>",
+    "id": 12487,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
+  },
+  {
     "name": "Muphin",
     "id": 12007,
     "standingAnimation": 9913,
@@ -22078,6 +22198,12 @@
     "id": 4009,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Terrorbird Guard 21",
+    "id": 12484,
+    "standingAnimation": 10456,
+    "walkingAnimation": 10448
   },
   {
     "name": "Boulder",
@@ -22362,6 +22488,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12497,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Goblin",
     "id": 3031,
     "standingAnimation": 6181,
@@ -22378,6 +22510,12 @@
     "id": 5864,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Spirit tree",
+    "id": 12469,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "null",
@@ -23166,6 +23304,12 @@
     "walkingAnimation": 5969
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12491,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Rune dragon",
     "id": 8031,
     "standingAnimation": 90,
@@ -23182,6 +23326,12 @@
     "id": 1790,
     "standingAnimation": 813,
     "walkingAnimation": 1205
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12503,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "Beaver",
@@ -23520,6 +23670,18 @@
     "walkingAnimation": 7306
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12498,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
+    "name": "null",
+    "id": 12506,
+    "standingAnimation": 4472,
+    "walkingAnimation": 4473
+  },
+  {
     "name": "null",
     "id": 10243,
     "standingAnimation": -1,
@@ -23614,6 +23776,12 @@
     "id": 2634,
     "standingAnimation": 1276,
     "walkingAnimation": 1274
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12493,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "Faisal the Barman",
@@ -24070,6 +24238,12 @@
     "id": 4752,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Bolrie",
+    "id": 12472,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
   },
   {
     "name": "Knight of Ardougne",
@@ -25380,6 +25554,12 @@
     "walkingAnimation": 7997
   },
   {
+    "name": "null",
+    "id": 12510,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Wounded soldier",
     "id": 6850,
     "standingAnimation": 6282,
@@ -26064,6 +26244,12 @@
     "walkingAnimation": 6282
   },
   {
+    "name": "Sulphur Lizard",
+    "id": 12458,
+    "standingAnimation": 8282,
+    "walkingAnimation": 8281
+  },
+  {
     "name": "TzHaar-Hur-Zal",
     "id": 7688,
     "standingAnimation": 2603,
@@ -26482,6 +26668,12 @@
     "id": 1656,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Guard",
+    "id": 12461,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "Fior",
@@ -27304,6 +27496,12 @@
     "id": 5975,
     "standingAnimation": 3023,
     "walkingAnimation": 3023
+  },
+  {
+    "name": "Jal-ImKot",
+    "id": 12455,
+    "standingAnimation": 7595,
+    "walkingAnimation": 7596
   },
   {
     "name": "Baron",
@@ -29034,6 +29232,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "null",
+    "id": 12508,
+    "standingAnimation": 10446,
+    "walkingAnimation": 10443
+  },
+  {
     "name": "Carado",
     "id": 7165,
     "standingAnimation": 195,
@@ -30516,6 +30720,12 @@
     "walkingAnimation": 8003
   },
   {
+    "name": "Tail",
+    "id": 12437,
+    "standingAnimation": 10299,
+    "walkingAnimation": -1
+  },
+  {
     "name": "Cannoneer",
     "id": 10601,
     "standingAnimation": 808,
@@ -30642,6 +30852,12 @@
     "walkingAnimation": 8416
   },
   {
+    "name": "null",
+    "id": 12463,
+    "standingAnimation": 808,
+    "walkingAnimation": 819
+  },
+  {
     "name": "Jex",
     "id": 11562,
     "standingAnimation": 808,
@@ -30708,7 +30924,7 @@
     "walkingAnimation": -1
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1240,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -32590,6 +32806,12 @@
     "id": 8040,
     "standingAnimation": 4780,
     "walkingAnimation": -1
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12494,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "null",
@@ -35778,6 +36000,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Dagannoth Supreme",
+    "id": 12441,
+    "standingAnimation": 2850,
+    "walkingAnimation": 2849
+  },
+  {
     "name": "Armod",
     "id": 1088,
     "standingAnimation": 808,
@@ -36622,6 +36850,12 @@
     "id": 688,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Advisor",
+    "id": 12474,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
   },
   {
     "name": "Elemental balance",
@@ -38310,6 +38544,12 @@
     "walkingAnimation": 358
   },
   {
+    "name": "Flaming pyrelord",
+    "id": 12453,
+    "standingAnimation": 1578,
+    "walkingAnimation": 1579
+  },
+  {
     "name": "Slave",
     "id": 8979,
     "standingAnimation": 808,
@@ -39106,6 +39346,12 @@
     "id": 9339,
     "standingAnimation": -1,
     "walkingAnimation": -1
+  },
+  {
+    "name": "Terrorbird Guard 72",
+    "id": 12485,
+    "standingAnimation": 10456,
+    "walkingAnimation": 10448
   },
   {
     "name": "null",
@@ -40900,6 +41146,12 @@
     "id": 5938,
     "standingAnimation": 2364,
     "walkingAnimation": 2363
+  },
+  {
+    "name": "Derwen",
+    "id": 12450,
+    "standingAnimation": 7845,
+    "walkingAnimation": 7847
   },
   {
     "name": "Mourner",
@@ -43572,6 +43824,12 @@
     "walkingAnimation": 5642
   },
   {
+    "name": "null",
+    "id": 12511,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Thermonuclear smoke devil",
     "id": 499,
     "standingAnimation": 1829,
@@ -43962,7 +44220,7 @@
     "walkingAnimation": 819
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1244,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -46008,6 +46266,12 @@
     "walkingAnimation": 1311
   },
   {
+    "name": "Yewnock the Engineer",
+    "id": 12470,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
+  },
+  {
     "name": "Duke Sucellus",
     "id": 12167,
     "standingAnimation": 10174,
@@ -46386,7 +46650,7 @@
     "walkingAnimation": 358
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1253,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -46974,7 +47238,7 @@
     "walkingAnimation": -1
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1250,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -47478,6 +47742,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Giant goblin",
+    "id": 12452,
+    "standingAnimation": 6181,
+    "walkingAnimation": 6180
+  },
+  {
     "name": "Trader Stan",
     "id": 9311,
     "standingAnimation": -1,
@@ -47892,7 +48162,7 @@
     "walkingAnimation": -1
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1255,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -48568,6 +48838,12 @@
     "id": 7311,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12500,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "Uglug Nar",
@@ -50358,6 +50634,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Dharok the Wretched",
+    "id": 12447,
+    "standingAnimation": 2065,
+    "walkingAnimation": 2064
+  },
+  {
     "name": "Trader Crewmember",
     "id": 9337,
     "standingAnimation": -1,
@@ -50464,6 +50746,12 @@
     "id": 4206,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12501,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "null",
@@ -50904,6 +51192,12 @@
     "walkingAnimation": 8843
   },
   {
+    "name": "Tail",
+    "id": 12436,
+    "standingAnimation": 10298,
+    "walkingAnimation": -1
+  },
+  {
     "name": "null",
     "id": 9206,
     "standingAnimation": 808,
@@ -50992,6 +51286,12 @@
     "id": 426,
     "standingAnimation": 1594,
     "walkingAnimation": 1593
+  },
+  {
+    "name": "Vitreous warped Jelly",
+    "id": 12457,
+    "standingAnimation": 1583,
+    "walkingAnimation": 1584
   },
   {
     "name": "Beaver",
@@ -52056,6 +52356,12 @@
     "walkingAnimation": 5181
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12492,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Palmer",
     "id": 3869,
     "standingAnimation": 4402,
@@ -52354,6 +52660,12 @@
     "id": 4625,
     "standingAnimation": 813,
     "walkingAnimation": 1205
+  },
+  {
+    "name": "Tail",
+    "id": 12438,
+    "standingAnimation": 10300,
+    "walkingAnimation": -1
   },
   {
     "name": "Dire Wolf",
@@ -53280,6 +53592,12 @@
     "walkingAnimation": 7728
   },
   {
+    "name": "Cute Creature",
+    "id": 12478,
+    "standingAnimation": 4472,
+    "walkingAnimation": 4473
+  },
+  {
     "name": "Captain Barnaby",
     "id": 9250,
     "standingAnimation": -1,
@@ -53608,6 +53926,12 @@
     "id": 6049,
     "standingAnimation": 101,
     "walkingAnimation": 98
+  },
+  {
+    "name": "Kree'arra",
+    "id": 12443,
+    "standingAnimation": 6976,
+    "walkingAnimation": 6977
   },
   {
     "name": "Bob",
@@ -53946,6 +54270,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "King Bolrie",
+    "id": 12471,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
+  },
+  {
     "name": "Cow calf",
     "id": 2801,
     "standingAnimation": 5852,
@@ -54246,6 +54576,12 @@
     "walkingAnimation": 6152
   },
   {
+    "name": "K'ril Tsutsaroth",
+    "id": 12446,
+    "standingAnimation": 6935,
+    "walkingAnimation": 4070
+  },
+  {
     "name": "Crondis",
     "id": 11659,
     "standingAnimation": 9532,
@@ -54460,6 +54796,12 @@
     "id": 2516,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "<col=00ffff>Small Monolith</col>",
+    "id": 12489,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "Derwen",
@@ -55944,6 +56286,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Justiciar Zachariah",
+    "id": 12449,
+    "standingAnimation": 7851,
+    "walkingAnimation": 7852
+  },
+  {
     "name": "Devin Mendelberg",
     "id": 4294,
     "standingAnimation": 808,
@@ -56504,6 +56852,12 @@
   {
     "name": "Frog prince",
     "id": 5434,
+    "standingAnimation": 808,
+    "walkingAnimation": 819
+  },
+  {
+    "name": "null",
+    "id": 12462,
     "standingAnimation": 808,
     "walkingAnimation": 819
   },
@@ -57738,7 +58092,7 @@
     "walkingAnimation": -1
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1252,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -58236,6 +58590,12 @@
     "walkingAnimation": 3210
   },
   {
+    "name": "null",
+    "id": 12509,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Undead Lumberjack",
     "id": 5668,
     "standingAnimation": 5973,
@@ -58462,6 +58822,12 @@
     "id": 6849,
     "standingAnimation": 6284,
     "walkingAnimation": 6284
+  },
+  {
+    "name": "Greater abyssal demon",
+    "id": 12451,
+    "standingAnimation": 1536,
+    "walkingAnimation": 1534
   },
   {
     "name": "Barge workman",
@@ -58894,6 +59260,12 @@
     "id": 7926,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Dagannoth Prime",
+    "id": 12442,
+    "standingAnimation": 2850,
+    "walkingAnimation": 2849
   },
   {
     "name": "Dwarven Miner",
@@ -59472,6 +59844,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12495,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "null",
     "id": 9235,
     "standingAnimation": 808,
@@ -59638,6 +60016,12 @@
     "id": 5073,
     "standingAnimation": -1,
     "walkingAnimation": 4790
+  },
+  {
+    "name": "<col=00ffff>Big Monolith</col>",
+    "id": 12486,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "Guard",
@@ -60402,7 +60786,7 @@
     "walkingAnimation": 6180
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1247,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -60448,6 +60832,12 @@
     "id": 8634,
     "standingAnimation": -1,
     "walkingAnimation": -1
+  },
+  {
+    "name": "null",
+    "id": 12505,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
   },
   {
     "name": "Cyrisus",
@@ -60528,7 +60918,7 @@
     "walkingAnimation": 8702
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1243,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -60670,6 +61060,12 @@
     "id": 4335,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Commander Zilyana",
+    "id": 12445,
+    "standingAnimation": 6966,
+    "walkingAnimation": 6965
   },
   {
     "name": "Mysterious Old Man",
@@ -62112,6 +62508,12 @@
     "walkingAnimation": 5181
   },
   {
+    "name": "Terrorbird Guard 21",
+    "id": 12480,
+    "standingAnimation": 10444,
+    "walkingAnimation": 10443
+  },
+  {
     "name": "Rift guardian",
     "id": 7362,
     "standingAnimation": 7307,
@@ -63306,7 +63708,7 @@
     "walkingAnimation": 819
   },
   {
-    "name": "Cute creature",
+    "name": "Cute Creature",
     "id": 1246,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -66348,6 +66750,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Warped Terrorbird",
+    "id": 12496,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Iron dragon",
     "id": 272,
     "standingAnimation": 90,
@@ -67056,6 +67464,12 @@
     "walkingAnimation": 819
   },
   {
+    "name": "Mutated Terrorbird",
+    "id": 12464,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
+  },
+  {
     "name": "Zulrah",
     "id": 2044,
     "standingAnimation": 5070,
@@ -67470,6 +67884,12 @@
     "walkingAnimation": 98
   },
   {
+    "name": "<col=00ffff>Big Monolith</col>",
+    "id": 12488,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
+  },
+  {
     "name": "Zanik",
     "id": 5148,
     "standingAnimation": 6040,
@@ -67630,6 +68050,12 @@
     "id": 129,
     "standingAnimation": 3617,
     "walkingAnimation": 3617
+  },
+  {
+    "name": "Warped Terrorbird",
+    "id": 12502,
+    "standingAnimation": 10450,
+    "walkingAnimation": 10451
   },
   {
     "name": "Schoolgirl",
@@ -68116,6 +68542,12 @@
     "id": 3834,
     "standingAnimation": 4756,
     "walkingAnimation": 4756
+  },
+  {
+    "name": "Evil Creature",
+    "id": 12479,
+    "standingAnimation": 4472,
+    "walkingAnimation": 4473
   },
   {
     "name": "Prifddinas guard",
@@ -69150,6 +69582,12 @@
     "walkingAnimation": 4700
   },
   {
+    "name": "Argenthorg",
+    "id": 12475,
+    "standingAnimation": 195,
+    "walkingAnimation": 189
+  },
+  {
     "name": "Sheep",
     "id": 5845,
     "standingAnimation": 5339,
@@ -69366,7 +69804,7 @@
     "walkingAnimation": 79
   },
   {
-    "name": "Evil creature",
+    "name": "Evil Creature",
     "id": 1256,
     "standingAnimation": -1,
     "walkingAnimation": -1
@@ -70452,6 +70890,12 @@
     "walkingAnimation": 189
   },
   {
+    "name": "Terrorbird Guard 72",
+    "id": 12483,
+    "standingAnimation": 10446,
+    "walkingAnimation": 10443
+  },
+  {
     "name": "Squire",
     "id": 10368,
     "standingAnimation": 5800,
@@ -71515,6 +71959,12 @@
   },
   {
     "name": "null",
+    "id": 12507,
+    "standingAnimation": 10444,
+    "walkingAnimation": 10443
+  },
+  {
+    "name": "null",
     "id": 10548,
     "standingAnimation": 813,
     "walkingAnimation": 1205
@@ -72448,6 +72898,12 @@
     "id": 10370,
     "standingAnimation": 808,
     "walkingAnimation": 819
+  },
+  {
+    "name": "Guard",
+    "id": 12460,
+    "standingAnimation": -1,
+    "walkingAnimation": -1
   },
   {
     "name": "Lisa",
