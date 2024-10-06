@@ -13,6 +13,12 @@
 	},
 	{
 		"name": "null",
+		"id": 14075,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
 		"id": 10346,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
@@ -216,6 +222,12 @@
 		"walkingAnimation": 5481
 	},
 	{
+		"name": "Guard",
+		"id": 13993,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Combat stone",
 		"id": 179,
 		"standingAnimation": -1,
@@ -226,6 +238,12 @@
 		"id": 9920,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Nasty Nick",
+		"id": 13911,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -456,6 +474,12 @@
 		"walkingAnimation": 2361
 	},
 	{
+		"name": "Fishing spot",
+		"id": 14038,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
+	},
+	{
 		"name": "Jessamine",
 		"id": 12865,
 		"standingAnimation": -1,
@@ -490,6 +514,12 @@
 		"id": 9940,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14101,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Evil Chicken",
@@ -672,10 +702,10 @@
 		"walkingAnimation": -1
 	},
 	{
-		"name": "<col=00ffff>Fire surge</col>",
+		"name": "<col=00ffff>Fire spell</col>",
 		"id": 13507,
-		"standingAnimation": 7856,
-		"walkingAnimation": 7856
+		"standingAnimation": 11456,
+		"walkingAnimation": 11456
 	},
 	{
 		"name": "Lord Iorwerth",
@@ -740,6 +770,12 @@
 	{
 		"name": "Duradel",
 		"id": 13622,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13735,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -894,6 +930,12 @@
 		"walkingAnimation": 1757
 	},
 	{
+		"name": "Frost Crab",
+		"id": 13789,
+		"standingAnimation": 1310,
+		"walkingAnimation": 1311
+	},
+	{
 		"name": "Miner",
 		"id": 6569,
 		"standingAnimation": 101,
@@ -1002,6 +1044,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13784,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 11393,
 		"standingAnimation": 6181,
@@ -1010,6 +1058,12 @@
 	{
 		"name": "Erodoeht",
 		"id": 9766,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14055,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -1224,6 +1278,18 @@
 		"walkingAnimation": 8613
 	},
 	{
+		"name": "Cleaner",
+		"id": 13880,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
+	},
+	{
+		"name": "Huberte",
+		"id": 14033,
+		"standingAnimation": 11732,
+		"walkingAnimation": 11733
+	},
+	{
 		"name": "Zombie",
 		"id": 3981,
 		"standingAnimation": 5572,
@@ -1344,10 +1410,10 @@
 		"walkingAnimation": 2396
 	},
 	{
-		"name": "Jack Frost",
+		"name": "Key Master",
 		"id": 12599,
-		"standingAnimation": 808,
-		"walkingAnimation": 819
+		"standingAnimation": 4519,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -1578,6 +1644,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14100,
+		"standingAnimation": 11751,
+		"walkingAnimation": 11752
+	},
+	{
 		"name": "Combat stone",
 		"id": 2734,
 		"standingAnimation": -1,
@@ -1702,6 +1774,12 @@
 		"id": 2563,
 		"standingAnimation": 4537,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Shopkeeper",
+		"id": 13913,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -1894,6 +1972,12 @@
 		"id": 3576,
 		"standingAnimation": 10120,
 		"walkingAnimation": 10121
+	},
+	{
+		"name": "Ichta",
+		"id": 13929,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Larry",
@@ -2169,6 +2253,12 @@
 		"name": "Thomdril",
 		"id": 5455,
 		"standingAnimation": 1321,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Manauia",
+		"id": 14007,
+		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
 	{
@@ -2694,6 +2784,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Gull",
+		"id": 14047,
+		"standingAnimation": 6771,
+		"walkingAnimation": 6773
+	},
+	{
 		"name": "Crondis",
 		"id": 11657,
 		"standingAnimation": 9534,
@@ -2886,6 +2982,12 @@
 		"walkingAnimation": 1205
 	},
 	{
+		"name": "<col=00ffff>Rubble</col>",
+		"id": 14018,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Tramp",
 		"id": 381,
 		"standingAnimation": 808,
@@ -2908,6 +3010,12 @@
 		"id": 6679,
 		"standingAnimation": 317,
 		"walkingAnimation": 314
+	},
+	{
+		"name": "Constantinius",
+		"id": 13845,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Skeleton",
@@ -3318,6 +3426,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Forebearer Janus",
+		"id": 13714,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Crust of ice",
 		"id": 3573,
 		"standingAnimation": -1,
@@ -3364,6 +3478,12 @@
 		"id": 2009,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Cave crawler",
+		"id": 13800,
+		"standingAnimation": 226,
+		"walkingAnimation": 225
 	},
 	{
 		"name": "Lux grub",
@@ -3546,6 +3666,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Villa Guard",
+		"id": 13871,
+		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Watchtower Wizard",
 		"id": 4397,
 		"standingAnimation": 808,
@@ -3556,6 +3682,12 @@
 		"id": 11322,
 		"standingAnimation": 6181,
 		"walkingAnimation": 6180
+	},
+	{
+		"name": "Salvager",
+		"id": 13975,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Zombie",
@@ -4236,6 +4368,12 @@
 		"walkingAnimation": 7327
 	},
 	{
+		"name": "Chiribaya",
+		"id": 13961,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Crocodile",
 		"id": 11741,
 		"standingAnimation": 480,
@@ -4452,6 +4590,12 @@
 		"walkingAnimation": 1380
 	},
 	{
+		"name": "Servius, Teokan of Ralos",
+		"id": 13694,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Slieve",
 		"id": 7653,
 		"standingAnimation": 808,
@@ -4608,6 +4752,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13748,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 12467,
 		"standingAnimation": -1,
@@ -4728,10 +4878,10 @@
 		"walkingAnimation": 10399
 	},
 	{
-		"name": "<col=00ffff>Wind surge</col>",
+		"name": "<col=00ffff>Wind spell</col>",
 		"id": 13508,
-		"standingAnimation": 7856,
-		"walkingAnimation": 7856
+		"standingAnimation": 11457,
+		"walkingAnimation": 11457
 	},
 	{
 		"name": "Reacher",
@@ -4754,6 +4904,12 @@
 	{
 		"name": "Iona",
 		"id": 8929,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Naiatli",
+		"id": 13838,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -4948,6 +5104,12 @@
 		"id": 275,
 		"standingAnimation": 90,
 		"walkingAnimation": 79
+	},
+	{
+		"name": "Butler",
+		"id": 13870,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Grave",
@@ -5190,6 +5352,12 @@
 		"walkingAnimation": 8428
 	},
 	{
+		"name": "Emissary Forebearer",
+		"id": 13753,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "White Knight",
 		"id": 11892,
 		"standingAnimation": 2561,
@@ -5230,6 +5398,12 @@
 		"id": 5587,
 		"standingAnimation": 317,
 		"walkingAnimation": 314
+	},
+	{
+		"name": "Head Butler",
+		"id": 13833,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -5370,6 +5544,12 @@
 		"walkingAnimation": 4700
 	},
 	{
+		"name": "Overseer Khougo",
+		"id": 13956,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Kaqemeex",
 		"id": 5045,
 		"standingAnimation": 808,
@@ -5416,6 +5596,12 @@
 		"id": 2567,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "null",
+		"id": 14099,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Sir Pelleas",
@@ -5602,6 +5788,12 @@
 		"id": 1334,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Dire Wolf",
+		"id": 13813,
+		"standingAnimation": 6580,
+		"walkingAnimation": 6556
 	},
 	{
 		"name": "Zombie",
@@ -5850,6 +6042,12 @@
 		"walkingAnimation": 4931
 	},
 	{
+		"name": "Citizen",
+		"id": 13888,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Rock Crab",
 		"id": 100,
 		"standingAnimation": 1310,
@@ -5956,6 +6154,12 @@
 		"id": 462,
 		"standingAnimation": 2774,
 		"walkingAnimation": 2775
+	},
+	{
+		"name": "Citizen",
+		"id": 13883,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Lesser demon",
@@ -6084,6 +6288,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Citizen",
+		"id": 13886,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Aubury",
 		"id": 10681,
 		"standingAnimation": 808,
@@ -6144,6 +6354,12 @@
 		"walkingAnimation": 6152
 	},
 	{
+		"name": "Vineyard worker",
+		"id": 13907,
+		"standingAnimation": 4193,
+		"walkingAnimation": 4194
+	},
+	{
 		"name": "Skeleton",
 		"id": 6468,
 		"standingAnimation": 5483,
@@ -6160,6 +6376,12 @@
 		"id": 12774,
 		"standingAnimation": 7634,
 		"walkingAnimation": 7634
+	},
+	{
+		"name": "Emelio",
+		"id": 13805,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "King Roald",
@@ -6220,6 +6442,12 @@
 		"id": 2891,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "Citizen",
+		"id": 13895,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Vampyre Juvinate",
@@ -6672,6 +6900,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14081,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
+	},
+	{
 		"name": "Captain Shoracks",
 		"id": 7178,
 		"standingAnimation": 195,
@@ -6820,6 +7054,12 @@
 		"id": 1639,
 		"standingAnimation": 6613,
 		"walkingAnimation": 6614
+	},
+	{
+		"name": "Salvager",
+		"id": 13976,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Wolf",
@@ -7032,6 +7272,12 @@
 		"walkingAnimation": 8150
 	},
 	{
+		"name": "Bone Squirrel",
+		"id": 14044,
+		"standingAnimation": 11662,
+		"walkingAnimation": 11663
+	},
+	{
 		"name": "Crystal impling",
 		"id": 8754,
 		"standingAnimation": 6613,
@@ -7078,6 +7324,18 @@
 		"id": 11426,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Amoxliatl",
+		"id": 13685,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
+	},
+	{
+		"name": "Broav",
+		"id": 13665,
+		"standingAnimation": 11232,
+		"walkingAnimation": 11234
 	},
 	{
 		"name": "Picaria",
@@ -7160,8 +7418,8 @@
 	{
 		"name": "Laidee Gnonock",
 		"id": 13614,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Other Half-Zombie",
@@ -7482,10 +7740,22 @@
 		"walkingAnimation": 8846
 	},
 	{
+		"name": "Chosen Aluinus",
+		"id": 13978,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "King Narnode Shareen",
 		"id": 8019,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Man",
+		"id": 13872,
+		"standingAnimation": 11576,
+		"walkingAnimation": 11576
 	},
 	{
 		"name": "Banker",
@@ -7594,6 +7864,12 @@
 		"id": 13516,
 		"standingAnimation": 11284,
 		"walkingAnimation": 11284
+	},
+	{
+		"name": "null",
+		"id": 13855,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
 	},
 	{
 		"name": "Ur-tag",
@@ -8070,6 +8346,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Worker",
+		"id": 14003,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Revenant pyrefiend",
 		"id": 7932,
 		"standingAnimation": 1578,
@@ -8442,6 +8724,12 @@
 		"walkingAnimation": 1146
 	},
 	{
+		"name": "Tzatelli",
+		"id": 13924,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Zombie protester",
 		"id": 610,
 		"standingAnimation": 5584,
@@ -8632,6 +8920,12 @@
 		"id": 5739,
 		"standingAnimation": 5094,
 		"walkingAnimation": 5095
+	},
+	{
+		"name": "Hutza",
+		"id": 13835,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -9108,6 +9402,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Citizen",
+		"id": 13896,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Turael",
 		"id": 13433,
 		"standingAnimation": 813,
@@ -9364,6 +9664,12 @@
 		"id": 9264,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Adala",
+		"id": 13820,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -9630,6 +9936,12 @@
 		"walkingAnimation": 808
 	},
 	{
+		"name": "Amoxliatl",
+		"id": 13689,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
+	},
+	{
 		"name": "Kualti",
 		"id": 11013,
 		"standingAnimation": 808,
@@ -9732,6 +10044,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Jaguar warrior",
+		"id": 13660,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Mistag",
 		"id": 7298,
 		"standingAnimation": 6040,
@@ -9758,6 +10076,12 @@
 	{
 		"name": "Captain Rimor",
 		"id": 7595,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emelio",
+		"id": 13804,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -9814,6 +10138,12 @@
 		"id": 8784,
 		"standingAnimation": 8372,
 		"walkingAnimation": 8372
+	},
+	{
+		"name": "Costumer",
+		"id": 13837,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Mithril dragon",
@@ -9950,6 +10280,12 @@
 	{
 		"name": "null",
 		"id": 9225,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Vineyard worker",
+		"id": 13906,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -10156,6 +10492,12 @@
 		"id": 5775,
 		"standingAnimation": 5410,
 		"walkingAnimation": 5409
+	},
+	{
+		"name": "null",
+		"id": 14058,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Financial Wizard",
@@ -10602,6 +10944,12 @@
 		"walkingAnimation": 6614
 	},
 	{
+		"name": "Minotaur",
+		"id": 13814,
+		"standingAnimation": 11581,
+		"walkingAnimation": 11582
+	},
+	{
 		"name": "Goblin",
 		"id": 2248,
 		"standingAnimation": 6186,
@@ -10660,6 +11008,12 @@
 		"id": 7194,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Bartender",
+		"id": 14020,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Infernal Mage",
@@ -10782,6 +11136,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 13919,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "<col=00ffff>Small boulder</col>",
 		"id": 7815,
 		"standingAnimation": -1,
@@ -10840,6 +11200,12 @@
 		"id": 6446,
 		"standingAnimation": 5483,
 		"walkingAnimation": 5481
+	},
+	{
+		"name": "null",
+		"id": 14016,
+		"standingAnimation": -1,
+		"walkingAnimation": 8687
 	},
 	{
 		"name": "Barbarian guard",
@@ -11202,6 +11568,12 @@
 		"walkingAnimation": 7306
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13730,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 13415,
 		"standingAnimation": 11092,
@@ -11217,6 +11589,12 @@
 		"name": "Lleidr Golau",
 		"id": 9177,
 		"standingAnimation": 623,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Salvager",
+		"id": 13973,
+		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
 	{
@@ -11616,6 +11994,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "Pavo",
+		"id": 13831,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Glough",
 		"id": 1425,
 		"standingAnimation": 195,
@@ -11820,6 +12204,12 @@
 		"walkingAnimation": 2184
 	},
 	{
+		"name": "null",
+		"id": 14091,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Vet'ion Jr.",
 		"id": 11987,
 		"standingAnimation": 5505,
@@ -11992,6 +12382,18 @@
 		"id": 12730,
 		"standingAnimation": 5572,
 		"walkingAnimation": 5570
+	},
+	{
+		"name": "Emissary",
+		"id": 13779,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13712,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "The Whisperer",
@@ -12870,6 +13272,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Capybara",
+		"id": 13957,
+		"standingAnimation": 10961,
+		"walkingAnimation": 10964
+	},
+	{
 		"name": "Johnathon",
 		"id": 5445,
 		"standingAnimation": 808,
@@ -13086,6 +13494,12 @@
 		"walkingAnimation": 3984
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13772,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Suspect",
 		"id": 5468,
 		"standingAnimation": 808,
@@ -13140,6 +13554,12 @@
 		"walkingAnimation": 8553
 	},
 	{
+		"name": "null",
+		"id": 13867,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
+	},
+	{
 		"name": "Husk",
 		"id": 9454,
 		"standingAnimation": 8562,
@@ -13162,6 +13582,12 @@
 		"id": 3286,
 		"standingAnimation": 166,
 		"walkingAnimation": 162
+	},
+	{
+		"name": "Frost Crab",
+		"id": 13791,
+		"standingAnimation": 1310,
+		"walkingAnimation": 1311
 	},
 	{
 		"name": "Captain Dalbur",
@@ -13278,6 +13704,12 @@
 		"walkingAnimation": 1205
 	},
 	{
+		"name": "Emissary Acolyte",
+		"id": 13763,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Camp dweller",
 		"id": 1380,
 		"standingAnimation": 808,
@@ -13354,6 +13786,12 @@
 		"id": 12781,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Cabbage Farmer",
+		"id": 13910,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Iorwerth Archer",
@@ -13698,6 +14136,12 @@
 		"walkingAnimation": 6560
 	},
 	{
+		"name": "Emissary Chosen",
+		"id": 13764,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 11421,
 		"standingAnimation": -1,
@@ -13776,6 +14220,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14061,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Movario",
 		"id": 13568,
 		"standingAnimation": 6075,
@@ -13798,6 +14248,12 @@
 		"id": 10667,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14090,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Defiler",
@@ -14358,6 +14814,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Supervisor Lalo",
+		"id": 13921,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Abyssal guardian",
 		"id": 11453,
 		"standingAnimation": 2185,
@@ -14552,6 +15014,12 @@
 	{
 		"name": "Alomone",
 		"id": 12092,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Shopkeeper",
+		"id": 14021,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -15198,6 +15666,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 13863,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
+	},
+	{
 		"name": "Zombie",
 		"id": 6456,
 		"standingAnimation": 5572,
@@ -15396,6 +15870,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14073,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Sister Sevi",
 		"id": 8274,
 		"standingAnimation": 808,
@@ -15552,6 +16032,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Clanila",
+		"id": 13923,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Penance Fighter",
 		"id": 5744,
 		"standingAnimation": 5094,
@@ -15696,10 +16182,28 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Stradius",
+		"id": 13849,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13938,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Winter Elemental",
 		"id": 5799,
 		"standingAnimation": 5803,
 		"walkingAnimation": 5802
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13729,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Phoenix",
@@ -15770,8 +16274,8 @@
 	{
 		"name": "null",
 		"id": 13647,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Archmage Sedridor",
@@ -15916,6 +16420,12 @@
 		"id": 7566,
 		"standingAnimation": 7416,
 		"walkingAnimation": 7411
+	},
+	{
+		"name": "Hueycoatl tail",
+		"id": 14014,
+		"standingAnimation": 11722,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Gnome Driver",
@@ -16236,6 +16746,12 @@
 		"walkingAnimation": 4913
 	},
 	{
+		"name": "Ezco, Teoki of Ranul",
+		"id": 14023,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Goblin",
 		"id": 11337,
 		"standingAnimation": 6181,
@@ -16288,6 +16804,12 @@
 		"id": 8732,
 		"standingAnimation": 2701,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Araxyte",
+		"id": 13667,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
 	},
 	{
 		"name": "null",
@@ -16394,6 +16916,12 @@
 	{
 		"name": "Mysterious Stranger",
 		"id": 10875,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13884,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -16524,6 +17052,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Pilgrim",
+		"id": 14022,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Sorebones",
 		"id": 561,
 		"standingAnimation": 5641,
@@ -16642,6 +17176,12 @@
 		"id": 6815,
 		"standingAnimation": 813,
 		"walkingAnimation": 1146
+	},
+	{
+		"name": "Clodius",
+		"id": 13839,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Ork",
@@ -16842,6 +17382,12 @@
 		"walkingAnimation": 5100
 	},
 	{
+		"name": "null",
+		"id": 14092,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Sleepwalker",
 		"id": 9802,
 		"standingAnimation": 2770,
@@ -16852,6 +17398,12 @@
 		"id": 7359,
 		"standingAnimation": 7307,
 		"walkingAnimation": 7306
+	},
+	{
+		"name": "Chasm Crawler",
+		"id": 14031,
+		"standingAnimation": 226,
+		"walkingAnimation": 225
 	},
 	{
 		"name": "Deathly ranger",
@@ -17044,6 +17596,12 @@
 		"id": 6727,
 		"standingAnimation": 155,
 		"walkingAnimation": 152
+	},
+	{
+		"name": "Ice warrior",
+		"id": 13802,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Maria Gunnars",
@@ -17250,6 +17808,12 @@
 		"walkingAnimation": 314
 	},
 	{
+		"name": "null",
+		"id": 14097,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Trader Crewmember",
 		"id": 9322,
 		"standingAnimation": -1,
@@ -17442,6 +18006,12 @@
 		"walkingAnimation": 4649
 	},
 	{
+		"name": "Fishing spot",
+		"id": 14040,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
+	},
+	{
 		"name": "Harrallak Menarous",
 		"id": 13432,
 		"standingAnimation": 9435,
@@ -17508,6 +18078,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13750,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Lil' Zik",
 		"id": 8337,
 		"standingAnimation": 8120,
@@ -17552,7 +18128,7 @@
 	{
 		"name": "Elite Dark Warrior",
 		"id": 13465,
-		"standingAnimation": 808,
+		"standingAnimation": 809,
 		"walkingAnimation": 819
 	},
 	{
@@ -17892,6 +18468,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Curator Haig Halen",
+		"id": 13816,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Museum guard",
 		"id": 1911,
 		"standingAnimation": 6464,
@@ -17932,6 +18514,12 @@
 		"id": 11439,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Butler",
+		"id": 13852,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
 	},
 	{
 		"name": "Undead Lumberjack",
@@ -18112,6 +18700,12 @@
 		"id": 5078,
 		"standingAnimation": 4825,
 		"walkingAnimation": 4779
+	},
+	{
+		"name": "Worm Tongue",
+		"id": 13982,
+		"standingAnimation": 11751,
+		"walkingAnimation": 11752
 	},
 	{
 		"name": "Fishing spot",
@@ -18348,6 +18942,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Amoxliatl",
+		"id": 13686,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
+	},
+	{
 		"name": "Crawling hand",
 		"id": 120,
 		"standingAnimation": -1,
@@ -18388,6 +18988,12 @@
 		"id": 6060,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Butler",
+		"id": 13862,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Portal",
@@ -18946,6 +19552,12 @@
 		"id": 6758,
 		"standingAnimation": 5182,
 		"walkingAnimation": 5181
+	},
+	{
+		"name": "Ice block",
+		"id": 13790,
+		"standingAnimation": 1315,
+		"walkingAnimation": 1311
 	},
 	{
 		"name": "Child",
@@ -19920,6 +20532,12 @@
 		"walkingAnimation": 98
 	},
 	{
+		"name": "The Hueycoatl",
+		"id": 14011,
+		"standingAnimation": 11672,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Gwallter",
 		"id": 9158,
 		"standingAnimation": 808,
@@ -20082,6 +20700,12 @@
 		"walkingAnimation": 6773
 	},
 	{
+		"name": "Emissary Fisher",
+		"id": 13759,
+		"standingAnimation": 623,
+		"walkingAnimation": 623
+	},
+	{
 		"name": "Dalal",
 		"id": 3349,
 		"standingAnimation": 808,
@@ -20170,6 +20794,12 @@
 		"id": 8359,
 		"standingAnimation": 8080,
 		"walkingAnimation": 8081
+	},
+	{
+		"name": "Frost Nagua",
+		"id": 13728,
+		"standingAnimation": 10999,
+		"walkingAnimation": 10991
 	},
 	{
 		"name": "<col=00ffff>Ice Totem</col>",
@@ -20580,6 +21210,12 @@
 		"walkingAnimation": 3108
 	},
 	{
+		"name": "Emissary Brawler",
+		"id": 13774,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Mountain Goat",
 		"id": 1385,
 		"standingAnimation": 5339,
@@ -20640,10 +21276,22 @@
 		"walkingAnimation": 6187
 	},
 	{
+		"name": "Frost Nagua",
+		"id": 13788,
+		"standingAnimation": 10999,
+		"walkingAnimation": 10991
+	},
+	{
 		"name": "Vampyre Juvinate",
 		"id": 5636,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14027,
+		"standingAnimation": 10945,
+		"walkingAnimation": 10947
 	},
 	{
 		"name": "null",
@@ -20910,6 +21558,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "null",
+		"id": 14074,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Banker",
 		"id": 10389,
 		"standingAnimation": 808,
@@ -21060,6 +21714,12 @@
 		"walkingAnimation": 7306
 	},
 	{
+		"name": "The Hueycoatl",
+		"id": 14010,
+		"standingAnimation": 11668,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Torcher",
 		"id": 1722,
 		"standingAnimation": 3878,
@@ -21152,6 +21812,12 @@
 	{
 		"name": "Gang boss",
 		"id": 6903,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14085,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -21540,6 +22206,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Techichi",
+		"id": 13959,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "null",
 		"id": 10024,
 		"standingAnimation": -1,
@@ -21678,6 +22350,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Cave crawler",
+		"id": 13801,
+		"standingAnimation": 226,
+		"walkingAnimation": 225
+	},
+	{
 		"name": "Molly",
 		"id": 366,
 		"standingAnimation": 808,
@@ -21808,6 +22486,12 @@
 		"id": 12628,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Egg",
+		"id": 13674,
+		"standingAnimation": 11507,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -21966,6 +22650,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "Worker",
+		"id": 14004,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 11459,
 		"standingAnimation": 808,
@@ -22088,6 +22778,12 @@
 	{
 		"name": "Vampyre Juvenile",
 		"id": 4437,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Forebearer",
+		"id": 13755,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -22234,6 +22930,12 @@
 		"id": 5101,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Cleaner",
+		"id": 13882,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
 	},
 	{
 		"name": "null",
@@ -22488,6 +23190,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14082,
+		"standingAnimation": 2770,
+		"walkingAnimation": 2769
+	},
+	{
 		"name": "Karam",
 		"id": 7172,
 		"standingAnimation": 1412,
@@ -22657,6 +23365,12 @@
 	},
 	{
 		"name": "null",
+		"id": 13859,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
+	},
+	{
+		"name": "null",
 		"id": 9208,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -22734,6 +23448,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14080,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
+	},
+	{
 		"name": "Dwarven Miner",
 		"id": 2436,
 		"standingAnimation": 101,
@@ -22780,6 +23500,12 @@
 		"id": 6113,
 		"standingAnimation": 2334,
 		"walkingAnimation": 2333
+	},
+	{
+		"name": "<col=00ffff>Unstable ice</col>",
+		"id": 13688,
+		"standingAnimation": 11030,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -22870,6 +23596,12 @@
 		"id": 10433,
 		"standingAnimation": 2074,
 		"walkingAnimation": 2076
+	},
+	{
+		"name": "Adrius",
+		"id": 13782,
+		"standingAnimation": 6464,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Corrupted Hunllef",
@@ -23196,6 +23928,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Seer",
+		"id": 14008,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Cave Scenery",
 		"id": 3339,
 		"standingAnimation": -1,
@@ -23418,6 +24156,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13707,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 4732,
 		"standingAnimation": 808,
@@ -23598,6 +24342,12 @@
 		"walkingAnimation": 6284
 	},
 	{
+		"name": "Smart-looking dog",
+		"id": 13842,
+		"standingAnimation": 6561,
+		"walkingAnimation": 6560
+	},
+	{
 		"name": "Ramarno",
 		"id": 10670,
 		"standingAnimation": 101,
@@ -23712,6 +24462,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Worker",
+		"id": 13955,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Bandit",
 		"id": 13285,
 		"standingAnimation": 808,
@@ -23748,10 +24504,22 @@
 		"walkingAnimation": 5570
 	},
 	{
+		"name": "Hazelmere",
+		"id": 13803,
+		"standingAnimation": 195,
+		"walkingAnimation": 189
+	},
+	{
 		"name": "Academic",
 		"id": 13299,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Egg",
+		"id": 13670,
+		"standingAnimation": 11507,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Vyrewatch",
@@ -23937,6 +24705,12 @@
 		"name": "Fadli",
 		"id": 3340,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Worker",
+		"id": 13952,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -24174,6 +24948,12 @@
 		"walkingAnimation": 4924
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13770,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Fishing spot",
 		"id": 2654,
 		"standingAnimation": 447,
@@ -24190,6 +24970,18 @@
 		"id": 12077,
 		"standingAnimation": 9913,
 		"walkingAnimation": 9914
+	},
+	{
+		"name": "Cleaner",
+		"id": 13875,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
+	},
+	{
+		"name": "null",
+		"id": 14095,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Crazy archaeologist",
@@ -24214,6 +25006,12 @@
 		"id": 4009,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Guard",
+		"id": 13935,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
 	},
 	{
 		"name": "Terrorbird Guard 21",
@@ -24432,6 +25230,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Butler",
+		"id": 13868,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
+	},
+	{
 		"name": "null",
 		"id": 9901,
 		"standingAnimation": -1,
@@ -24552,6 +25356,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "Techichi",
+		"id": 13958,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Meiyerditch citizen",
 		"id": 3799,
 		"standingAnimation": 808,
@@ -24573,6 +25383,12 @@
 		"name": "null",
 		"id": 1136,
 		"standingAnimation": 1728,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Thief",
+		"id": 13817,
+		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
 	{
@@ -25038,6 +25854,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13711,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 6403,
 		"standingAnimation": 808,
@@ -25114,6 +25936,12 @@
 		"id": 9696,
 		"standingAnimation": 8703,
 		"walkingAnimation": 8702
+	},
+	{
+		"name": "Citizen",
+		"id": 13937,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Robert the Strong",
@@ -25360,6 +26188,12 @@
 		"id": 10573,
 		"standingAnimation": 8896,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Citizen",
+		"id": 13940,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Vertida Sefalatis",
@@ -25686,6 +26520,12 @@
 		"walkingAnimation": 1205
 	},
 	{
+		"name": "Araxyte",
+		"id": 13666,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
+	},
+	{
 		"name": "<col=00ffff>Strange bush (Green)</col>",
 		"id": 12150,
 		"standingAnimation": -1,
@@ -25938,6 +26778,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Yolotli, Teoki of Ralos",
+		"id": 14024,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Cyclops",
 		"id": 2097,
 		"standingAnimation": 4650,
@@ -25992,6 +26838,18 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Guard",
+		"id": 13995,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14087,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Black Knight",
 		"id": 11953,
 		"standingAnimation": 808,
@@ -26014,6 +26872,12 @@
 		"id": 4596,
 		"standingAnimation": 317,
 		"walkingAnimation": 314
+	},
+	{
+		"name": "null",
+		"id": 13851,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
 	},
 	{
 		"name": "Ogre shaman",
@@ -26250,6 +27114,12 @@
 		"walkingAnimation": 2333
 	},
 	{
+		"name": "Emissary Chosen",
+		"id": 13742,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Idria",
 		"id": 13581,
 		"standingAnimation": 808,
@@ -26328,6 +27198,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Worker",
+		"id": 13950,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Nickolaus",
 		"id": 1483,
 		"standingAnimation": 845,
@@ -26403,6 +27279,12 @@
 		"name": "Mattimeo",
 		"id": 7787,
 		"standingAnimation": 4401,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14060,
+		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
 	{
@@ -26610,6 +27492,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Salvager",
+		"id": 13972,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Chaos Elemental",
 		"id": 2054,
 		"standingAnimation": 3144,
@@ -26728,6 +27616,12 @@
 		"id": 6006,
 		"standingAnimation": 6393,
 		"walkingAnimation": 6395
+	},
+	{
+		"name": "null",
+		"id": 14084,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Combat stone",
@@ -26952,7 +27846,7 @@
 		"walkingAnimation": 7306
 	},
 	{
-		"name": "Mac",
+		"name": "Jack Frost",
 		"id": 6481,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -27040,6 +27934,12 @@
 		"id": 12039,
 		"standingAnimation": 357,
 		"walkingAnimation": 358
+	},
+	{
+		"name": "The Hueycoatl",
+		"id": 14013,
+		"standingAnimation": 11668,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Screaming banshee",
@@ -27154,6 +28054,12 @@
 		"id": 492,
 		"standingAnimation": 3989,
 		"walkingAnimation": 3989
+	},
+	{
+		"name": "Guard",
+		"id": 13990,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
 	},
 	{
 		"name": "null",
@@ -27354,6 +28260,12 @@
 		"walkingAnimation": 5892
 	},
 	{
+		"name": "null",
+		"id": 14057,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Feral Vampyre",
 		"id": 3707,
 		"standingAnimation": 808,
@@ -27388,6 +28300,12 @@
 		"id": 10719,
 		"standingAnimation": 5483,
 		"walkingAnimation": 5481
+	},
+	{
+		"name": "Chef",
+		"id": 13998,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Rockslug",
@@ -27618,6 +28536,12 @@
 		"walkingAnimation": 5164
 	},
 	{
+		"name": "Emissary Acolyte",
+		"id": 13736,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Ali the Guard",
 		"id": 5960,
 		"standingAnimation": 808,
@@ -27718,6 +28642,12 @@
 		"id": 8396,
 		"standingAnimation": 6487,
 		"walkingAnimation": 6486
+	},
+	{
+		"name": "null",
+		"id": 14051,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Murcaily",
@@ -27886,6 +28816,12 @@
 		"id": 10250,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14062,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Fish",
@@ -28351,6 +29287,12 @@
 	},
 	{
 		"name": "null",
+		"id": 14094,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
 		"id": 11425,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
@@ -28536,6 +29478,12 @@
 		"walkingAnimation": 4683
 	},
 	{
+		"name": "Child",
+		"id": 13903,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Skotos",
 		"id": 7671,
 		"standingAnimation": 6935,
@@ -28662,6 +29610,12 @@
 		"walkingAnimation": 8281
 	},
 	{
+		"name": "Pavo",
+		"id": 13832,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "TzHaar-Hur-Zal",
 		"id": 7688,
 		"standingAnimation": 2603,
@@ -28722,6 +29676,12 @@
 		"walkingAnimation": 8121
 	},
 	{
+		"name": "Huberte",
+		"id": 14045,
+		"standingAnimation": 11732,
+		"walkingAnimation": 11733
+	},
+	{
 		"name": "King Sand Crab",
 		"id": 7266,
 		"standingAnimation": 1310,
@@ -28778,6 +29738,12 @@
 	{
 		"name": "Former Vampyre",
 		"id": 3701,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13768,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -28872,6 +29838,12 @@
 		"walkingAnimation": 4710
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13720,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Cornelius",
 		"id": 4470,
 		"standingAnimation": 808,
@@ -28898,6 +29870,12 @@
 	{
 		"name": "null",
 		"id": 1946,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Sergius",
+		"id": 13703,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -29196,6 +30174,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Citizen",
+		"id": 13897,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Bandit",
 		"id": 13289,
 		"standingAnimation": 808,
@@ -29430,6 +30414,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Necto",
+		"id": 13930,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "General Khazard",
 		"id": 3510,
 		"standingAnimation": 9874,
@@ -29544,10 +30534,22 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14093,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Scarab Mage",
 		"id": 11511,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "null",
+		"id": 14065,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Cave lizard",
@@ -29590,6 +30592,12 @@
 		"id": 4822,
 		"standingAnimation": 3424,
 		"walkingAnimation": 3426
+	},
+	{
+		"name": "null",
+		"id": 14064,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Guard",
@@ -29743,6 +30751,12 @@
 	},
 	{
 		"name": "null",
+		"id": 14026,
+		"standingAnimation": 10945,
+		"walkingAnimation": 10947
+	},
+	{
+		"name": "null",
 		"id": 1989,
 		"standingAnimation": -1,
 		"walkingAnimation": 5531
@@ -29758,6 +30772,12 @@
 		"id": 313,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13745,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Black bear",
@@ -29792,6 +30812,12 @@
 	{
 		"name": "Protester",
 		"id": 10898,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Ennius Tullus",
+		"id": 13719,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -29878,6 +30904,12 @@
 		"id": 8670,
 		"standingAnimation": 7663,
 		"walkingAnimation": 7664
+	},
+	{
+		"name": "Guard",
+		"id": 14000,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
 	},
 	{
 		"name": "The Nightmare",
@@ -30174,6 +31206,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14066,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Junior Navigator",
 		"id": 7764,
 		"standingAnimation": 808,
@@ -30310,6 +31348,12 @@
 		"id": 5283,
 		"standingAnimation": 1386,
 		"walkingAnimation": 1382
+	},
+	{
+		"name": "Cleaner",
+		"id": 13881,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
 	},
 	{
 		"name": "Ghost captain",
@@ -30642,6 +31686,12 @@
 		"walkingAnimation": 5531
 	},
 	{
+		"name": "Xocotla",
+		"id": 13830,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
+	},
+	{
 		"name": "Undead Lumberjack",
 		"id": 5706,
 		"standingAnimation": 5966,
@@ -30738,6 +31788,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Citizen",
+		"id": 13889,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9883,
 		"standingAnimation": -1,
@@ -30754,6 +31810,12 @@
 		"id": 7589,
 		"standingAnimation": 35,
 		"walkingAnimation": 29
+	},
+	{
+		"name": "Goat",
+		"id": 13760,
+		"standingAnimation": 5339,
+		"walkingAnimation": 5340
 	},
 	{
 		"name": "Vet'ion",
@@ -30837,6 +31899,12 @@
 		"name": "Citizen",
 		"id": 11549,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Seer",
+		"id": 13997,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -30978,6 +32046,12 @@
 		"walkingAnimation": 2165
 	},
 	{
+		"name": "null",
+		"id": 14069,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Penance Ranger",
 		"id": 5763,
 		"standingAnimation": 5393,
@@ -31012,6 +32086,12 @@
 		"id": 11698,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Construction Worker",
+		"id": 13983,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Citizen",
@@ -31098,7 +32178,7 @@
 		"walkingAnimation": 3825
 	},
 	{
-		"name": "Curator",
+		"name": "Curator Herminius",
 		"id": 13297,
 		"standingAnimation": 9494,
 		"walkingAnimation": 9494
@@ -31150,6 +32230,12 @@
 		"id": 9729,
 		"standingAnimation": 4768,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Guard",
+		"id": 13986,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Meiyerditch citizen",
@@ -31360,6 +32446,12 @@
 		"id": 9612,
 		"standingAnimation": 5986,
 		"walkingAnimation": 5987
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13710,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Vannaka",
@@ -31700,6 +32792,12 @@
 	{
 		"name": "Thorkel Silkbeard",
 		"id": 1899,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13708,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -32352,6 +33450,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Caritta",
+		"id": 13701,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Black demon",
 		"id": 1432,
 		"standingAnimation": 66,
@@ -32388,6 +33492,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Butler",
+		"id": 13854,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
+	},
+	{
 		"name": "Veliaf Hurtz",
 		"id": 9524,
 		"standingAnimation": 808,
@@ -32396,6 +33506,12 @@
 	{
 		"name": "Academic",
 		"id": 13298,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Antonia",
+		"id": 13984,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -32488,6 +33604,12 @@
 		"id": 5905,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 13857,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Lahsram",
@@ -32598,6 +33720,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Eleuia",
+		"id": 13783,
+		"standingAnimation": 6464,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Combat stone",
 		"id": 5115,
 		"standingAnimation": -1,
@@ -32694,6 +33822,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Mirrorback Araxyte",
+		"id": 13671,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
+	},
+	{
 		"name": "Jubbly bird",
 		"id": 4864,
 		"standingAnimation": 6807,
@@ -32776,6 +33910,12 @@
 		"id": 9218,
 		"standingAnimation": 66,
 		"walkingAnimation": 63
+	},
+	{
+		"name": "Child",
+		"id": 13944,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Melzar the Mad",
@@ -33102,6 +34242,12 @@
 		"walkingAnimation": 1380
 	},
 	{
+		"name": "Brutal blue dragon",
+		"id": 13795,
+		"standingAnimation": 90,
+		"walkingAnimation": 79
+	},
+	{
 		"name": "Baby Chinchompa",
 		"id": 6718,
 		"standingAnimation": 5182,
@@ -33220,6 +34366,12 @@
 		"id": 5143,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Araxxor",
+		"id": 13668,
+		"standingAnimation": 11473,
+		"walkingAnimation": 11474
 	},
 	{
 		"name": "Butterfly",
@@ -33352,6 +34504,12 @@
 		"id": 236,
 		"standingAnimation": 362,
 		"walkingAnimation": 362
+	},
+	{
+		"name": "Citizen",
+		"id": 13942,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Trader Crewmember",
@@ -33822,6 +34980,12 @@
 		"walkingAnimation": 4913
 	},
 	{
+		"name": "null",
+		"id": 13874,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
+	},
+	{
 		"name": "Choke devil",
 		"id": 7404,
 		"standingAnimation": 1556,
@@ -33892,6 +35056,12 @@
 		"id": 29,
 		"standingAnimation": 5565,
 		"walkingAnimation": 5566
+	},
+	{
+		"name": "Forebearer Vulcan",
+		"id": 13727,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Earth warrior",
@@ -34066,6 +35236,12 @@
 		"id": 640,
 		"standingAnimation": 1474,
 		"walkingAnimation": 283
+	},
+	{
+		"name": "Durial321",
+		"id": 13662,
+		"standingAnimation": 808,
+		"walkingAnimation": 1660
 	},
 	{
 		"name": "Goblin",
@@ -34422,6 +35598,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Emissary Chosen",
+		"id": 13740,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Trader Stan",
 		"id": 12782,
 		"standingAnimation": -1,
@@ -34686,6 +35868,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Unicorn",
+		"id": 14043,
+		"standingAnimation": 6374,
+		"walkingAnimation": 6373
+	},
+	{
 		"name": "null",
 		"id": 10189,
 		"standingAnimation": -1,
@@ -34752,6 +35940,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14063,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Guard",
 		"id": 1548,
 		"standingAnimation": 808,
@@ -34762,6 +35956,12 @@
 		"id": 5835,
 		"standingAnimation": 112,
 		"walkingAnimation": 106
+	},
+	{
+		"name": "Vineyard foreman",
+		"id": 13908,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Broken Handz",
@@ -34812,6 +36012,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Techichi",
+		"id": 13960,
+		"standingAnimation": 6561,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Phosani's Nightmare",
 		"id": 9421,
 		"standingAnimation": 8593,
@@ -34852,6 +36058,12 @@
 		"id": 4939,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "null",
+		"id": 14067,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -35214,6 +36426,12 @@
 		"walkingAnimation": 1146
 	},
 	{
+		"name": "Emissary Brawler",
+		"id": 13773,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Ice giant",
 		"id": 2089,
 		"standingAnimation": 4670,
@@ -35365,6 +36583,12 @@
 	},
 	{
 		"name": "null",
+		"id": 13869,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
+	},
+	{
+		"name": "null",
 		"id": 744,
 		"standingAnimation": 4986,
 		"walkingAnimation": 283
@@ -35458,6 +36682,12 @@
 		"id": 5232,
 		"standingAnimation": 813,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Ice giant",
+		"id": 13796,
+		"standingAnimation": 4670,
+		"walkingAnimation": 4669
 	},
 	{
 		"name": "Crypt spider",
@@ -35682,6 +36912,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13706,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Kalphite Soldier",
 		"id": 138,
 		"standingAnimation": 6218,
@@ -35838,6 +37074,12 @@
 		"walkingAnimation": 104
 	},
 	{
+		"name": "Butler",
+		"id": 13858,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
+	},
+	{
 		"name": "Spice seller",
 		"id": 8726,
 		"standingAnimation": 808,
@@ -35982,6 +37224,12 @@
 		"walkingAnimation": 4669
 	},
 	{
+		"name": "Adala",
+		"id": 13821,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Pig",
 		"id": 2796,
 		"standingAnimation": 2166,
@@ -36060,6 +37308,12 @@
 		"walkingAnimation": 10009
 	},
 	{
+		"name": "Emissary Acolyte",
+		"id": 13732,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Hengel",
 		"id": 3284,
 		"standingAnimation": 808,
@@ -36088,6 +37342,12 @@
 		"id": 5184,
 		"standingAnimation": 6040,
 		"walkingAnimation": 6041
+	},
+	{
+		"name": "Pavo",
+		"id": 13848,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Mernia",
@@ -36184,6 +37444,12 @@
 		"id": 7994,
 		"standingAnimation": 808,
 		"walkingAnimation": 808
+	},
+	{
+		"name": "Worm Tongue",
+		"id": 13981,
+		"standingAnimation": 11751,
+		"walkingAnimation": 11752
 	},
 	{
 		"name": "Lokar Searunner",
@@ -36780,6 +38046,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Cerberus",
+		"id": 13657,
+		"standingAnimation": 4484,
+		"walkingAnimation": 4488
+	},
+	{
 		"name": "Zombie pirate",
 		"id": 13489,
 		"standingAnimation": 5565,
@@ -36816,6 +38088,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Worker",
+		"id": 14025,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Father Aereck",
 		"id": 2812,
 		"standingAnimation": 808,
@@ -36832,6 +38110,12 @@
 		"id": 3146,
 		"standingAnimation": 208,
 		"walkingAnimation": 208
+	},
+	{
+		"name": "Patzi",
+		"id": 13819,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "H.A.M. Member",
@@ -37004,6 +38288,12 @@
 	{
 		"name": "Master smithing tutor",
 		"id": 3225,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14076,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -37192,6 +38482,24 @@
 		"id": 12649,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Amoxliatl",
+		"id": 13687,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
+	},
+	{
+		"name": "Citizen",
+		"id": 13898,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Ruptura Araxyte",
+		"id": 13673,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
 	},
 	{
 		"name": "null",
@@ -37410,6 +38718,12 @@
 		"walkingAnimation": 283
 	},
 	{
+		"name": "Emissary Forebearer",
+		"id": 13754,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Berry",
 		"id": 4134,
 		"standingAnimation": 1159,
@@ -37462,6 +38776,12 @@
 		"id": 6812,
 		"standingAnimation": 1386,
 		"walkingAnimation": 1380
+	},
+	{
+		"name": "Dire Wolf Alpha",
+		"id": 13812,
+		"standingAnimation": 6580,
+		"walkingAnimation": 11753
 	},
 	{
 		"name": "null",
@@ -37560,6 +38880,12 @@
 		"walkingAnimation": 283
 	},
 	{
+		"name": "Emissary Forebearer",
+		"id": 13752,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 10064,
 		"standingAnimation": -1,
@@ -37592,6 +38918,12 @@
 	{
 		"name": "GPDT employee",
 		"id": 5313,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Cozyac",
+		"id": 13828,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -37690,6 +39022,12 @@
 		"id": 1344,
 		"standingAnimation": 5202,
 		"walkingAnimation": 5284
+	},
+	{
+		"name": "Marla",
+		"id": 13999,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Fishing spot",
@@ -38058,6 +39396,12 @@
 		"walkingAnimation": 6774
 	},
 	{
+		"name": "Egg",
+		"id": 13672,
+		"standingAnimation": 11507,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Santiri",
 		"id": 2357,
 		"standingAnimation": 101,
@@ -38188,6 +39532,12 @@
 		"id": 3017,
 		"standingAnimation": 5326,
 		"walkingAnimation": 5325
+	},
+	{
+		"name": "Citizen",
+		"id": 13894,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Sleepwalker",
@@ -38472,6 +39822,12 @@
 		"walkingAnimation": 283
 	},
 	{
+		"name": "Nid",
+		"id": 13683,
+		"standingAnimation": 11473,
+		"walkingAnimation": 11474
+	},
+	{
 		"name": "Bernald",
 		"id": 1389,
 		"standingAnimation": 808,
@@ -38574,7 +39930,7 @@
 		"walkingAnimation": 21
 	},
 	{
-		"name": "Patchy",
+		"name": "Mac",
 		"id": 1053,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -38774,6 +40130,12 @@
 	{
 		"name": "Guild Hunter Ornus (Adept)",
 		"id": 13122,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Salvager",
+		"id": 13974,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -39132,6 +40494,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "Alba",
+		"id": 13807,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 4548,
 		"standingAnimation": 808,
@@ -39300,6 +40668,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Citizen",
+		"id": 13893,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "General Khazard",
 		"id": 12026,
 		"standingAnimation": 9874,
@@ -39346,6 +40720,12 @@
 		"id": 9561,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14035,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
 	},
 	{
 		"name": "Capybara",
@@ -39732,6 +41112,18 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14086,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Taala",
+		"id": 13996,
+		"standingAnimation": 6386,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Tz-Kih",
 		"id": 2190,
 		"standingAnimation": 2618,
@@ -39816,6 +41208,12 @@
 		"walkingAnimation": 5334
 	},
 	{
+		"name": "null",
+		"id": 14019,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Dondakan the Dwarf",
 		"id": 4890,
 		"standingAnimation": -1,
@@ -39888,7 +41286,7 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Spider",
+		"name": "Araxyte",
 		"id": 11176,
 		"standingAnimation": 9137,
 		"walkingAnimation": 9138
@@ -40034,6 +41432,12 @@
 	{
 		"name": "Civilian",
 		"id": 3506,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13725,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -40282,6 +41686,12 @@
 		"id": 11917,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Livius</col>",
+		"id": 13873,
+		"standingAnimation": 11576,
+		"walkingAnimation": 11576
 	},
 	{
 		"name": "Trader Crewmember",
@@ -40782,6 +42192,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Chiribaya",
+		"id": 13964,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Brundt the Chieftain",
 		"id": 8145,
 		"standingAnimation": 808,
@@ -40962,8 +42378,20 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Fishing spot",
+		"id": 14041,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
+	},
+	{
 		"name": "Black Knight",
 		"id": 4934,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Stradius",
+		"id": 13834,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -41118,6 +42546,12 @@
 		"walkingAnimation": 2623
 	},
 	{
+		"name": "Salius",
+		"id": 13970,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 10181,
 		"standingAnimation": -1,
@@ -41128,6 +42562,12 @@
 		"id": 7908,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 13841,
+		"standingAnimation": 6561,
+		"walkingAnimation": 6560
 	},
 	{
 		"name": "Suspect",
@@ -41208,6 +42648,12 @@
 		"walkingAnimation": 808
 	},
 	{
+		"name": "Ice block",
+		"id": 13792,
+		"standingAnimation": 1315,
+		"walkingAnimation": 1311
+	},
+	{
 		"name": "Zombie",
 		"id": 44,
 		"standingAnimation": 5572,
@@ -41286,6 +42732,12 @@
 		"walkingAnimation": 5095
 	},
 	{
+		"name": "Ercos",
+		"id": 14030,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 10109,
 		"standingAnimation": -1,
@@ -41308,6 +42760,12 @@
 		"id": 1798,
 		"standingAnimation": 2561,
 		"walkingAnimation": 2562
+	},
+	{
+		"name": "Hutza",
+		"id": 13850,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Elite Dark Ranger",
@@ -41620,6 +43078,12 @@
 		"id": 1138,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Ice giant",
+		"id": 13797,
+		"standingAnimation": 4670,
+		"walkingAnimation": 4669
 	},
 	{
 		"name": "Regulus Cento",
@@ -42006,6 +43470,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Worker",
+		"id": 14006,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Neferti the Camel",
 		"id": 5955,
 		"standingAnimation": 51,
@@ -42022,6 +43492,12 @@
 		"id": 10885,
 		"standingAnimation": 5565,
 		"walkingAnimation": 5566
+	},
+	{
+		"name": "Forebearer Vulcan",
+		"id": 13726,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Silver Cog Director",
@@ -42070,6 +43546,12 @@
 		"id": 5189,
 		"standingAnimation": 101,
 		"walkingAnimation": 98
+	},
+	{
+		"name": "Fishing spot",
+		"id": 14037,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
 	},
 	{
 		"name": "Zombie",
@@ -42624,6 +44106,12 @@
 		"walkingAnimation": 6005
 	},
 	{
+		"name": "Patzi",
+		"id": 13844,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Goblin",
 		"id": 11323,
 		"standingAnimation": 6181,
@@ -42780,6 +44268,12 @@
 		"walkingAnimation": 1289
 	},
 	{
+		"name": "Bone Squirrel",
+		"id": 14032,
+		"standingAnimation": 11662,
+		"walkingAnimation": 11663
+	},
+	{
 		"name": "null",
 		"id": 7547,
 		"standingAnimation": -1,
@@ -42814,6 +44308,12 @@
 		"id": 9330,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14070,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Guard",
@@ -42868,6 +44368,12 @@
 		"id": 3910,
 		"standingAnimation": 6374,
 		"walkingAnimation": 6373
+	},
+	{
+		"name": "Antonius",
+		"id": 13916,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -42960,6 +44466,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Xocotla",
+		"id": 13847,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
+	},
+	{
 		"name": "Guard",
 		"id": 6056,
 		"standingAnimation": 808,
@@ -42994,6 +44506,12 @@
 		"id": 7105,
 		"standingAnimation": 357,
 		"walkingAnimation": 358
+	},
+	{
+		"name": "Guard",
+		"id": 13994,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Pirate",
@@ -43104,6 +44622,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14098,
+		"standingAnimation": 11576,
+		"walkingAnimation": 11576
+	},
+	{
 		"name": "TzHaar-Mej-Dir",
 		"id": 7680,
 		"standingAnimation": 2604,
@@ -43180,6 +44704,12 @@
 		"id": 1769,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "null",
+		"id": 14052,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Combat stone",
@@ -43302,6 +44832,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Lucas",
+		"id": 13808,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "King Gjuki Sorvott IV",
 		"id": 1897,
 		"standingAnimation": 808,
@@ -43360,6 +44896,12 @@
 		"id": 1937,
 		"standingAnimation": 6457,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Shopkeeper",
+		"id": 13969,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -43554,6 +45096,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Blue dragon",
+		"id": 13793,
+		"standingAnimation": 90,
+		"walkingAnimation": 79
+	},
+	{
 		"name": "null",
 		"id": 11788,
 		"standingAnimation": -1,
@@ -43596,6 +45144,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Emissary Chosen",
+		"id": 13739,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Elissa",
 		"id": 5138,
 		"standingAnimation": 808,
@@ -43634,6 +45188,12 @@
 	{
 		"name": "null",
 		"id": 11115,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13713,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -43786,6 +45346,12 @@
 		"id": 5236,
 		"standingAnimation": 4318,
 		"walkingAnimation": 4319
+	},
+	{
+		"name": "Citizen",
+		"id": 13943,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -44124,6 +45690,12 @@
 		"walkingAnimation": 4075
 	},
 	{
+		"name": "Baby blue dragon",
+		"id": 13794,
+		"standingAnimation": 27,
+		"walkingAnimation": 21
+	},
+	{
 		"name": "Dwarf",
 		"id": 5172,
 		"standingAnimation": 101,
@@ -44388,6 +45960,12 @@
 		"walkingAnimation": 5150
 	},
 	{
+		"name": "Citizen",
+		"id": 13890,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 11877,
 		"standingAnimation": 808,
@@ -44404,6 +45982,12 @@
 		"id": 5002,
 		"standingAnimation": 3584,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Emissary Forebearer",
+		"id": 13757,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Cat",
@@ -44496,6 +46080,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Constantinius",
+		"id": 13826,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "TzHaar-Mej-Roh",
 		"id": 2185,
 		"standingAnimation": 2604,
@@ -44584,6 +46174,12 @@
 		"id": 809,
 		"standingAnimation": 1137,
 		"walkingAnimation": 1323
+	},
+	{
+		"name": "Banker",
+		"id": 13931,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "<col=00ffff>Strange bush (Red)</col>",
@@ -44776,6 +46372,12 @@
 		"id": 12882,
 		"standingAnimation": 11092,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 13865,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Zombie",
@@ -45008,6 +46610,12 @@
 	{
 		"name": "Phileas Rimor",
 		"id": 10991,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Hutza",
+		"id": 13836,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -45276,6 +46884,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14056,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Black dragon",
 		"id": 252,
 		"standingAnimation": 90,
@@ -45295,9 +46909,21 @@
 	},
 	{
 		"name": "null",
+		"id": 14071,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
 		"id": 7824,
 		"standingAnimation": 7728,
 		"walkingAnimation": 7728
+	},
+	{
+		"name": "Prince Itzla Arkan",
+		"id": 13692,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Lord Ieuan Amlodd",
@@ -45358,6 +46984,12 @@
 		"id": 2288,
 		"standingAnimation": 6040,
 		"walkingAnimation": 6041
+	},
+	{
+		"name": "null",
+		"id": 14088,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Odd Old Man",
@@ -45504,6 +47136,12 @@
 		"walkingAnimation": 3738
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13691,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Knight of Saradomin",
 		"id": 2214,
 		"standingAnimation": 808,
@@ -45622,6 +47260,18 @@
 		"id": 8100,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Furia Tullus",
+		"id": 13718,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Chosen",
+		"id": 13738,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Crocodile",
@@ -45802,6 +47452,12 @@
 		"id": 6519,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Xocotla",
+		"id": 13829,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
 	},
 	{
 		"name": "<col=00ffff>Flower</col>",
@@ -46314,6 +47970,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Salvager",
+		"id": 13971,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Feral Vampyre",
 		"id": 5641,
 		"standingAnimation": 808,
@@ -46610,6 +48272,12 @@
 	{
 		"name": "Lord Kandur Hosidius",
 		"id": 11033,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13901,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -47106,6 +48774,12 @@
 		"walkingAnimation": 8152
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13749,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Wounded soldier",
 		"id": 6834,
 		"standingAnimation": 6282,
@@ -47256,6 +48930,18 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Guard",
+		"id": 13934,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
+	},
+	{
+		"name": "Vineyard worker",
+		"id": 13904,
+		"standingAnimation": 4193,
+		"walkingAnimation": 4194
+	},
+	{
 		"name": "Fidelio",
 		"id": 6525,
 		"standingAnimation": 808,
@@ -47264,6 +48950,12 @@
 	{
 		"name": "Miriel",
 		"id": 9054,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Kualti",
+		"id": 13699,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -47294,6 +48986,12 @@
 	{
 		"name": "Former Vampyre",
 		"id": 3706,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Kualti",
+		"id": 13696,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -47374,6 +49072,12 @@
 		"id": 2787,
 		"standingAnimation": 5335,
 		"walkingAnimation": 5334
+	},
+	{
+		"name": "Thermonuclear smoke devil",
+		"id": 13659,
+		"standingAnimation": 1829,
+		"walkingAnimation": 1828
 	},
 	{
 		"name": "Captain Donnie",
@@ -47482,6 +49186,12 @@
 		"id": 7921,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Cleaner",
+		"id": 13877,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
 	},
 	{
 		"name": "Sammy Servil",
@@ -47826,6 +49536,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Cleaner",
+		"id": 13879,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
+	},
+	{
 		"name": "Monkey guard",
 		"id": 7122,
 		"standingAnimation": 1386,
@@ -48000,6 +49716,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13744,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9862,
 		"standingAnimation": -1,
@@ -48082,6 +49804,12 @@
 		"id": 844,
 		"standingAnimation": 5668,
 		"walkingAnimation": 5666
+	},
+	{
+		"name": "Prince Itzla Arkan",
+		"id": 13785,
+		"standingAnimation": 11559,
+		"walkingAnimation": 11559
 	},
 	{
 		"name": "Olaf the Bard",
@@ -48190,6 +49918,12 @@
 		"id": 9075,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Minotaur",
+		"id": 13815,
+		"standingAnimation": 11581,
+		"walkingAnimation": 11582
 	},
 	{
 		"name": "null",
@@ -48576,6 +50310,12 @@
 		"walkingAnimation": 7006
 	},
 	{
+		"name": "Silia",
+		"id": 13781,
+		"standingAnimation": 6464,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Trader Crewmember",
 		"id": 12639,
 		"standingAnimation": -1,
@@ -48618,6 +50358,12 @@
 		"walkingAnimation": 2396
 	},
 	{
+		"name": "Supervisor Lalo",
+		"id": 13920,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Tenzing",
 		"id": 4094,
 		"standingAnimation": 813,
@@ -48628,6 +50374,12 @@
 		"id": 11993,
 		"standingAnimation": 9965,
 		"walkingAnimation": 9967
+	},
+	{
+		"name": "Worker",
+		"id": 13953,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Squire",
@@ -49368,6 +51120,12 @@
 		"walkingAnimation": 6531
 	},
 	{
+		"name": "Emissary Brawler",
+		"id": 13775,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Damien Leucurte",
 		"id": 9774,
 		"standingAnimation": 8048,
@@ -49476,6 +51234,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Salvager",
+		"id": 13977,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Knight of Varlamore",
 		"id": 13115,
 		"standingAnimation": 808,
@@ -49496,6 +51260,12 @@
 	{
 		"name": "Charlie Brown",
 		"id": 7015,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Cozyac",
+		"id": 13827,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -49544,6 +51314,12 @@
 	{
 		"name": "Dark warrior",
 		"id": 11110,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14049,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -50148,6 +51924,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Rax",
+		"id": 13682,
+		"standingAnimation": 8340,
+		"walkingAnimation": 9139
+	},
+	{
 		"name": "null",
 		"id": 4191,
 		"standingAnimation": 808,
@@ -50280,6 +52062,12 @@
 		"walkingAnimation": 98
 	},
 	{
+		"name": "Felius",
+		"id": 13700,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Ice troll female",
 		"id": 1876,
 		"standingAnimation": 286,
@@ -50288,6 +52076,12 @@
 	{
 		"name": "Cyrisus",
 		"id": 13436,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Lucrezia",
+		"id": 14029,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -50606,6 +52400,18 @@
 	{
 		"name": "Fingon",
 		"id": 9079,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Guard",
+		"id": 13987,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "Emissary Forebearer",
+		"id": 13756,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -50952,6 +52758,12 @@
 		"walkingAnimation": 98
 	},
 	{
+		"name": "Seer",
+		"id": 13876,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Knight of Varlamore",
 		"id": 12655,
 		"standingAnimation": 808,
@@ -51052,6 +52864,12 @@
 		"id": 6500,
 		"standingAnimation": 6239,
 		"walkingAnimation": 6238
+	},
+	{
+		"name": "Emissary Brawler",
+		"id": 13776,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Hangman game",
@@ -51492,6 +53310,12 @@
 		"walkingAnimation": 274
 	},
 	{
+		"name": "Cleaner",
+		"id": 13878,
+		"standingAnimation": 5800,
+		"walkingAnimation": 5799
+	},
+	{
 		"name": "Sir Tristram",
 		"id": 3523,
 		"standingAnimation": 808,
@@ -51912,6 +53736,12 @@
 		"walkingAnimation": 5570
 	},
 	{
+		"name": "Juatil",
+		"id": 13925,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Mother",
 		"id": 8425,
 		"standingAnimation": 8154,
@@ -52062,10 +53892,10 @@
 		"walkingAnimation": 63
 	},
 	{
-		"name": "<col=00ffff>Water surge</col>",
+		"name": "<col=00ffff>Water spell</col>",
 		"id": 13506,
-		"standingAnimation": 7856,
-		"walkingAnimation": 7856
+		"standingAnimation": 11458,
+		"walkingAnimation": 11458
 	},
 	{
 		"name": "Ellie",
@@ -52386,6 +54216,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13690,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Grizzly bear",
 		"id": 3423,
 		"standingAnimation": 4919,
@@ -52486,6 +54322,12 @@
 		"id": 12761,
 		"standingAnimation": 10726,
 		"walkingAnimation": 5566
+	},
+	{
+		"name": "Alaxxi",
+		"id": 13926,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Funbo",
@@ -53358,6 +55200,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Woofson",
+		"id": 13966,
+		"standingAnimation": 7270,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Gertrude's cat",
 		"id": 1010,
 		"standingAnimation": 317,
@@ -53772,6 +55620,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Rod Fishing spot",
+		"id": 14036,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
+	},
+	{
 		"name": "Coenus",
 		"id": 11576,
 		"standingAnimation": 808,
@@ -53803,6 +55657,12 @@
 	},
 	{
 		"name": "null",
+		"id": 14054,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
 		"id": 7833,
 		"standingAnimation": 7688,
 		"walkingAnimation": -1
@@ -53812,6 +55672,12 @@
 		"id": 4858,
 		"standingAnimation": 3473,
 		"walkingAnimation": 3474
+	},
+	{
+		"name": "Araxxor",
+		"id": 13669,
+		"standingAnimation": 11485,
+		"walkingAnimation": 11485
 	},
 	{
 		"name": "Mammoth",
@@ -54055,7 +55921,19 @@
 	},
 	{
 		"name": "Citizen",
+		"id": 13900,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
 		"id": 13202,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Vincens",
+		"id": 13810,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -54276,6 +56154,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "TzTok-Jad",
+		"id": 13661,
+		"standingAnimation": 2650,
+		"walkingAnimation": 2651
+	},
+	{
 		"name": "The Nightmare",
 		"id": 9460,
 		"standingAnimation": 8582,
@@ -54318,6 +56202,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14083,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Target",
 		"id": 4764,
 		"standingAnimation": -1,
@@ -54352,6 +56242,12 @@
 		"id": 5175,
 		"standingAnimation": 101,
 		"walkingAnimation": 98
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13724,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Ghost",
@@ -55056,6 +56952,12 @@
 		"walkingAnimation": 2632
 	},
 	{
+		"name": "Wandering Guard",
+		"id": 13840,
+		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9942,
 		"standingAnimation": -1,
@@ -55140,6 +57042,12 @@
 		"walkingAnimation": 7997
 	},
 	{
+		"name": "Citizen",
+		"id": 13899,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Historian Minas",
 		"id": 1902,
 		"standingAnimation": 6393,
@@ -55162,6 +57070,12 @@
 		"id": 2116,
 		"standingAnimation": 1673,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Forebearer Fides",
+		"id": 13716,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Black Guard Berserker",
@@ -55220,6 +57134,12 @@
 	{
 		"name": "Mugger",
 		"id": 13282,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Kualti",
+		"id": 13697,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -55674,6 +57594,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Forebearer Janus",
+		"id": 13766,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "White Knight",
 		"id": 1800,
 		"standingAnimation": 2561,
@@ -55786,6 +57712,12 @@
 		"id": 5036,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Goat",
+		"id": 13761,
+		"standingAnimation": 5339,
+		"walkingAnimation": 5340
 	},
 	{
 		"name": "Guard",
@@ -55908,6 +57840,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Acidic Araxyte",
+		"id": 13675,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
+	},
+	{
 		"name": "null",
 		"id": 6783,
 		"standingAnimation": 808,
@@ -55940,6 +57878,12 @@
 	{
 		"name": "Bartender",
 		"id": 1319,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Colosseum Announcer",
+		"id": 13811,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -56062,6 +58006,12 @@
 		"id": 5191,
 		"standingAnimation": 101,
 		"walkingAnimation": 98
+	},
+	{
+		"name": "Butler",
+		"id": 13866,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Villager",
@@ -56242,6 +58192,12 @@
 		"id": 958,
 		"standingAnimation": 6218,
 		"walkingAnimation": 6220
+	},
+	{
+		"name": "null",
+		"id": 14102,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
 	},
 	{
 		"name": "Dusk",
@@ -56440,6 +58396,12 @@
 		"id": 10950,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Faustus",
+		"id": 13914,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -56652,6 +58614,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13747,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Aberrant spectre",
 		"id": 2,
 		"standingAnimation": 1506,
@@ -56691,6 +58659,12 @@
 		"name": "Iwan",
 		"id": 9153,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Worker",
+		"id": 14005,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -56862,6 +58836,12 @@
 		"walkingAnimation": 2667
 	},
 	{
+		"name": "Emissary Conjurer",
+		"id": 13778,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
 		"name": "null",
 		"id": 9213,
 		"standingAnimation": 800,
@@ -56871,6 +58851,12 @@
 		"name": "Suspect",
 		"id": 350,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13941,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -57084,6 +59070,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 13918,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Lurgon",
 		"id": 2314,
 		"standingAnimation": 6040,
@@ -57226,6 +59218,12 @@
 		"id": 7696,
 		"standingAnimation": 7586,
 		"walkingAnimation": 7587
+	},
+	{
+		"name": "Butler",
+		"id": 13860,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
 	},
 	{
 		"name": "Corsair Traitor (hard)",
@@ -57382,6 +59380,12 @@
 		"id": 5784,
 		"standingAnimation": 2051,
 		"walkingAnimation": 2051
+	},
+	{
+		"name": "Toci",
+		"id": 13915,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Mummy ashes",
@@ -57912,6 +59916,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Bat",
+		"id": 14042,
+		"standingAnimation": 4914,
+		"walkingAnimation": 4913
+	},
+	{
 		"name": "Teacher and pupil",
 		"id": 1913,
 		"standingAnimation": 6411,
@@ -58038,6 +60048,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Emissary Acolyte",
+		"id": 13765,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 8185,
 		"standingAnimation": 808,
@@ -58162,6 +60178,12 @@
 		"id": 2827,
 		"standingAnimation": 4914,
 		"walkingAnimation": 4913
+	},
+	{
+		"name": "Hueycoatl body",
+		"id": 14017,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Nature impling",
@@ -58482,6 +60504,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Queen Zyanyi Arkan",
+		"id": 13695,
+		"standingAnimation": 9050,
+		"walkingAnimation": 9051
+	},
+	{
 		"name": "Claude",
 		"id": 4602,
 		"standingAnimation": 317,
@@ -58662,6 +60690,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Moxi",
+		"id": 14046,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
+	},
+	{
 		"name": "Midnight",
 		"id": 7890,
 		"standingAnimation": 7807,
@@ -58722,6 +60756,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14053,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Arzinian Avatar of Ranging",
 		"id": 1232,
 		"standingAnimation": 1838,
@@ -58756,6 +60796,12 @@
 		"id": 7114,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Citizen",
+		"id": 13936,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -58818,6 +60864,18 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Sergius",
+		"id": 13702,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13939,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Banker",
 		"id": 13129,
 		"standingAnimation": 11092,
@@ -58876,6 +60934,12 @@
 		"id": 2578,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Scorpion",
+		"id": 13967,
+		"standingAnimation": 6252,
+		"walkingAnimation": 6253
 	},
 	{
 		"name": "Tar Monster",
@@ -58948,6 +61012,12 @@
 		"id": 9465,
 		"standingAnimation": 1578,
 		"walkingAnimation": 1579
+	},
+	{
+		"name": "Vineyard worker",
+		"id": 13905,
+		"standingAnimation": 11601,
+		"walkingAnimation": 11600
 	},
 	{
 		"name": "Sailor",
@@ -59328,10 +61398,22 @@
 		"walkingAnimation": 63
 	},
 	{
+		"name": "Constantinius",
+		"id": 13825,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 11645,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Adala",
+		"id": 13823,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Combat stone",
@@ -59844,6 +61926,12 @@
 		"walkingAnimation": 8306
 	},
 	{
+		"name": "Vardorvis",
+		"id": 13656,
+		"standingAnimation": 10337,
+		"walkingAnimation": 10338
+	},
+	{
 		"name": "Observatory assistant",
 		"id": 5365,
 		"standingAnimation": 6841,
@@ -59908,6 +61996,12 @@
 		"id": 11235,
 		"standingAnimation": 9258,
 		"walkingAnimation": 9258
+	},
+	{
+		"name": "Viero",
+		"id": 14002,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
 	},
 	{
 		"name": "Squire (Intermediate)",
@@ -60039,6 +62133,12 @@
 		"name": "Ezekial Lovecraft",
 		"id": 4789,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Child",
+		"id": 13946,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -60462,6 +62562,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13693,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Vanescula Drakan",
 		"id": 9577,
 		"standingAnimation": 8737,
@@ -60604,6 +62710,12 @@
 		"id": 7119,
 		"standingAnimation": 1386,
 		"walkingAnimation": 1380
+	},
+	{
+		"name": "null",
+		"id": 14077,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Lornor quo Narga",
@@ -60912,6 +63024,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Fishing spot",
+		"id": 13912,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
+	},
+	{
 		"name": "Megan",
 		"id": 5794,
 		"standingAnimation": 808,
@@ -61006,6 +63124,12 @@
 		"id": 3638,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13722,
+		"standingAnimation": 4709,
+		"walkingAnimation": 4710
 	},
 	{
 		"name": "Dawn",
@@ -61164,6 +63288,12 @@
 		"walkingAnimation": 448
 	},
 	{
+		"name": "Adala",
+		"id": 13824,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Stonemason",
 		"id": 3098,
 		"standingAnimation": 101,
@@ -61226,6 +63356,12 @@
 	{
 		"name": "Farmer",
 		"id": 13232,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Chosen",
+		"id": 13741,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -61746,10 +63882,22 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Worker",
+		"id": 13949,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Rock Golem",
 		"id": 7451,
 		"standingAnimation": 7180,
 		"walkingAnimation": 7181
+	},
+	{
+		"name": "null",
+		"id": 14068,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Baby black dragon",
@@ -61966,6 +64114,12 @@
 		"id": 3465,
 		"standingAnimation": 6280,
 		"walkingAnimation": 6280
+	},
+	{
+		"name": "Emissary Chosen",
+		"id": 13743,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Lazy cat",
@@ -62838,6 +64992,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Dreadborn Araxyte",
+		"id": 13680,
+		"standingAnimation": 9137,
+		"walkingAnimation": 9138
+	},
+	{
 		"name": "Unferth",
 		"id": 8119,
 		"standingAnimation": 808,
@@ -62854,6 +65014,12 @@
 		"id": 1047,
 		"standingAnimation": 4231,
 		"walkingAnimation": 4236
+	},
+	{
+		"name": "Magic Mark",
+		"id": 13663,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Fish",
@@ -62952,6 +65118,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Chilled jelly",
+		"id": 13799,
+		"standingAnimation": 1583,
+		"walkingAnimation": 1584
+	},
+	{
 		"name": "Stray dog",
 		"id": 2922,
 		"standingAnimation": 4777,
@@ -63012,6 +65184,12 @@
 		"walkingAnimation": 3082
 	},
 	{
+		"name": "Ice spider",
+		"id": 13798,
+		"standingAnimation": 5326,
+		"walkingAnimation": 5325
+	},
+	{
 		"name": "Chicken",
 		"id": 10499,
 		"standingAnimation": 5386,
@@ -63022,6 +65200,12 @@
 		"id": 3170,
 		"standingAnimation": 6952,
 		"walkingAnimation": 6953
+	},
+	{
+		"name": "Moxi",
+		"id": 14034,
+		"standingAnimation": 11528,
+		"walkingAnimation": 11529
 	},
 	{
 		"name": "Patrolwoman",
@@ -63099,6 +65283,12 @@
 		"name": "Morgan Le Faye",
 		"id": 3528,
 		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Worker",
+		"id": 13948,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -63490,6 +65680,12 @@
 		"id": 7937,
 		"standingAnimation": 4318,
 		"walkingAnimation": 4319
+	},
+	{
+		"name": "Guard",
+		"id": 13989,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "K'ril Tsutsaroth",
@@ -63918,6 +66114,12 @@
 		"walkingAnimation": 5566
 	},
 	{
+		"name": "null",
+		"id": 14028,
+		"standingAnimation": 10945,
+		"walkingAnimation": 10947
+	},
+	{
 		"name": "Guinevere",
 		"id": 9164,
 		"standingAnimation": 808,
@@ -64338,6 +66540,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Antonia",
+		"id": 13985,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Respiratory system",
 		"id": 5914,
 		"standingAnimation": -1,
@@ -64404,6 +66612,12 @@
 		"walkingAnimation": 1521
 	},
 	{
+		"name": "null",
+		"id": 14048,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Undead one",
 		"id": 5346,
 		"standingAnimation": 5565,
@@ -64422,7 +66636,7 @@
 		"walkingAnimation": 1797
 	},
 	{
-		"name": "Spider",
+		"name": "Araxyte",
 		"id": 11175,
 		"standingAnimation": 9137,
 		"walkingAnimation": 9138
@@ -64486,6 +66700,12 @@
 		"id": 9575,
 		"standingAnimation": 8701,
 		"walkingAnimation": 8702
+	},
+	{
+		"name": "Citizen",
+		"id": 13892,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Sir Pelleas",
@@ -64618,6 +66838,12 @@
 		"id": 10500,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 13861,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
 	},
 	{
 		"name": "Butler Jarvis",
@@ -64908,6 +67134,12 @@
 		"walkingAnimation": 5325
 	},
 	{
+		"name": "Nid",
+		"id": 13681,
+		"standingAnimation": 11473,
+		"walkingAnimation": 11474
+	},
+	{
 		"name": "Balfrug Kreeyath",
 		"id": 3132,
 		"standingAnimation": 66,
@@ -65112,6 +67344,12 @@
 		"walkingAnimation": 98
 	},
 	{
+		"name": "Citizen",
+		"id": 13891,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Poison spider",
 		"id": 11990,
 		"standingAnimation": 5326,
@@ -65242,6 +67480,12 @@
 		"id": 3283,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Rax",
+		"id": 13684,
+		"standingAnimation": 8340,
+		"walkingAnimation": 9139
 	},
 	{
 		"name": "Hegir",
@@ -65442,6 +67686,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Bartender",
+		"id": 13928,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Fire giant",
 		"id": 2077,
 		"standingAnimation": 4663,
@@ -65529,6 +67779,12 @@
 		"name": "null",
 		"id": 4261,
 		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Banker",
+		"id": 13932,
+		"standingAnimation": 11092,
 		"walkingAnimation": 819
 	},
 	{
@@ -65990,6 +68246,12 @@
 	{
 		"name": "null",
 		"id": 7322,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Prince Itzla Arkan",
+		"id": 13786,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -67176,6 +69438,12 @@
 		"walkingAnimation": 98
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13751,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Thaerisk",
 		"id": 13511,
 		"standingAnimation": 808,
@@ -67284,6 +69552,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Man",
+		"id": 13679,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Dagannoth mother",
 		"id": 6364,
 		"standingAnimation": 1338,
@@ -67354,6 +69628,12 @@
 		"id": 8092,
 		"standingAnimation": 90,
 		"walkingAnimation": 79
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13746,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Xarpus",
@@ -67438,6 +69718,12 @@
 		"id": 6600,
 		"standingAnimation": 155,
 		"walkingAnimation": 152
+	},
+	{
+		"name": "null",
+		"id": 14050,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Balloon Toad",
@@ -67560,6 +69846,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Nova",
+		"id": 13705,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Squire",
 		"id": 1770,
 		"standingAnimation": 813,
@@ -67606,6 +69898,12 @@
 		"id": 1190,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 14079,
+		"standingAnimation": 6297,
+		"walkingAnimation": 7629
 	},
 	{
 		"name": "Mage of Zamorak",
@@ -68760,6 +71058,12 @@
 		"walkingAnimation": 106
 	},
 	{
+		"name": "null",
+		"id": 13853,
+		"standingAnimation": 11572,
+		"walkingAnimation": 11574
+	},
+	{
 		"name": "Hazelmere",
 		"id": 13564,
 		"standingAnimation": 195,
@@ -68988,6 +71292,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Forebearer Honos",
+		"id": 13731,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Worker",
 		"id": 13090,
 		"standingAnimation": 11092,
@@ -69112,6 +71422,12 @@
 		"id": 297,
 		"standingAnimation": 101,
 		"walkingAnimation": 98
+	},
+	{
+		"name": "Child",
+		"id": 13945,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Nelta of Ranul",
@@ -69256,6 +71572,12 @@
 		"id": 7726,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Well-dressed man",
+		"id": 13909,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Guard",
@@ -69468,6 +71790,12 @@
 		"walkingAnimation": 1274
 	},
 	{
+		"name": "Tenoch",
+		"id": 13780,
+		"standingAnimation": 6464,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Ron Gadderanks",
 		"id": 9597,
 		"standingAnimation": 195,
@@ -69558,6 +71886,12 @@
 		"walkingAnimation": 5583
 	},
 	{
+		"name": "Meztlan",
+		"id": 13922,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Elemental balance",
 		"id": 4868,
 		"standingAnimation": 3584,
@@ -69616,6 +71950,12 @@
 		"id": 3158,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Worker",
+		"id": 13954,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Nylocas Toxobolos",
@@ -69780,6 +72120,12 @@
 		"walkingAnimation": 2775
 	},
 	{
+		"name": "Porcupine",
+		"id": 13968,
+		"standingAnimation": 9095,
+		"walkingAnimation": 9096
+	},
+	{
 		"name": "null",
 		"id": 11397,
 		"standingAnimation": 6181,
@@ -69886,6 +72232,12 @@
 		"id": 9498,
 		"standingAnimation": 7312,
 		"walkingAnimation": 7313
+	},
+	{
+		"name": "Arancini",
+		"id": 13678,
+		"standingAnimation": 11473,
+		"walkingAnimation": 11474
 	},
 	{
 		"name": "Combat stone",
@@ -70033,6 +72385,12 @@
 	},
 	{
 		"name": "null",
+		"id": 13676,
+		"standingAnimation": 11491,
+		"walkingAnimation": 11491
+	},
+	{
+		"name": "null",
 		"id": 7436,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
@@ -70144,6 +72502,12 @@
 		"id": 12826,
 		"standingAnimation": 10817,
 		"walkingAnimation": 10817
+	},
+	{
+		"name": "Patzi",
+		"id": 13818,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Zombie",
@@ -70638,6 +73002,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Child",
+		"id": 13947,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9147,
 		"standingAnimation": 808,
@@ -70914,6 +73284,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "Nova",
+		"id": 13704,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9962,
 		"standingAnimation": -1,
@@ -70932,10 +73308,10 @@
 		"walkingAnimation": -1
 	},
 	{
-		"name": "<col=00ffff>Earth surge</col>",
+		"name": "<col=00ffff>Earth spell</col>",
 		"id": 13505,
-		"standingAnimation": 7856,
-		"walkingAnimation": 7856
+		"standingAnimation": 11459,
+		"walkingAnimation": 11459
 	},
 	{
 		"name": "Malcolm",
@@ -70984,6 +73360,12 @@
 		"id": 7431,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Chiribaya",
+		"id": 13963,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
 	},
 	{
 		"name": "Sir Tinley",
@@ -71164,6 +73546,12 @@
 		"id": 10478,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Izel",
+		"id": 13980,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -71454,6 +73842,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Herder",
+		"id": 13762,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
 		"name": "null",
 		"id": 2023,
 		"standingAnimation": 808,
@@ -71464,6 +73858,12 @@
 		"id": 9526,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Conjurer",
+		"id": 13777,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
 	},
 	{
 		"name": "Fire Warrior of Lesarkus",
@@ -71634,6 +74034,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Guard",
+		"id": 14001,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
+	},
+	{
 		"name": "Citizen",
 		"id": 13164,
 		"standingAnimation": 808,
@@ -71672,6 +74078,18 @@
 	{
 		"name": "Pirate",
 		"id": 524,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Chiribaya",
+		"id": 13962,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
+		"name": "Bartender",
+		"id": 13917,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -72126,6 +74544,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Prince Itzla Arkan",
+		"id": 13771,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Cabin boy Jenkins",
 		"id": 825,
 		"standingAnimation": 808,
@@ -72276,6 +74700,12 @@
 		"walkingAnimation": 3048
 	},
 	{
+		"name": "Weave",
+		"id": 13677,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 1206,
 		"standingAnimation": 808,
@@ -72346,6 +74776,12 @@
 		"id": 280,
 		"standingAnimation": 6864,
 		"walkingAnimation": 6867
+	},
+	{
+		"name": "Guard",
+		"id": 13933,
+		"standingAnimation": 1421,
+		"walkingAnimation": 1422
 	},
 	{
 		"name": "null",
@@ -72436,6 +74872,12 @@
 		"id": 9581,
 		"standingAnimation": 6539,
 		"walkingAnimation": 6541
+	},
+	{
+		"name": "Emissary Chef",
+		"id": 13758,
+		"standingAnimation": 11735,
+		"walkingAnimation": 11735
 	},
 	{
 		"name": "Scion",
@@ -72570,6 +75012,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Augur Metzli",
+		"id": 13717,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
 		"name": "null",
 		"id": 3206,
 		"standingAnimation": 808,
@@ -72602,6 +75050,12 @@
 	{
 		"name": "Monk of Zamorak",
 		"id": 8401,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Lelia",
+		"id": 13806,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -72778,6 +75232,12 @@
 		"id": 12839,
 		"standingAnimation": 11103,
 		"walkingAnimation": 11103
+	},
+	{
+		"name": "Locke McScruff",
+		"id": 13965,
+		"standingAnimation": 7269,
+		"walkingAnimation": 7280
 	},
 	{
 		"name": "null",
@@ -73026,6 +75486,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Frost Nagua",
+		"id": 13787,
+		"standingAnimation": 10999,
+		"walkingAnimation": 10991
+	},
+	{
 		"name": "Adventurer (easy)",
 		"id": 1577,
 		"standingAnimation": 2561,
@@ -73054,6 +75520,12 @@
 		"id": 12694,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "The Hueycoatl",
+		"id": 14012,
+		"standingAnimation": 11680,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Mouse",
@@ -73142,7 +75614,7 @@
 	{
 		"name": "Elite Dark Warrior",
 		"id": 13466,
-		"standingAnimation": 808,
+		"standingAnimation": 809,
 		"walkingAnimation": 819
 	},
 	{
@@ -74076,6 +76548,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14089,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Tide",
 		"id": 9202,
 		"standingAnimation": 808,
@@ -74244,6 +76722,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14059,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Hallowed Sepulchre Coffin",
 		"id": 12110,
 		"standingAnimation": -1,
@@ -74284,6 +76768,12 @@
 		"id": 1158,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Guard",
+		"id": 13991,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
 	},
 	{
 		"name": "Radigad Ponfit",
@@ -74644,6 +77134,12 @@
 		"id": 11469,
 		"standingAnimation": 4670,
 		"walkingAnimation": 6372
+	},
+	{
+		"name": "Smart-looking dog",
+		"id": 13843,
+		"standingAnimation": 6561,
+		"walkingAnimation": 6560
 	},
 	{
 		"name": "Vet'ion",
@@ -75252,6 +77748,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "null",
+		"id": 14078,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Kharid Scorpion",
 		"id": 5228,
 		"standingAnimation": 6258,
@@ -75492,6 +77994,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13769,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Giant Lobster",
 		"id": 4800,
 		"standingAnimation": 6263,
@@ -75710,6 +78218,12 @@
 	{
 		"name": "null",
 		"id": 6176,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Citizen",
+		"id": 13885,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -76260,6 +78774,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13709,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Citizen",
 		"id": 13183,
 		"standingAnimation": 808,
@@ -76372,6 +78892,12 @@
 		"id": 4350,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Adala",
+		"id": 13822,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -76554,6 +79080,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Cozyac",
+		"id": 13846,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Knight of Varlamore",
 		"id": 13119,
 		"standingAnimation": 808,
@@ -76656,6 +79188,12 @@
 		"walkingAnimation": 5340
 	},
 	{
+		"name": "Child",
+		"id": 13902,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Mountain goat",
 		"id": 4146,
 		"standingAnimation": 5339,
@@ -76716,6 +79254,12 @@
 		"walkingAnimation": 6953
 	},
 	{
+		"name": "Worker",
+		"id": 13951,
+		"standingAnimation": 11092,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Bee Swarm",
 		"id": 12823,
 		"standingAnimation": 10822,
@@ -76732,6 +79276,12 @@
 		"id": 5702,
 		"standingAnimation": 5966,
 		"walkingAnimation": 5966
+	},
+	{
+		"name": "Renata",
+		"id": 13809,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Dwarf",
@@ -77154,6 +79704,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Emissary Acolyte",
+		"id": 13737,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "null",
 		"id": 9878,
 		"standingAnimation": -1,
@@ -77212,6 +79768,12 @@
 		"id": 7184,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13733,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Penance Runner",
@@ -77278,6 +79840,12 @@
 		"id": 2848,
 		"standingAnimation": 222,
 		"walkingAnimation": 219
+	},
+	{
+		"name": "Kualti",
+		"id": 13698,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
 	},
 	{
 		"name": "Undead Lumberjack",
@@ -77536,6 +80104,12 @@
 		"id": 259,
 		"standingAnimation": 90,
 		"walkingAnimation": 79
+	},
+	{
+		"name": "Guard",
+		"id": 13988,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Seia, Teoki of Ranul",
@@ -78264,6 +80838,12 @@
 		"walkingAnimation": 2165
 	},
 	{
+		"name": "Butler",
+		"id": 13856,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
+	},
+	{
 		"name": "Snakeling",
 		"id": 2046,
 		"standingAnimation": 1721,
@@ -78342,6 +80922,12 @@
 		"walkingAnimation": 1748
 	},
 	{
+		"name": "Ranging Ro",
+		"id": 13664,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Buffalo",
 		"id": 13004,
 		"standingAnimation": 5852,
@@ -78366,16 +80952,28 @@
 		"walkingAnimation": 98
 	},
 	{
-		"name": "Key Master",
+		"name": "Emissary Acolyte",
+		"id": 13734,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Patchy",
 		"id": 5870,
-		"standingAnimation": 4519,
-		"walkingAnimation": -1
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Shark",
 		"id": 1156,
 		"standingAnimation": 10,
 		"walkingAnimation": 10
+	},
+	{
+		"name": "Forebearer Fides",
+		"id": 13715,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Rift guardian",
@@ -78480,6 +81078,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Hueycoatl tail (broken)",
+		"id": 14015,
+		"standingAnimation": 11722,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Arzinian Avatar of Strength",
 		"id": 1229,
 		"standingAnimation": 1838,
@@ -78490,6 +81094,12 @@
 		"id": 9474,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14072,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Yellow Fortune Director",
@@ -78544,6 +81154,12 @@
 		"id": 5227,
 		"standingAnimation": 2065,
 		"walkingAnimation": 2064
+	},
+	{
+		"name": "Fishing spot",
+		"id": 14039,
+		"standingAnimation": 7634,
+		"walkingAnimation": 7634
 	},
 	{
 		"name": "c0lect0r890",
@@ -78876,6 +81492,12 @@
 		"walkingAnimation": 10947
 	},
 	{
+		"name": "Emissary Ascended",
+		"id": 13767,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Goat Poo",
 		"id": 8453,
 		"standingAnimation": 8154,
@@ -78960,7 +81582,7 @@
 		"walkingAnimation": 358
 	},
 	{
-		"name": "Spider",
+		"name": "Araxyte",
 		"id": 11174,
 		"standingAnimation": 9137,
 		"walkingAnimation": 9139
@@ -78969,6 +81591,12 @@
 		"name": "Kjedelig Uppsen",
 		"id": 1893,
 		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Emissary Ascended",
+		"id": 13721,
+		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
 	{
@@ -78988,6 +81616,12 @@
 		"id": 849,
 		"standingAnimation": 5680,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Hugh",
+		"id": 13979,
+		"standingAnimation": 6282,
+		"walkingAnimation": 6282
 	},
 	{
 		"name": "Mike",
@@ -79162,6 +81796,12 @@
 		"id": 9497,
 		"standingAnimation": 7312,
 		"walkingAnimation": 7313
+	},
+	{
+		"name": "Citizen",
+		"id": 13887,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "null",
@@ -79522,6 +82162,12 @@
 		"id": 9680,
 		"standingAnimation": 4709,
 		"walkingAnimation": 4709
+	},
+	{
+		"name": "Butler",
+		"id": 13864,
+		"standingAnimation": 11573,
+		"walkingAnimation": 11575
 	},
 	{
 		"name": "Black demon",
@@ -80274,6 +82920,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Kali",
+		"id": 13927,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Mysterious Stranger",
 		"id": 8208,
 		"standingAnimation": 808,
@@ -80508,6 +83160,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "The Hueycoatl",
+		"id": 14009,
+		"standingAnimation": 11668,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Glough",
 		"id": 2061,
 		"standingAnimation": 195,
@@ -80626,6 +83284,12 @@
 		"id": 6122,
 		"standingAnimation": 2334,
 		"walkingAnimation": 2333
+	},
+	{
+		"name": "Emissary Acolyte",
+		"id": 13723,
+		"standingAnimation": 4709,
+		"walkingAnimation": 4710
 	},
 	{
 		"name": "null",
@@ -80956,6 +83620,12 @@
 		"id": 9209,
 		"standingAnimation": 291,
 		"walkingAnimation": 288
+	},
+	{
+		"name": "Guard",
+		"id": 13992,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
 	},
 	{
 		"name": "Fishing spot",
@@ -81636,6 +84306,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "null",
+		"id": 14096,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Alpaca",
 		"id": 12988,
 		"standingAnimation": 6374,
@@ -81760,6 +84436,12 @@
 		"id": 6159,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Bee Swarm",
+		"id": 13658,
+		"standingAnimation": 10822,
+		"walkingAnimation": 10823
 	},
 	{
 		"name": "Zorgoth",
