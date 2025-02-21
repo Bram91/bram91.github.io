@@ -762,6 +762,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Arrav",
+		"id": 14132,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Grubor",
 		"id": 4916,
 		"standingAnimation": 808,
@@ -922,6 +928,12 @@
 		"id": 5829,
 		"standingAnimation": 286,
 		"walkingAnimation": 283
+	},
+	{
+		"name": "Baby blue dragon",
+		"id": 14105,
+		"standingAnimation": 27,
+		"walkingAnimation": 21
 	},
 	{
 		"name": "The Kendal",
@@ -1134,6 +1146,12 @@
 		"walkingAnimation": 8702
 	},
 	{
+		"name": "Zemouregal",
+		"id": 14127,
+		"standingAnimation": 9874,
+		"walkingAnimation": 9875
+	},
+	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10445,
 		"standingAnimation": 195,
@@ -1212,10 +1230,10 @@
 		"walkingAnimation": 189
 	},
 	{
-		"name": "The Sage",
+		"name": "Ric",
 		"id": 12592,
-		"standingAnimation": 9258,
-		"walkingAnimation": 9258
+		"standingAnimation": 11969,
+		"walkingAnimation": 11971
 	},
 	{
 		"name": "Man",
@@ -1600,6 +1618,12 @@
 		"id": 8184,
 		"standingAnimation": 9018,
 		"walkingAnimation": 9017
+	},
+	{
+		"name": "null",
+		"id": 14134,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Rebel Warrior",
@@ -3634,6 +3658,12 @@
 		"id": 9157,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Ghost Cat",
+		"id": 14109,
+		"standingAnimation": 317,
+		"walkingAnimation": 314
 	},
 	{
 		"name": "null",
@@ -7920,6 +7950,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Golem guard",
+		"id": 14125,
+		"standingAnimation": 10778,
+		"walkingAnimation": 10775
+	},
+	{
 		"name": "High Priest",
 		"id": 11602,
 		"standingAnimation": 808,
@@ -10042,6 +10078,12 @@
 		"id": 12411,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Jonny the Beard",
+		"id": 14138,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Jaguar warrior",
@@ -13416,6 +13458,12 @@
 		"walkingAnimation": 5531
 	},
 	{
+		"name": "Deviled Dave",
+		"id": 14157,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Guard",
 		"id": 4148,
 		"standingAnimation": 286,
@@ -14032,6 +14080,12 @@
 		"id": 12466,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "Postie Pete",
+		"id": 14108,
+		"standingAnimation": 3948,
+		"walkingAnimation": 3947
 	},
 	{
 		"name": "Evil Chicken",
@@ -14848,6 +14902,12 @@
 		"id": 13201,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Ice elemental",
+		"id": 14151,
+		"standingAnimation": 11948,
+		"walkingAnimation": 11949
 	},
 	{
 		"name": "Vyrewatch",
@@ -17442,10 +17502,10 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Leagues Assistant",
+		"name": "Bran",
 		"id": 10476,
-		"standingAnimation": 808,
-		"walkingAnimation": 819
+		"standingAnimation": 11970,
+		"walkingAnimation": 11972
 	},
 	{
 		"name": "Ambassador Ferrnook",
@@ -17554,6 +17614,12 @@
 		"id": 13305,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Eldric the Ice King",
+		"id": 14147,
+		"standingAnimation": 11969,
+		"walkingAnimation": 11971
 	},
 	{
 		"name": "Darren",
@@ -18442,6 +18508,12 @@
 		"id": 4221,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14114,
+		"standingAnimation": 5565,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "Vyrelady",
@@ -20262,6 +20334,12 @@
 		"walkingAnimation": 1146
 	},
 	{
+		"name": "Arrav",
+		"id": 14131,
+		"standingAnimation": 10395,
+		"walkingAnimation": 10395
+	},
+	{
 		"name": "null",
 		"id": 6523,
 		"standingAnimation": 808,
@@ -20584,6 +20662,12 @@
 		"id": 12945,
 		"standingAnimation": 1796,
 		"walkingAnimation": 1797
+	},
+	{
+		"name": "null",
+		"id": 14123,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "",
@@ -24678,6 +24762,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Armoured zombie",
+		"id": 14117,
+		"standingAnimation": 5572,
+		"walkingAnimation": 5570
+	},
+	{
 		"name": "Wizard Persten",
 		"id": 11438,
 		"standingAnimation": 808,
@@ -24780,6 +24870,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Stray dog",
+		"id": 14112,
+		"standingAnimation": 9836,
+		"walkingAnimation": 4773
+	},
+	{
 		"name": "null",
 		"id": 1971,
 		"standingAnimation": 286,
@@ -24874,6 +24970,12 @@
 		"id": 9121,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "The Sage",
+		"id": 14144,
+		"standingAnimation": 9258,
+		"walkingAnimation": 9258
 	},
 	{
 		"name": "Black Knight Titan",
@@ -25612,6 +25714,12 @@
 		"id": 12390,
 		"standingAnimation": 66,
 		"walkingAnimation": 63
+	},
+	{
+		"name": "Pirate",
+		"id": 14156,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Goblin",
@@ -27520,6 +27628,12 @@
 		"id": 9067,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Archibald",
+		"id": 14167,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
 	},
 	{
 		"name": "Juna",
@@ -30042,10 +30156,10 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Leagues Assistant",
+		"name": "Bran",
 		"id": 12593,
-		"standingAnimation": -1,
-		"walkingAnimation": -1
+		"standingAnimation": 11970,
+		"walkingAnimation": 11972
 	},
 	{
 		"name": "Menaphite Akh",
@@ -30810,6 +30924,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "null",
+		"id": 14142,
+		"standingAnimation": 8423,
+		"walkingAnimation": 8423
+	},
+	{
 		"name": "Protester",
 		"id": 10898,
 		"standingAnimation": 808,
@@ -30862,6 +30982,12 @@
 		"id": 9220,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14115,
+		"standingAnimation": 5572,
+		"walkingAnimation": 5570
 	},
 	{
 		"name": "Nature Spirit",
@@ -32020,6 +32146,12 @@
 		"id": 1198,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Sadie",
+		"id": 14163,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
 	},
 	{
 		"name": "The Nightmare",
@@ -34020,6 +34152,12 @@
 		"walkingAnimation": 189
 	},
 	{
+		"name": "Branda the Fire Queen",
+		"id": 14148,
+		"standingAnimation": 11991,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "null",
 		"id": 1859,
 		"standingAnimation": 112,
@@ -34294,6 +34432,12 @@
 		"id": 2689,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Crow",
+		"id": 14110,
+		"standingAnimation": 6785,
+		"walkingAnimation": 6784
 	},
 	{
 		"name": "Earwen",
@@ -35550,6 +35694,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Jonny the Beard",
+		"id": 14139,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Verac the Defiled",
 		"id": 12321,
 		"standingAnimation": 2061,
@@ -35746,6 +35896,12 @@
 		"id": 11589,
 		"standingAnimation": 5852,
 		"walkingAnimation": 5848
+	},
+	{
+		"name": "Weaponsmaster",
+		"id": 14137,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Knight of Varlamore",
@@ -36120,6 +36276,12 @@
 		"walkingAnimation": 6042
 	},
 	{
+		"name": "Marika",
+		"id": 14107,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Gnome",
 		"id": 8848,
 		"standingAnimation": 195,
@@ -36274,6 +36436,12 @@
 		"id": 5768,
 		"standingAnimation": 5104,
 		"walkingAnimation": 5107
+	},
+	{
+		"name": "Blue dragon",
+		"id": 14103,
+		"standingAnimation": 90,
+		"walkingAnimation": 79
 	},
 	{
 		"name": "Dromund's cat",
@@ -37066,6 +37234,12 @@
 		"id": 3959,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "null",
+		"id": 14124,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Miner",
@@ -40134,6 +40308,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Armoured zombie",
+		"id": 14116,
+		"standingAnimation": 5572,
+		"walkingAnimation": 5570
+	},
+	{
 		"name": "Salvager",
 		"id": 13974,
 		"standingAnimation": 808,
@@ -41178,6 +41358,12 @@
 		"walkingAnimation": 6577
 	},
 	{
+		"name": "Armoured zombie",
+		"id": 14121,
+		"standingAnimation": 10726,
+		"walkingAnimation": 5566
+	},
+	{
 		"name": "null",
 		"id": 5290,
 		"standingAnimation": 4709,
@@ -41998,6 +42184,12 @@
 		"id": 10206,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Kimba",
+		"id": 14171,
+		"standingAnimation": 317,
+		"walkingAnimation": 2662
 	},
 	{
 		"name": "null",
@@ -43316,8 +43508,8 @@
 	{
 		"name": "null",
 		"id": 12589,
-		"standingAnimation": 9263,
-		"walkingAnimation": 9264
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Victor",
@@ -43768,6 +43960,12 @@
 		"id": 6411,
 		"standingAnimation": 2401,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14122,
+		"standingAnimation": 10726,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "null",
@@ -45096,10 +45294,10 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Blue dragon",
+		"name": "Brew'ma",
 		"id": 13793,
-		"standingAnimation": 90,
-		"walkingAnimation": 79
+		"standingAnimation": 4424,
+		"walkingAnimation": 4426
 	},
 	{
 		"name": "null",
@@ -45690,10 +45888,10 @@
 		"walkingAnimation": 4075
 	},
 	{
-		"name": "Baby blue dragon",
+		"name": "Marika",
 		"id": 13794,
-		"standingAnimation": 27,
-		"walkingAnimation": 21
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Dwarf",
@@ -47344,6 +47542,12 @@
 		"id": 2189,
 		"standingAnimation": 2618,
 		"walkingAnimation": 2619
+	},
+	{
+		"name": "null",
+		"id": 14111,
+		"standingAnimation": 6785,
+		"walkingAnimation": 6784
 	},
 	{
 		"name": "Cave goblin",
@@ -49506,6 +49710,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Spinolyp",
+		"id": 14140,
+		"standingAnimation": 2867,
+		"walkingAnimation": 2863
+	},
+	{
 		"name": "Kruk",
 		"id": 7099,
 		"standingAnimation": 7235,
@@ -49618,6 +49828,12 @@
 		"id": 4504,
 		"standingAnimation": 2618,
 		"walkingAnimation": 2619
+	},
+	{
+		"name": "Black dragon",
+		"id": 14146,
+		"standingAnimation": 90,
+		"walkingAnimation": 79
 	},
 	{
 		"name": "Vampyre Juvinate",
@@ -50070,6 +50286,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Arrav",
+		"id": 14129,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Cap'n Izzy No-Beard",
 		"id": 5789,
 		"standingAnimation": 808,
@@ -50470,6 +50692,12 @@
 		"id": 8321,
 		"standingAnimation": 4703,
 		"walkingAnimation": 4700
+	},
+	{
+		"name": "Blue dragon",
+		"id": 14104,
+		"standingAnimation": 90,
+		"walkingAnimation": 79
 	},
 	{
 		"name": "null",
@@ -52900,6 +53128,12 @@
 		"id": 3407,
 		"standingAnimation": 3584,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Fire elemental",
+		"id": 14150,
+		"standingAnimation": 11945,
+		"walkingAnimation": 11946
 	},
 	{
 		"name": "Banker",
@@ -55728,10 +55962,10 @@
 		"walkingAnimation": 1323
 	},
 	{
-		"name": "null",
+		"name": "Ric",
 		"id": 12595,
-		"standingAnimation": 9258,
-		"walkingAnimation": 9258
+		"standingAnimation": 11969,
+		"walkingAnimation": 11971
 	},
 	{
 		"name": "Bloodthirsty pyrelord",
@@ -56332,6 +56566,12 @@
 		"id": 6711,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "Arrav",
+		"id": 14130,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Gelatinnoth Mother (hard)",
@@ -59178,6 +59418,12 @@
 		"walkingAnimation": 225
 	},
 	{
+		"name": "League Navigator",
+		"id": 14145,
+		"standingAnimation": 813,
+		"walkingAnimation": 1146
+	},
+	{
 		"name": "Carnivorous chinchompa",
 		"id": 2911,
 		"standingAnimation": 5182,
@@ -59266,6 +59512,12 @@
 		"id": 4945,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "Arrav",
+		"id": 14133,
+		"standingAnimation": 10395,
+		"walkingAnimation": 10395
 	},
 	{
 		"name": "Kormar quo Maten",
@@ -59482,6 +59734,12 @@
 		"id": 1424,
 		"standingAnimation": 195,
 		"walkingAnimation": 189
+	},
+	{
+		"name": "null",
+		"id": 14143,
+		"standingAnimation": 9258,
+		"walkingAnimation": 9258
 	},
 	{
 		"name": "Smol Heredit",
@@ -61216,6 +61474,12 @@
 		"id": 13648,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Fire</col>",
+		"id": 14152,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -65958,10 +66222,10 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "null",
+		"name": "Branda the Fire Queen",
 		"id": 12596,
-		"standingAnimation": 10636,
-		"walkingAnimation": 9264
+		"standingAnimation": 11970,
+		"walkingAnimation": 11972
 	},
 	{
 		"name": "Zombie",
@@ -67812,6 +68076,12 @@
 		"walkingAnimation": 6180
 	},
 	{
+		"name": "<col=00ffff>Icicles</col>",
+		"id": 14153,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Holgart",
 		"id": 5073,
 		"standingAnimation": -1,
@@ -68584,6 +68854,12 @@
 		"id": 12327,
 		"standingAnimation": 2061,
 		"walkingAnimation": 2060
+	},
+	{
+		"name": "Suspicious water",
+		"id": 14141,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Sigmund",
@@ -71466,6 +71742,12 @@
 		"walkingAnimation": 1197
 	},
 	{
+		"name": "Pirate",
+		"id": 14155,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Galvek",
 		"id": 8096,
 		"standingAnimation": 7903,
@@ -72150,7 +72432,7 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Weaponsmaster",
+		"name": "null",
 		"id": 5211,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -72442,6 +72724,12 @@
 		"id": 9742,
 		"standingAnimation": 4702,
 		"walkingAnimation": 4699
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14136,
+		"standingAnimation": 5565,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "Rat",
@@ -73204,6 +73492,12 @@
 		"id": 5329,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "",
+		"id": 14154,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Aviansie",
@@ -75094,6 +75388,12 @@
 		"id": 1593,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14113,
+		"standingAnimation": 5572,
+		"walkingAnimation": 5570
 	},
 	{
 		"name": "Mercenary Captain",
@@ -77430,6 +77730,12 @@
 		"walkingAnimation": 1323
 	},
 	{
+		"name": "Sir Burrus",
+		"id": 14165,
+		"standingAnimation": 7269,
+		"walkingAnimation": 6577
+	},
+	{
 		"name": "Brimstail",
 		"id": 11430,
 		"standingAnimation": 195,
@@ -78004,6 +78310,12 @@
 		"id": 4800,
 		"standingAnimation": 6263,
 		"walkingAnimation": 6264
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14120,
+		"standingAnimation": 10726,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "null",
@@ -78948,6 +79260,12 @@
 		"walkingAnimation": 93
 	},
 	{
+		"name": "Duke",
+		"id": 14169,
+		"standingAnimation": 4777,
+		"walkingAnimation": 4773
+	},
+	{
 		"name": "Sir Tiffy Cashien",
 		"id": 8165,
 		"standingAnimation": 808,
@@ -79536,6 +79854,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Armoured zombie",
+		"id": 14119,
+		"standingAnimation": 10726,
+		"walkingAnimation": 5566
+	},
+	{
 		"name": "Relobo Blinyo (logs)",
 		"id": 5451,
 		"standingAnimation": 813,
@@ -79546,6 +79870,12 @@
 		"id": 2502,
 		"standingAnimation": 5565,
 		"walkingAnimation": 5570
+	},
+	{
+		"name": "Eldric the Ice King",
+		"id": 14149,
+		"standingAnimation": 11986,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Zombie pirate",
@@ -79756,6 +80086,12 @@
 		"id": 3836,
 		"standingAnimation": 4391,
 		"walkingAnimation": 4390
+	},
+	{
+		"name": "Baby blue dragon",
+		"id": 14106,
+		"standingAnimation": 27,
+		"walkingAnimation": 21
 	},
 	{
 		"name": "null",
@@ -80070,7 +80406,7 @@
 		"walkingAnimation": 2156
 	},
 	{
-		"name": "Jonny the beard",
+		"name": "null",
 		"id": 5213,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -80206,6 +80542,12 @@
 		"id": 4854,
 		"standingAnimation": 357,
 		"walkingAnimation": 358
+	},
+	{
+		"name": "Armoured zombie",
+		"id": 14135,
+		"standingAnimation": 5565,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "Ranis Drakan",
@@ -82296,6 +82638,12 @@
 		"walkingAnimation": 314
 	},
 	{
+		"name": "Small scarab",
+		"id": 14126,
+		"standingAnimation": 11780,
+		"walkingAnimation": 11784
+	},
+	{
 		"name": "Zombie swab",
 		"id": 622,
 		"standingAnimation": 5650,
@@ -84138,6 +84486,12 @@
 		"walkingAnimation": 3210
 	},
 	{
+		"name": "Armoured zombie",
+		"id": 14118,
+		"standingAnimation": 10726,
+		"walkingAnimation": 5566
+	},
+	{
 		"name": "Maniacal monkey",
 		"id": 7214,
 		"standingAnimation": 786,
@@ -84148,6 +84502,12 @@
 		"id": 12017,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Sharathteerk",
+		"id": 14128,
+		"standingAnimation": 10736,
+		"walkingAnimation": 10737
 	},
 	{
 		"name": "Master Farmer",
