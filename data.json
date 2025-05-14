@@ -56,8 +56,8 @@
 	{
 		"name": "null",
 		"id": 7180,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Skeleton",
@@ -836,8 +836,8 @@
 	{
 		"name": "Gnome guard",
 		"id": 6081,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Elemental balance",
@@ -986,8 +986,8 @@
 	{
 		"name": "Child",
 		"id": 5580,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -1106,8 +1106,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 6088,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Toban",
@@ -1154,8 +1154,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10445,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "'Picarron' Pete",
@@ -1226,8 +1226,8 @@
 	{
 		"name": "Gnome troop",
 		"id": 4974,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ric",
@@ -1472,8 +1472,8 @@
 	{
 		"name": "Gnome companion",
 		"id": 2421,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Essyllt",
@@ -1958,8 +1958,8 @@
 	{
 		"name": "Waymottin",
 		"id": 7169,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -2210,8 +2210,8 @@
 	{
 		"name": "Carado",
 		"id": 1437,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Undead Lumberjack",
@@ -2342,8 +2342,8 @@
 	{
 		"name": "Gnome troop",
 		"id": 4973,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goblin",
@@ -2366,8 +2366,8 @@
 	{
 		"name": "G.L.O. Caranock",
 		"id": 1460,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -2466,6 +2466,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Imp",
+		"id": 14181,
+		"standingAnimation": 171,
+		"walkingAnimation": 168
+	},
+	{
 		"name": "Gertrude",
 		"id": 7723,
 		"standingAnimation": -1,
@@ -2552,8 +2558,8 @@
 	{
 		"name": "Gnome trainer",
 		"id": 6080,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goose",
@@ -2708,8 +2714,8 @@
 	{
 		"name": "Lumo",
 		"id": 7161,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tormented Demon",
@@ -2732,8 +2738,8 @@
 	{
 		"name": "Bunkdo",
 		"id": 7162,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -2758,6 +2764,12 @@
 		"id": 7578,
 		"standingAnimation": 1310,
 		"walkingAnimation": 1311
+	},
+	{
+		"name": "Basilisk",
+		"id": 14168,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Farmer",
@@ -3272,8 +3284,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3152,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -3674,8 +3686,8 @@
 	{
 		"name": "Daero",
 		"id": 1445,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tinsay",
@@ -3842,8 +3854,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10451,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Pirate",
@@ -3862,6 +3874,12 @@
 		"id": 2296,
 		"standingAnimation": 6040,
 		"walkingAnimation": 6041
+	},
+	{
+		"name": "Yami",
+		"id": 14204,
+		"standingAnimation": 12140,
+		"walkingAnimation": 12143
 	},
 	{
 		"name": "Farmer",
@@ -3926,8 +3944,8 @@
 	{
 		"name": "Mimm",
 		"id": 2565,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Scorpion",
@@ -4028,8 +4046,8 @@
 	{
 		"name": "Child",
 		"id": 3809,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -4424,8 +4442,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10447,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fish",
@@ -4550,8 +4568,8 @@
 	{
 		"name": "Assistant Lori",
 		"id": 7154,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -4779,7 +4797,7 @@
 		"name": "Tool Leprechaun",
 		"id": 0,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Emissary Ascended",
@@ -4796,8 +4814,8 @@
 	{
 		"name": "Helena",
 		"id": 4458,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -4922,8 +4940,8 @@
 	{
 		"name": "Glouphrie the Untrusted",
 		"id": 4645,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cyclops",
@@ -5492,8 +5510,8 @@
 	{
 		"name": "Wingstone",
 		"id": 2552,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Troll spectator",
@@ -5504,8 +5522,8 @@
 	{
 		"name": "Boy",
 		"id": 3994,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Monk of Zamorak",
@@ -5624,8 +5642,8 @@
 	{
 		"name": "Ermin",
 		"id": 2567,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -5650,6 +5668,12 @@
 		"id": 5461,
 		"standingAnimation": 3999,
 		"walkingAnimation": 3999
+	},
+	{
+		"name": "null",
+		"id": 14199,
+		"standingAnimation": 171,
+		"walkingAnimation": 168
 	},
 	{
 		"name": "",
@@ -5702,8 +5726,8 @@
 	{
 		"name": "Garkor",
 		"id": 7159,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bandit",
@@ -5894,8 +5918,8 @@
 	{
 		"name": "null",
 		"id": 6266,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kazgar",
@@ -6142,6 +6166,12 @@
 		"id": 11761,
 		"standingAnimation": 9657,
 		"walkingAnimation": 9657
+	},
+	{
+		"name": "Basilisk",
+		"id": 14170,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Fish monger",
@@ -6938,8 +6968,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 7178,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cyrisus",
@@ -7202,8 +7232,8 @@
 	{
 		"name": "null",
 		"id": 9847,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Scruffy",
@@ -7778,8 +7808,8 @@
 	{
 		"name": "King Narnode Shareen",
 		"id": 8019,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Man",
@@ -8168,8 +8198,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 7516,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Citizen",
@@ -8288,8 +8318,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3144,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -8312,8 +8342,8 @@
 	{
 		"name": "Gnome traveller",
 		"id": 6054,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Prisoner",
@@ -8414,8 +8444,8 @@
 	{
 		"name": "Garkor",
 		"id": 7111,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Iron dragon",
@@ -8534,8 +8564,8 @@
 	{
 		"name": "Felfiz Yaryus",
 		"id": 8595,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -8636,8 +8666,8 @@
 	{
 		"name": "King Bolren",
 		"id": 4963,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Clothears",
@@ -8852,8 +8882,8 @@
 	{
 		"name": "Assistant Le Smith",
 		"id": 4722,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Swamp frog",
@@ -9038,8 +9068,8 @@
 	{
 		"name": "Gnome companion",
 		"id": 2422,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -9110,8 +9140,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3147,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Thrower troll",
@@ -9224,8 +9254,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10458,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Winter Elemental",
@@ -9416,8 +9446,8 @@
 	{
 		"name": "Billy Rehnison",
 		"id": 4265,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Snowflake",
@@ -9674,8 +9704,8 @@
 	{
 		"name": "Zooknock",
 		"id": 1442,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Chancellor Hassan",
@@ -10352,8 +10382,8 @@
 	{
 		"name": "Portobello",
 		"id": 2568,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -10419,7 +10449,7 @@
 		"name": "Jeff",
 		"id": 5546,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Old Man Yarlo",
@@ -10502,8 +10532,8 @@
 	{
 		"name": "Tamble",
 		"id": 2549,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ogre shaman",
@@ -10796,8 +10826,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10455,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Eblis",
@@ -11048,8 +11078,8 @@
 	{
 		"name": "null",
 		"id": 7194,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bartender",
@@ -11078,8 +11108,8 @@
 	{
 		"name": "Local Gnome",
 		"id": 4979,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Suspect",
@@ -11456,8 +11486,8 @@
 	{
 		"name": "null",
 		"id": 7192,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Councillor Halgrive",
@@ -11486,8 +11516,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10464,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Red dragon",
@@ -11658,10 +11688,10 @@
 		"walkingAnimation": 5799
 	},
 	{
-		"name": "Basilisk",
+		"name": "null",
 		"id": 122,
-		"standingAnimation": -1,
-		"walkingAnimation": -1
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Odd Stone",
@@ -11910,7 +11940,7 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Voice of Yama",
+		"name": "null",
 		"id": 7668,
 		"standingAnimation": 7017,
 		"walkingAnimation": 7016
@@ -12044,8 +12074,8 @@
 	{
 		"name": "Glough",
 		"id": 1425,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -12117,7 +12147,7 @@
 		"name": "Saboteur",
 		"id": 1237,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hellpuppy",
@@ -12464,8 +12494,8 @@
 	{
 		"name": "Bunkwicket",
 		"id": 1440,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "The Whisperer",
@@ -12512,8 +12542,8 @@
 	{
 		"name": "null",
 		"id": 1204,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Spectator",
@@ -12632,8 +12662,8 @@
 	{
 		"name": "Elkoy",
 		"id": 4967,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rug Merchant",
@@ -12854,8 +12884,8 @@
 	{
 		"name": "null",
 		"id": 6546,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -12902,8 +12932,8 @@
 	{
 		"name": "null",
 		"id": 6563,
-		"standingAnimation": 195,
-		"walkingAnimation": 195
+		"standingAnimation": 2331,
+		"walkingAnimation": 2331
 	},
 	{
 		"name": "Schoolgirl",
@@ -13042,6 +13072,12 @@
 		"id": 7360,
 		"standingAnimation": 7307,
 		"walkingAnimation": 7306
+	},
+	{
+		"name": "Void Flare",
+		"id": 14179,
+		"standingAnimation": 12133,
+		"walkingAnimation": 12133
 	},
 	{
 		"name": "Mounted terrorbird gnome",
@@ -13244,8 +13280,8 @@
 	{
 		"name": "Child",
 		"id": 9796,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -13298,8 +13334,8 @@
 	{
 		"name": "null",
 		"id": 1359,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zanik",
@@ -13310,8 +13346,8 @@
 	{
 		"name": "Heckel Funch",
 		"id": 16,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Capybara",
@@ -13430,8 +13466,8 @@
 	{
 		"name": "null",
 		"id": 7191,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hobgoblin",
@@ -13458,10 +13494,10 @@
 		"walkingAnimation": 5531
 	},
 	{
-		"name": "Deviled Dave",
+		"name": "<col=00ffff>Yama's throne</col>",
 		"id": 14157,
-		"standingAnimation": 808,
-		"walkingAnimation": 819
+		"standingAnimation": 12153,
+		"walkingAnimation": 12153
 	},
 	{
 		"name": "Guard",
@@ -13640,8 +13676,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10452,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Meredith",
@@ -13700,8 +13736,8 @@
 	{
 		"name": "Oaknock the Engineer",
 		"id": 4644,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Karil the Tainted",
@@ -14030,8 +14066,8 @@
 	{
 		"name": "Penwie",
 		"id": 2553,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Torcher",
@@ -14078,8 +14114,8 @@
 	{
 		"name": "Longramble",
 		"id": 12466,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Postie Pete",
@@ -15122,8 +15158,8 @@
 	{
 		"name": "Captain Lamdoo",
 		"id": 2545,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -15134,8 +15170,8 @@
 	{
 		"name": "null",
 		"id": 9840,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Man",
@@ -15213,7 +15249,7 @@
 		"name": "Karam",
 		"id": 1439,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Mine cart",
@@ -15266,8 +15302,8 @@
 	{
 		"name": "null",
 		"id": 7181,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Brundt the Chieftain",
@@ -15422,8 +15458,8 @@
 	{
 		"name": "Dobwinkle",
 		"id": 7013,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Armoured zombie",
@@ -15584,8 +15620,8 @@
 	{
 		"name": "null",
 		"id": 7193,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Thurid",
@@ -16178,8 +16214,8 @@
 	{
 		"name": "King Healthorg",
 		"id": 4646,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goblin scribe",
@@ -16214,8 +16250,8 @@
 	{
 		"name": "Child",
 		"id": 3815,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Meiyerditch citizen",
@@ -16298,8 +16334,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 12473,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Trader Crewmember",
@@ -16490,8 +16526,8 @@
 	{
 		"name": "Gnome Driver",
 		"id": 6098,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -16502,8 +16538,8 @@
 	{
 		"name": "Gnome",
 		"id": 5970,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -16712,8 +16748,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10453,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -16958,8 +16994,8 @@
 	{
 		"name": "Gnome winger",
 		"id": 3155,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -17096,14 +17132,14 @@
 	{
 		"name": "Guard Vemmeldo",
 		"id": 2574,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Gnome baller",
 		"id": 6085,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -17510,8 +17546,8 @@
 	{
 		"name": "Ambassador Ferrnook",
 		"id": 12623,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -17530,6 +17566,12 @@
 		"id": 4845,
 		"standingAnimation": 3444,
 		"walkingAnimation": 3443
+	},
+	{
+		"name": "null",
+		"id": 14192,
+		"standingAnimation": 4851,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -18012,6 +18054,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Yama",
+		"id": 14176,
+		"standingAnimation": 12140,
+		"walkingAnimation": 12141
+	},
+	{
 		"name": "Phosani's Nightmare",
 		"id": 9419,
 		"standingAnimation": 8593,
@@ -18050,8 +18098,8 @@
 	{
 		"name": "Waydar",
 		"id": 1446,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "",
@@ -18296,8 +18344,8 @@
 	{
 		"name": "null",
 		"id": 9836,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Wily cat",
@@ -18345,7 +18393,7 @@
 		"name": "null",
 		"id": 6544,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -18836,8 +18884,8 @@
 	{
 		"name": "Gnome",
 		"id": 4233,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Schoolgirl",
@@ -19020,10 +19068,10 @@
 		"walkingAnimation": 11529
 	},
 	{
-		"name": "Crawling hand",
+		"name": "Aggie",
 		"id": 120,
-		"standingAnimation": -1,
-		"walkingAnimation": -1
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Student",
@@ -19052,8 +19100,8 @@
 	{
 		"name": "Child",
 		"id": 1132,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bow and Arrow salesman",
@@ -19160,8 +19208,8 @@
 	{
 		"name": "Sorrn",
 		"id": 2564,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -19202,8 +19250,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10454,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Mountain Goat",
@@ -19280,8 +19328,8 @@
 	{
 		"name": "Gnome child",
 		"id": 6079,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -19328,8 +19376,8 @@
 	{
 		"name": "Brimstail",
 		"id": 11431,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch Sentinel",
@@ -19634,8 +19682,8 @@
 	{
 		"name": "Child",
 		"id": 3810,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goblin Cook",
@@ -19736,8 +19784,8 @@
 	{
 		"name": "Femi",
 		"id": 1431,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -19762,6 +19810,12 @@
 		"id": 4113,
 		"standingAnimation": 317,
 		"walkingAnimation": 314
+	},
+	{
+		"name": "Cockatrice",
+		"id": 14164,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "",
@@ -19838,8 +19892,8 @@
 	{
 		"name": "Waydar",
 		"id": 6675,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -20258,8 +20312,8 @@
 	{
 		"name": "Child",
 		"id": 1133,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fairy Fixit",
@@ -20306,8 +20360,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10463,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -20460,10 +20514,16 @@
 		"walkingAnimation": 4699
 	},
 	{
+		"name": "Zombie pirate",
+		"id": 14178,
+		"standingAnimation": 5565,
+		"walkingAnimation": 5566
+	},
+	{
 		"name": "Professor Imblewyn",
 		"id": 2561,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cave horror",
@@ -20738,8 +20798,8 @@
 	{
 		"name": "Angel",
 		"id": 3369,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dagannoth Rex",
@@ -21164,8 +21224,8 @@
 	{
 		"name": "Battle mage",
 		"id": 1612,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kephri",
@@ -21182,8 +21242,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10466,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie",
@@ -21434,8 +21494,8 @@
 	{
 		"name": "Glough",
 		"id": 7115,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Wise Old Man",
@@ -21639,7 +21699,7 @@
 		"name": "Gilbert",
 		"id": 11658,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -21722,8 +21782,8 @@
 	{
 		"name": "Gnome",
 		"id": 6096,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bard",
@@ -21770,8 +21830,8 @@
 	{
 		"name": "Zooknock",
 		"id": 7113,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dark energy core",
@@ -21938,8 +21998,8 @@
 	{
 		"name": "null",
 		"id": 6810,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ghommal",
@@ -21962,8 +22022,8 @@
 	{
 		"name": "Lumdo",
 		"id": 1453,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "<col=00ffff>Egg</col>",
@@ -22556,8 +22616,8 @@
 	{
 		"name": "Child",
 		"id": 9798,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -22820,8 +22880,8 @@
 	{
 		"name": "Professor Manglethorp",
 		"id": 2558,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -22980,6 +23040,12 @@
 		"walkingAnimation": 7195
 	},
 	{
+		"name": "Kurask",
+		"id": 14172,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Bandit",
 		"id": 690,
 		"standingAnimation": 808,
@@ -23048,8 +23114,8 @@
 	{
 		"name": "Professor Onglewip",
 		"id": 2560,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rebel Archer",
@@ -23084,8 +23150,8 @@
 	{
 		"name": "Garkor",
 		"id": 1434,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -23264,8 +23330,8 @@
 	{
 		"name": "Waymottin",
 		"id": 1441,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Menaphite Akh",
@@ -23283,7 +23349,7 @@
 		"name": "Karam",
 		"id": 7172,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goblin",
@@ -23372,8 +23438,8 @@
 	{
 		"name": "Elkoy",
 		"id": 4968,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Reanimated bloodveld",
@@ -23384,8 +23450,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10456,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Spin Blades",
@@ -23840,14 +23906,20 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10481,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hill Giant",
 		"id": 13504,
 		"standingAnimation": 4650,
 		"walkingAnimation": 4649
+	},
+	{
+		"name": "Crawling hand",
+		"id": 14159,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -23978,8 +24050,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10446,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vampyre Juvinate",
@@ -24058,6 +24130,12 @@
 		"id": 6823,
 		"standingAnimation": 6864,
 		"walkingAnimation": 6867
+	},
+	{
+		"name": "Jim",
+		"id": 14201,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "League Tutor",
@@ -24590,8 +24668,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 13803,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Academic",
@@ -24902,8 +24980,8 @@
 	{
 		"name": "Gnome shop keeper",
 		"id": 6083,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Druid",
@@ -25004,8 +25082,8 @@
 	{
 		"name": "Zul-Gutusolly",
 		"id": 2036,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Torcher",
@@ -25238,8 +25316,8 @@
 	{
 		"name": "null",
 		"id": 9842,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sheep",
@@ -25596,6 +25674,12 @@
 		"walkingAnimation": -1
 	},
 	{
+		"name": "Soldier",
+		"id": 14193,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "null",
 		"id": 10345,
 		"standingAnimation": -1,
@@ -25778,14 +25862,14 @@
 	{
 		"name": "Captain Daerkin",
 		"id": 2570,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Child",
 		"id": 5581,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -25946,8 +26030,8 @@
 	{
 		"name": "Gnome soldier",
 		"id": 4908,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tz-Kek",
@@ -26570,8 +26654,8 @@
 	{
 		"name": "Golrie",
 		"id": 4183,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fortress Guard",
@@ -26720,8 +26804,8 @@
 	{
 		"name": "Gnome soldier",
 		"id": 4910,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Blood Reaver",
@@ -26732,14 +26816,14 @@
 	{
 		"name": "Sammy Servil",
 		"id": 12031,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bolongo",
 		"id": 2682,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "<col=00ffff>Ritual circle (yellow)</col>",
@@ -27074,8 +27158,8 @@
 	{
 		"name": "Weve",
 		"id": 7777,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -27318,6 +27402,12 @@
 		"walkingAnimation": 844
 	},
 	{
+		"name": "Basilisk",
+		"id": 14166,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Ghast",
 		"id": 5627,
 		"standingAnimation": 1086,
@@ -27428,8 +27518,8 @@
 	{
 		"name": "Bunkwicket",
 		"id": 7167,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -27458,8 +27548,8 @@
 	{
 		"name": "Bolrie",
 		"id": 12472,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Knight of Ardougne",
@@ -27530,8 +27620,8 @@
 	{
 		"name": "Bolkoy",
 		"id": 4965,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bloodthirsty twisted banshee",
@@ -27788,8 +27878,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10459,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "'Beedy-eye' Jones",
@@ -28676,8 +28766,8 @@
 	{
 		"name": "Child",
 		"id": 5579,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -28959,7 +29049,7 @@
 		"name": "Karam",
 		"id": 7174,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Miniature chaotic clouds",
@@ -29024,8 +29114,8 @@
 	{
 		"name": "Ron Gadderanks",
 		"id": 9596,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Child",
@@ -29427,7 +29517,7 @@
 		"name": "null",
 		"id": 6545,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Alomone",
@@ -29492,8 +29582,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3151,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -29570,8 +29660,8 @@
 	{
 		"name": "null",
 		"id": 7198,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -29582,8 +29672,8 @@
 	{
 		"name": "Gnome troop",
 		"id": 5966,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -29624,8 +29714,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10490,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bloodthirsty mutated Bloodveld",
@@ -29822,8 +29912,8 @@
 	{
 		"name": "null",
 		"id": 2020,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Pirate",
@@ -30074,8 +30164,8 @@
 	{
 		"name": "Gnome ball referee",
 		"id": 3157,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dwarf",
@@ -30248,8 +30338,8 @@
 	{
 		"name": "Blurberry",
 		"id": 6531,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cyrisus",
@@ -30356,8 +30446,8 @@
 	{
 		"name": "null",
 		"id": 1423,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bandit",
@@ -30626,8 +30716,8 @@
 	{
 		"name": "Gnome Coach",
 		"id": 3142,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Man",
@@ -30782,8 +30872,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 1422,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -30974,8 +31064,8 @@
 	{
 		"name": "Wilough",
 		"id": 3503,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -31106,8 +31196,8 @@
 	{
 		"name": "Farid Morrisane (ores and bars)",
 		"id": 3115,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Demonic gorilla",
@@ -31634,8 +31724,8 @@
 	{
 		"name": "Gnome guard",
 		"id": 1433,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sleepwalker",
@@ -31652,8 +31742,8 @@
 	{
 		"name": "Shamus",
 		"id": 1162,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rift guardian",
@@ -31755,7 +31845,7 @@
 		"name": "Karam",
 		"id": 7173,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rod Fishing spot",
@@ -31838,6 +31928,12 @@
 	{
 		"name": "Trader Crewmember",
 		"id": 12805,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 14198,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
 	},
@@ -31956,6 +32052,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Cockatrice",
+		"id": 14161,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Zenkog",
 		"id": 2313,
 		"standingAnimation": 6040,
@@ -31982,8 +32084,8 @@
 	{
 		"name": "Prisoner",
 		"id": 9583,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Verzik Vitur",
@@ -32379,7 +32481,7 @@
 		"name": "null",
 		"id": 8406,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Seaman Thresnor",
@@ -32400,10 +32502,16 @@
 		"walkingAnimation": 1205
 	},
 	{
+		"name": "Disciple of Yama",
+		"id": 14187,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Meegle",
 		"id": 2571,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie pirate",
@@ -32526,7 +32634,7 @@
 		"walkingAnimation": 9033
 	},
 	{
-		"name": "Aggie",
+		"name": "null",
 		"id": 4284,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
@@ -32713,9 +32821,15 @@
 	},
 	{
 		"name": "null",
+		"id": 14190,
+		"standingAnimation": 2065,
+		"walkingAnimation": 2064
+	},
+	{
+		"name": "null",
 		"id": 6808,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -32946,6 +33060,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Cockatrice",
+		"id": 14162,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "null",
 		"id": 8190,
 		"standingAnimation": 8201,
@@ -33098,8 +33218,8 @@
 	{
 		"name": "Carado",
 		"id": 7165,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -33110,8 +33230,8 @@
 	{
 		"name": "null",
 		"id": 6162,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Butterfly",
@@ -33326,8 +33446,8 @@
 	{
 		"name": "Gnome soldier",
 		"id": 4911,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -33441,7 +33561,7 @@
 		"name": "null",
 		"id": 6543,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "The Leviathan",
@@ -33512,8 +33632,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10487,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vitreous Jelly",
@@ -33614,8 +33734,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10489,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Alexandra",
@@ -33704,8 +33824,8 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10484,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -34034,8 +34154,8 @@
 	{
 		"name": "Child",
 		"id": 9787,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -34148,8 +34268,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10486,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Branda the Fire Queen",
@@ -34262,8 +34382,8 @@
 	{
 		"name": "Street urchin",
 		"id": 3539,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -34274,8 +34394,8 @@
 	{
 		"name": "Gnome emissary",
 		"id": 2420,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vampyre Juvinate",
@@ -34448,14 +34568,14 @@
 	{
 		"name": "null",
 		"id": 6089,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Child",
 		"id": 9793,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Man",
@@ -34952,8 +35072,8 @@
 	{
 		"name": "Shilop",
 		"id": 3501,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -35678,8 +35798,8 @@
 	{
 		"name": "Gulluck",
 		"id": 15,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Mounted terrorbird gnome",
@@ -36284,8 +36404,8 @@
 	{
 		"name": "Gnome",
 		"id": 8848,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Gourmet impling",
@@ -36302,8 +36422,8 @@
 	{
 		"name": "Gnome banker",
 		"id": 6084,
-		"standingAnimation": 195,
-		"walkingAnimation": 195
+		"standingAnimation": 2331,
+		"walkingAnimation": 2331
 	},
 	{
 		"name": "Gallow",
@@ -36374,6 +36494,12 @@
 	{
 		"name": "Jeff",
 		"id": 10415,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Soldier",
+		"id": 14191,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
 	},
@@ -36650,8 +36776,8 @@
 	{
 		"name": "Child",
 		"id": 9791,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -36788,8 +36914,8 @@
 	{
 		"name": "null",
 		"id": 7187,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Safalaan Hallow",
@@ -36818,8 +36944,8 @@
 	{
 		"name": "Zooknock",
 		"id": 7171,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Marcellus",
@@ -36884,8 +37010,8 @@
 	{
 		"name": "Roy jr.",
 		"id": 7475,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kephri",
@@ -37298,14 +37424,14 @@
 	{
 		"name": "Spang",
 		"id": 2550,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10482,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -37412,8 +37538,8 @@
 	{
 		"name": "Aluft Gianne snr.",
 		"id": 2656,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Huge spider",
@@ -37634,8 +37760,8 @@
 	{
 		"name": "null",
 		"id": 6092,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Thrower Troll",
@@ -37868,8 +37994,8 @@
 	{
 		"name": "Yulf Squecks",
 		"id": 2685,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sigmund",
@@ -37916,8 +38042,8 @@
 	{
 		"name": "Daero",
 		"id": 1444,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -37946,8 +38072,8 @@
 	{
 		"name": "Child",
 		"id": 5577,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Farmer",
@@ -38078,8 +38204,8 @@
 	{
 		"name": "null",
 		"id": 9845,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Werewolf",
@@ -38136,10 +38262,10 @@
 		"walkingAnimation": 1945
 	},
 	{
-		"name": "Cockatrice",
+		"name": "Aggie",
 		"id": 121,
-		"standingAnimation": -1,
-		"walkingAnimation": -1
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "Fire wizard",
@@ -38276,8 +38402,8 @@
 	{
 		"name": "Glough",
 		"id": 7100,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Gnome baller",
@@ -38402,8 +38528,8 @@
 	{
 		"name": "Tracker gnome 2",
 		"id": 4976,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -38744,8 +38870,8 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10479,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Khazard trooper",
@@ -38930,8 +39056,8 @@
 	{
 		"name": "null",
 		"id": 1458,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dummy",
@@ -39230,8 +39356,8 @@
 	{
 		"name": "Child",
 		"id": 9788,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Frog",
@@ -40298,8 +40424,8 @@
 	{
 		"name": "Barman",
 		"id": 6532,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guild Hunter Ornus (Adept)",
@@ -40600,6 +40726,12 @@
 		"id": 10988,
 		"standingAnimation": 813,
 		"walkingAnimation": 1205
+	},
+	{
+		"name": "Kurask",
+		"id": 14173,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Vet'ion Jr.",
@@ -41342,8 +41474,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 13448,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tribesman",
@@ -41432,8 +41564,8 @@
 	{
 		"name": "Brimstail",
 		"id": 4914,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Banker",
@@ -41444,8 +41576,8 @@
 	{
 		"name": "null",
 		"id": 4913,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Spitting Wyvern",
@@ -41562,6 +41694,12 @@
 		"walkingAnimation": 7650
 	},
 	{
+		"name": "Lieutenant",
+		"id": 14195,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Vyrewatch",
 		"id": 9736,
 		"standingAnimation": 4703,
@@ -41649,13 +41787,13 @@
 		"name": "Mystery figure",
 		"id": 3324,
 		"standingAnimation": 2943,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Brambickle",
 		"id": 2551,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sinclair",
@@ -41708,8 +41846,8 @@
 	{
 		"name": "Advisor",
 		"id": 12474,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Elemental balance",
@@ -41810,8 +41948,8 @@
 	{
 		"name": "null",
 		"id": 11212,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Jal-AkRek-Xil",
@@ -42368,8 +42506,8 @@
 	{
 		"name": "null",
 		"id": 6542,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie",
@@ -42470,8 +42608,8 @@
 	{
 		"name": "Child",
 		"id": 9799,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sister Sevi",
@@ -42829,6 +42967,12 @@
 	},
 	{
 		"name": "null",
+		"id": 14196,
+		"standingAnimation": 2065,
+		"walkingAnimation": 2064
+	},
+	{
+		"name": "null",
 		"id": 5900,
 		"standingAnimation": 1796,
 		"walkingAnimation": 1797
@@ -43010,8 +43154,8 @@
 	{
 		"name": "Gnome",
 		"id": 6095,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dwarf",
@@ -43046,8 +43190,8 @@
 	{
 		"name": "null",
 		"id": 9849,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -43490,8 +43634,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10448,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "General Hining",
@@ -43514,8 +43658,8 @@
 	{
 		"name": "Victor",
 		"id": 4457,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Meiyerditch citizen",
@@ -43868,8 +44012,8 @@
 	{
 		"name": "Gnome guard",
 		"id": 6082,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Alry the Angler",
@@ -44018,8 +44162,8 @@
 	{
 		"name": "Frizzy Skernip",
 		"id": 2684,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Death",
@@ -44066,8 +44210,8 @@
 	{
 		"name": "Gnome",
 		"id": 5309,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Mithrellas",
@@ -44348,8 +44492,8 @@
 	{
 		"name": "null",
 		"id": 4730,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dark wizard",
@@ -45176,8 +45320,8 @@
 	{
 		"name": "Hudon",
 		"id": 4182,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cultist",
@@ -45218,8 +45362,8 @@
 	{
 		"name": "Assistant Le Smith",
 		"id": 6806,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Riki the sculptor's model",
@@ -45284,8 +45428,8 @@
 	{
 		"name": "null",
 		"id": 6090,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ivy Sophista",
@@ -45422,8 +45566,8 @@
 	{
 		"name": "Smiddi Ryak (hard)",
 		"id": 1562,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vet'ion",
@@ -45662,8 +45806,8 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10485,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Crypt rat",
@@ -45764,8 +45908,8 @@
 	{
 		"name": "Golrie",
 		"id": 892,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Captain Barnaby",
@@ -45818,8 +45962,8 @@
 	{
 		"name": "Gnome troop",
 		"id": 5967,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -45856,6 +46000,12 @@
 		"id": 10009,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+	{
+		"name": "Judge of Yama",
+		"id": 14180,
+		"standingAnimation": 4675,
+		"walkingAnimation": 4674
 	},
 	{
 		"name": "Tina",
@@ -46010,8 +46160,8 @@
 	{
 		"name": "Philipe Carnillean",
 		"id": 1201,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Charmed Warrior",
@@ -46052,8 +46202,8 @@
 	{
 		"name": "Lumdo",
 		"id": 1438,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hannibal",
@@ -46112,8 +46262,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10469,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie monk",
@@ -46520,8 +46670,8 @@
 	{
 		"name": "null",
 		"id": 9838,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Jelly",
@@ -46778,8 +46928,8 @@
 	{
 		"name": "null",
 		"id": 3927,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ish the Navigator",
@@ -46838,8 +46988,8 @@
 	{
 		"name": "Bunkdo",
 		"id": 1436,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -46950,6 +47100,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Jim",
+		"id": 14202,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Goose",
 		"id": 12597,
 		"standingAnimation": 4539,
@@ -46976,8 +47132,8 @@
 	{
 		"name": "null",
 		"id": 7183,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Jungle spider",
@@ -47018,8 +47174,8 @@
 	{
 		"name": "Lumdo",
 		"id": 1454,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Evil Dave",
@@ -47169,7 +47325,7 @@
 		"name": "Tool Leprechaun",
 		"id": 12109,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dessous (hard)",
@@ -47516,8 +47672,8 @@
 	{
 		"name": "null",
 		"id": 9843,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -47526,10 +47682,10 @@
 		"walkingAnimation": 819
 	},
 	{
-		"name": "Kurask",
+		"name": "null",
 		"id": 123,
-		"standingAnimation": -1,
-		"walkingAnimation": -1
+		"standingAnimation": 12153,
+		"walkingAnimation": 12153
 	},
 	{
 		"name": "Paladin",
@@ -47654,8 +47810,8 @@
 	{
 		"name": "Financial Wizard",
 		"id": 6519,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Xocotla",
@@ -47684,8 +47840,8 @@
 	{
 		"name": "null",
 		"id": 2022,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Skeleton",
@@ -47762,8 +47918,8 @@
 	{
 		"name": "Gnome Waiter",
 		"id": 2657,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Verzik Vitur",
@@ -47978,8 +48134,8 @@
 	{
 		"name": "Rometti",
 		"id": 14,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tree spirit",
@@ -48020,8 +48176,8 @@
 	{
 		"name": "Child",
 		"id": 9795,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Broav",
@@ -48189,7 +48345,7 @@
 		"name": "Jill",
 		"id": 5545,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ogre shaman",
@@ -48332,8 +48488,8 @@
 	{
 		"name": "Ali the Leaflet Dropper",
 		"id": 5956,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Chamber guardian",
@@ -48369,7 +48525,7 @@
 		"name": "Hazelmere",
 		"id": 13451,
 		"standingAnimation": 11324,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Mary",
@@ -48410,8 +48566,8 @@
 	{
 		"name": "null",
 		"id": 2260,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -48524,8 +48680,8 @@
 	{
 		"name": "null",
 		"id": 6547,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -48680,8 +48836,8 @@
 	{
 		"name": "null",
 		"id": 7182,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie pirate",
@@ -48746,8 +48902,8 @@
 	{
 		"name": "null",
 		"id": 7197,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Feral Vampyre",
@@ -49146,6 +49302,12 @@
 		"walkingAnimation": 4194
 	},
 	{
+		"name": "null",
+		"id": 14182,
+		"standingAnimation": 12117,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Fidelio",
 		"id": 6525,
 		"standingAnimation": 808,
@@ -49400,8 +49562,8 @@
 	{
 		"name": "Sammy Servil",
 		"id": 12030,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rabbit",
@@ -49784,8 +49946,8 @@
 	{
 		"name": "Waymottin",
 		"id": 7168,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Torbrund",
@@ -49802,8 +49964,8 @@
 	{
 		"name": "Ambassador Gimblewap",
 		"id": 2555,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sir Bedivere",
@@ -49856,8 +50018,8 @@
 	{
 		"name": "Cabin boy",
 		"id": 3856,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Worker",
@@ -50270,8 +50432,8 @@
 	{
 		"name": "Tracker gnome 1",
 		"id": 4975,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rabbit",
@@ -50912,8 +51074,8 @@
 	{
 		"name": "null",
 		"id": 9846,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie pirate",
@@ -51782,8 +51944,8 @@
 	{
 		"name": "Kalron",
 		"id": 4980,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sotetseg",
@@ -51896,8 +52058,8 @@
 	{
 		"name": "Garkor",
 		"id": 7158,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -51974,8 +52136,8 @@
 	{
 		"name": "Anita",
 		"id": 7157,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Drake",
@@ -52088,8 +52250,8 @@
 	{
 		"name": "Child",
 		"id": 5578,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -52406,8 +52568,8 @@
 	{
 		"name": "Yewnock the Engineer",
 		"id": 12470,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Worker",
@@ -52784,8 +52946,8 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10480,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Giant rockslug",
@@ -53955,7 +54117,7 @@
 		"name": "Tool Leprechaun",
 		"id": 12765,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Werewolf",
@@ -54062,8 +54224,8 @@
 	{
 		"name": "null",
 		"id": 9848,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Camp dweller",
@@ -54254,8 +54416,8 @@
 	{
 		"name": "Tracker gnome 3",
 		"id": 4977,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -54650,8 +54812,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10473,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Iorwerth Warrior",
@@ -54884,8 +55046,8 @@
 	{
 		"name": "Sacrifice",
 		"id": 2037,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Nylocas Ischyros",
@@ -54896,8 +55058,8 @@
 	{
 		"name": "Child",
 		"id": 9792,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Banker",
@@ -55754,8 +55916,8 @@
 	{
 		"name": "null",
 		"id": 6265,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Arthur the Clue Hunter",
@@ -56018,8 +56180,8 @@
 	{
 		"name": "null",
 		"id": 6287,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Eagle",
@@ -56294,8 +56456,8 @@
 	{
 		"name": "Lumo",
 		"id": 1435,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sigismund",
@@ -56330,8 +56492,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 13449,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Crusher",
@@ -56402,8 +56564,8 @@
 	{
 		"name": "Gnome child",
 		"id": 6077,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Trader Crewmember",
@@ -56588,8 +56750,8 @@
 	{
 		"name": "Professor Gracklebone",
 		"id": 7048,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "",
@@ -56990,8 +57152,8 @@
 	{
 		"name": "Froono",
 		"id": 2576,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kragen",
@@ -57158,8 +57320,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10472,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Old dwarf",
@@ -57272,8 +57434,8 @@
 	{
 		"name": "Child",
 		"id": 3817,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Nylocas Toxobolos",
@@ -57494,8 +57656,8 @@
 	{
 		"name": "Child",
 		"id": 3814,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Goblin",
@@ -57870,6 +58032,12 @@
 		"walkingAnimation": 3441
 	},
 	{
+		"name": "Imp",
+		"id": 14200,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "null",
 		"id": 4258,
 		"standingAnimation": 808,
@@ -57974,8 +58142,8 @@
 	{
 		"name": "Lumo",
 		"id": 7112,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Holgart",
@@ -57986,8 +58154,8 @@
 	{
 		"name": "Gnome winger",
 		"id": 3156,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bandit",
@@ -58084,6 +58252,12 @@
 		"id": 13675,
 		"standingAnimation": 9137,
 		"walkingAnimation": 9138
+	},
+	{
+		"name": "Sergeant",
+		"id": 14197,
+		"standingAnimation": 2065,
+		"walkingAnimation": 2064
 	},
 	{
 		"name": "null",
@@ -58598,8 +58772,8 @@
 	{
 		"name": "null",
 		"id": 13610,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Flawed Golem",
@@ -59058,7 +59232,7 @@
 		"walkingAnimation": -1
 	},
 	{
-		"name": "Disciple of Yama",
+		"name": "null",
 		"id": 7669,
 		"standingAnimation": 5877,
 		"walkingAnimation": 5876
@@ -59186,8 +59360,8 @@
 	{
 		"name": "null",
 		"id": 9844,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -59210,8 +59384,8 @@
 	{
 		"name": "Gnome emissary",
 		"id": 6053,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Alpaca",
@@ -59732,8 +59906,8 @@
 	{
 		"name": "null",
 		"id": 1424,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -59816,8 +59990,8 @@
 	{
 		"name": "Damwin",
 		"id": 2559,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Major Attack",
@@ -59936,8 +60110,8 @@
 	{
 		"name": "Gnome Archer",
 		"id": 6097,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ithoi the Navigator",
@@ -60060,6 +60234,12 @@
 		"walkingAnimation": 819
 	},
 	{
+		"name": "Crawling hand",
+		"id": 14160,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "null",
 		"id": 13370,
 		"standingAnimation": 808,
@@ -60068,8 +60248,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10491,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Amy",
@@ -60140,8 +60320,8 @@
 	{
 		"name": "null",
 		"id": 9839,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Lyra",
@@ -60170,8 +60350,8 @@
 	{
 		"name": "Gnome shop keeper",
 		"id": 1238,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bat",
@@ -60320,8 +60500,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 10450,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Skeleton",
@@ -60596,8 +60776,8 @@
 	{
 		"name": "Captain Shoracks",
 		"id": 10488,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Lunderwin",
@@ -60824,8 +61004,8 @@
 	{
 		"name": "Hudo",
 		"id": 12,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Rat",
@@ -60842,8 +61022,8 @@
 	{
 		"name": "Child",
 		"id": 9786,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -60891,7 +61071,7 @@
 		"name": "null",
 		"id": 7195,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Abbot Langley",
@@ -60962,14 +61142,20 @@
 	{
 		"name": "Bunkwicket",
 		"id": 7166,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Undead Lumberjack",
 		"id": 5683,
 		"standingAnimation": 5967,
 		"walkingAnimation": 5967
+	},
+	{
+		"name": "Crawling hand",
+		"id": 14158,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "Fishbowl",
@@ -61052,8 +61238,8 @@
 	{
 		"name": "Carado",
 		"id": 7114,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Citizen",
@@ -61064,8 +61250,8 @@
 	{
 		"name": "null",
 		"id": 12033,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -61328,8 +61514,8 @@
 	{
 		"name": "null",
 		"id": 8294,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zorgoth",
@@ -61394,8 +61580,8 @@
 	{
 		"name": "Gnome woman",
 		"id": 6086,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Garv",
@@ -61412,8 +61598,8 @@
 	{
 		"name": "Child",
 		"id": 3812,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Razvan",
@@ -61556,8 +61742,8 @@
 	{
 		"name": "Ambassador Ferrnook",
 		"id": 2557,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sister Senga",
@@ -61616,8 +61802,8 @@
 	{
 		"name": "King Bolrie",
 		"id": 12471,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cow calf",
@@ -61832,8 +62018,8 @@
 	{
 		"name": "null",
 		"id": 9841,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Akkha's Shadow",
@@ -61856,8 +62042,8 @@
 	{
 		"name": "Elder Gnome child",
 		"id": 5518,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Glough",
@@ -61946,8 +62132,8 @@
 	{
 		"name": "Gnome traveller",
 		"id": 6055,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Matthew",
@@ -62018,8 +62204,8 @@
 	{
 		"name": "Anita",
 		"id": 7156,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Snake",
@@ -62042,8 +62228,8 @@
 	{
 		"name": "Burkor",
 		"id": 2575,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Feral Vampyre",
@@ -62114,8 +62300,8 @@
 	{
 		"name": "Wurbel",
 		"id": 2572,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vampyre Juvinate",
@@ -62288,8 +62474,8 @@
 	{
 		"name": "Carado",
 		"id": 7164,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Little Parasite",
@@ -62642,8 +62828,8 @@
 	{
 		"name": "Gnome",
 		"id": 6094,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -62852,8 +63038,8 @@
 	{
 		"name": "null",
 		"id": 6807,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Spring Elemental",
@@ -63158,8 +63344,8 @@
 	{
 		"name": "null",
 		"id": 2934,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Long-tailed Wyvern",
@@ -63429,7 +63615,7 @@
 		"name": "Jack",
 		"id": 5544,
 		"standingAnimation": 3862,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fishing spot",
@@ -63854,8 +64040,8 @@
 	{
 		"name": "Prissy Scilla",
 		"id": 2687,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fragment of Seren",
@@ -63914,8 +64100,8 @@
 	{
 		"name": "King Narnode Shareen",
 		"id": 8020,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Monkey Guard",
@@ -63938,8 +64124,8 @@
 	{
 		"name": "Child",
 		"id": 5582,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Shifter",
@@ -64058,8 +64244,8 @@
 	{
 		"name": "Lumo",
 		"id": 7160,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Arthur",
@@ -64422,6 +64608,12 @@
 		"walkingAnimation": 4820
 	},
 	{
+		"name": "Soldier",
+		"id": 14189,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Tecu salamander",
 		"id": 12769,
 		"standingAnimation": 5263,
@@ -64564,6 +64756,12 @@
 		"id": 9592,
 		"standingAnimation": 808,
 		"walkingAnimation": 819
+	},
+	{
+		"name": "Zombie pirate",
+		"id": 14177,
+		"standingAnimation": 5565,
+		"walkingAnimation": 5566
 	},
 	{
 		"name": "Gem",
@@ -64778,8 +64976,8 @@
 	{
 		"name": "null",
 		"id": 2021,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Nylocas Ischyros",
@@ -65024,8 +65222,8 @@
 	{
 		"name": "null",
 		"id": 1457,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -65216,8 +65414,8 @@
 	{
 		"name": "Gnome Mage",
 		"id": 6099,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kineer",
@@ -66164,8 +66362,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 13563,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zogre",
@@ -66626,8 +66824,8 @@
 	{
 		"name": "null",
 		"id": 7186,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "High Priest",
@@ -66638,8 +66836,8 @@
 	{
 		"name": "Captain Ninto",
 		"id": 2569,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Pox",
@@ -66926,8 +67124,8 @@
 	{
 		"name": "Commander Montai",
 		"id": 4964,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Head",
@@ -67376,8 +67574,8 @@
 	{
 		"name": "Timble",
 		"id": 2548,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zanik",
@@ -67862,8 +68060,8 @@
 	{
 		"name": "null",
 		"id": 6809,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Brawler",
@@ -68258,8 +68456,8 @@
 	{
 		"name": "Gnome",
 		"id": 5968,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Financial Wizard",
@@ -68378,8 +68576,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10465,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zombie",
@@ -68720,8 +68918,8 @@
 	{
 		"name": "Lammy Langle",
 		"id": 6814,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Summer Elemental",
@@ -68756,8 +68954,8 @@
 	{
 		"name": "Gnome",
 		"id": 5969,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Saeth",
@@ -68960,14 +69158,14 @@
 	{
 		"name": "null",
 		"id": 1456,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hazelmere",
 		"id": 13450,
 		"standingAnimation": 11326,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -69002,8 +69200,8 @@
 	{
 		"name": "null",
 		"id": 12505,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cyrisus",
@@ -69398,8 +69596,8 @@
 	{
 		"name": "Primula",
 		"id": 7953,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kaht B'alam",
@@ -69554,8 +69752,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10467,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -69626,8 +69824,8 @@
 	{
 		"name": "Tolna",
 		"id": 1059,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Combat stone",
@@ -69890,8 +70088,8 @@
 	{
 		"name": "Lieutenant Schepbur",
 		"id": 6100,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -69926,8 +70124,8 @@
 	{
 		"name": "Elnock Inquisitor",
 		"id": 5734,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -70112,8 +70310,8 @@
 	{
 		"name": "Gnome soldier",
 		"id": 4909,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Lahsram",
@@ -70365,7 +70563,7 @@
 		"name": "null",
 		"id": 7196,
 		"standingAnimation": 1412,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -70706,8 +70904,8 @@
 	{
 		"name": "null",
 		"id": 6091,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Nora T. Hagg",
@@ -71306,8 +71504,8 @@
 	{
 		"name": "null",
 		"id": 9837,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Meiyerditch citizen",
@@ -71342,8 +71540,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 13564,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Tourist",
@@ -71612,8 +71810,8 @@
 	{
 		"name": "Milli Rehnison",
 		"id": 4266,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Zogre",
@@ -71756,8 +71954,8 @@
 	{
 		"name": "Latlink Fastbell",
 		"id": 8537,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -71840,14 +72038,14 @@
 	{
 		"name": "null",
 		"id": 7945,
-		"standingAnimation": 195,
-		"walkingAnimation": 195
+		"standingAnimation": 2331,
+		"walkingAnimation": 2331
 	},
 	{
 		"name": "null",
 		"id": 13640,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dwarven Boatman",
@@ -71984,8 +72182,8 @@
 	{
 		"name": "Praistan Ebola",
 		"id": 2686,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -72024,7 +72222,7 @@
 		"walkingAnimation": 7319
 	},
 	{
-		"name": "Abyssal demon",
+		"name": "Yama",
 		"id": 124,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
@@ -72062,8 +72260,8 @@
 	{
 		"name": "Sarble",
 		"id": 2573,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bruise Blamish Snail",
@@ -72080,8 +72278,8 @@
 	{
 		"name": "Ron Gadderanks",
 		"id": 9597,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -72098,8 +72296,8 @@
 	{
 		"name": "Child",
 		"id": 3818,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Snake",
@@ -72224,14 +72422,14 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10461,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Cheerleader",
 		"id": 3158,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Worker",
@@ -73196,8 +73394,8 @@
 	{
 		"name": "Gnormadium Avlafrim",
 		"id": 7517,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Gargh",
@@ -73442,8 +73640,8 @@
 	{
 		"name": "Local Gnome",
 		"id": 4978,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bloodthirsty gargoyle",
@@ -74010,6 +74208,12 @@
 		"walkingAnimation": 5100
 	},
 	{
+		"name": "null",
+		"id": 14194,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
 		"name": "Akkha",
 		"id": 11792,
 		"standingAnimation": 9760,
@@ -74054,8 +74258,8 @@
 	{
 		"name": "Child",
 		"id": 9790,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Starflower",
@@ -74276,8 +74480,8 @@
 	{
 		"name": "Hazelmere",
 		"id": 4647,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Lost Soul",
@@ -75230,8 +75434,8 @@
 	{
 		"name": "Captain Klemfoodle",
 		"id": 10483,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Protester",
@@ -75284,8 +75488,8 @@
 	{
 		"name": "Child",
 		"id": 3816,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Islwyn",
@@ -75302,8 +75506,8 @@
 	{
 		"name": "Captain Dalbur",
 		"id": 10457,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Augur Metzli",
@@ -75486,6 +75690,12 @@
 		"walkingAnimation": 4700
 	},
 	{
+		"name": "Yami",
+		"id": 14203,
+		"standingAnimation": 12140,
+		"walkingAnimation": 12143
+	},
+	{
 		"name": "Mystery figure",
 		"id": 3323,
 		"standingAnimation": 2942,
@@ -75556,6 +75766,12 @@
 		"id": 13318,
 		"standingAnimation": 808,
 		"walkingAnimation": 11089
+	},
+	{
+		"name": "Abyssal demon",
+		"id": 14175,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -75758,8 +75974,8 @@
 	{
 		"name": "Catalina",
 		"id": 4455,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Citizen",
@@ -76910,8 +77126,8 @@
 	{
 		"name": "null",
 		"id": 7189,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Monkey guard",
@@ -77202,6 +77418,12 @@
 		"walkingAnimation": 4709
 	},
 	{
+		"name": "Voice of Yama",
+		"id": 14185,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Squire (Novice)",
 		"id": 1771,
 		"standingAnimation": 813,
@@ -77240,8 +77462,8 @@
 	{
 		"name": "Zooknock",
 		"id": 7170,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "K'klik",
@@ -77516,8 +77738,8 @@
 	{
 		"name": "Henja",
 		"id": 3306,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Achietties",
@@ -77660,8 +77882,8 @@
 	{
 		"name": "null",
 		"id": 7185,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Reanimated chaos druid",
@@ -77684,8 +77906,8 @@
 	{
 		"name": "Child",
 		"id": 3813,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -77738,8 +77960,8 @@
 	{
 		"name": "Brimstail",
 		"id": 11430,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Torcher",
@@ -77940,6 +78162,12 @@
 		"walkingAnimation": 1797
 	},
 	{
+		"name": "Abyssal demon",
+		"id": 14174,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Tanya",
 		"id": 9785,
 		"standingAnimation": 808,
@@ -78050,8 +78278,8 @@
 	{
 		"name": "Child",
 		"id": 9794,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -78104,8 +78332,8 @@
 	{
 		"name": "Ambassador Spanfipple",
 		"id": 2556,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Reacher",
@@ -78292,6 +78520,12 @@
 		"id": 6793,
 		"standingAnimation": 2704,
 		"walkingAnimation": 2703
+	},
+	{
+		"name": "Voice of Yama",
+		"id": 14184,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -78488,8 +78722,8 @@
 	{
 		"name": "Child",
 		"id": 9789,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sophia Hughes",
@@ -78603,7 +78837,7 @@
 		"name": "Woodcutting Leprechaun",
 		"id": 12163,
 		"standingAnimation": 2904,
-		"walkingAnimation": 189
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -78806,8 +79040,8 @@
 	{
 		"name": "Remsai",
 		"id": 4966,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Nomad",
@@ -78842,14 +79076,20 @@
 	{
 		"name": "Argenthorg",
 		"id": 12475,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sheep",
 		"id": 5845,
 		"standingAnimation": 5339,
 		"walkingAnimation": 5340
+	},
+	{
+		"name": "Voice of Yama",
+		"id": 14183,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
 	},
 	{
 		"name": "null",
@@ -79082,8 +79322,8 @@
 	{
 		"name": "Child",
 		"id": 9797,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Emissary Ascended",
@@ -79166,8 +79406,8 @@
 	{
 		"name": "Bunkdo",
 		"id": 7163,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -79632,6 +79872,12 @@
 		"walkingAnimation": 358
 	},
 	{
+		"name": "Disciple of Yama",
+		"id": 14186,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
 		"name": "Sir Kuam Ferentse",
 		"id": 4681,
 		"standingAnimation": 2253,
@@ -79706,8 +79952,8 @@
 	{
 		"name": "Eebel",
 		"id": 2566,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Guard",
@@ -79916,8 +80162,8 @@
 	{
 		"name": "Gnome child",
 		"id": 6078,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ancient Guardian",
@@ -80072,8 +80318,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10470,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Ektheme",
@@ -80102,8 +80348,8 @@
 	{
 		"name": "null",
 		"id": 7184,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Emissary Acolyte",
@@ -80318,8 +80564,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10471,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -80418,7 +80664,7 @@
 		"walkingAnimation": 5570
 	},
 	{
-		"name": "Zombie pirate",
+		"name": "null",
 		"id": 13494,
 		"standingAnimation": 5565,
 		"walkingAnimation": 5566
@@ -80504,8 +80750,8 @@
 	{
 		"name": "Captain Errdo",
 		"id": 10468,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Jardric",
@@ -80576,8 +80822,8 @@
 	{
 		"name": "Gnome woman",
 		"id": 6087,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Elisabeta",
@@ -80672,8 +80918,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3148,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Bouncer",
@@ -80828,8 +81074,8 @@
 	{
 		"name": "Generic Diplomat",
 		"id": 2554,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vorkath",
@@ -80990,8 +81236,8 @@
 	{
 		"name": "Gnome soldier",
 		"id": 4907,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Dungeon rat",
@@ -81680,8 +81926,8 @@
 	{
 		"name": "Sammy Servil",
 		"id": 12032,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Brewer",
@@ -82274,8 +82520,8 @@
 	{
 		"name": "null",
 		"id": 7179,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Sheep",
@@ -82532,8 +82778,8 @@
 	{
 		"name": "Ivan",
 		"id": 4456,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Islwyn",
@@ -83114,8 +83360,8 @@
 	{
 		"name": "Gnome",
 		"id": 4234,
-		"standingAnimation": 2691,
-		"walkingAnimation": 189
+		"standingAnimation": 12040,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Vyrewatch",
@@ -83516,8 +83762,8 @@
 	{
 		"name": "Glough",
 		"id": 2061,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Hooknosed Jack",
@@ -83618,8 +83864,8 @@
 	{
 		"name": "null",
 		"id": 1426,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Monk of Entrana",
@@ -83732,8 +83978,8 @@
 	{
 		"name": "null",
 		"id": 7188,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -83990,8 +84236,8 @@
 	{
 		"name": "null",
 		"id": 7190,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Fairy Godfather",
@@ -84176,8 +84422,8 @@
 	{
 		"name": "Child",
 		"id": 3811,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Soldier",
@@ -84214,6 +84460,12 @@
 		"id": 7118,
 		"standingAnimation": 1386,
 		"walkingAnimation": 1382
+	},
+	{
+		"name": "null",
+		"id": 14188,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
 	},
 	{
 		"name": "<col=00ffff>Blood Totem</col>",
@@ -84536,8 +84788,8 @@
 	{
 		"name": "null",
 		"id": 6171,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "null",
@@ -84770,8 +85022,8 @@
 	{
 		"name": "Captain Bleemadge",
 		"id": 10462,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Kasonde",
@@ -84884,8 +85136,8 @@
 	{
 		"name": "Gnome baller",
 		"id": 3143,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Gelatinnoth Mother (hard)",
@@ -84932,8 +85184,8 @@
 	{
 		"name": "null",
 		"id": 1459,
-		"standingAnimation": 195,
-		"walkingAnimation": 189
+		"standingAnimation": 2331,
+		"walkingAnimation": 12042
 	},
 	{
 		"name": "Captain Cain",
