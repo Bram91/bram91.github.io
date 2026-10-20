@@ -85228,5 +85228,851 @@
 		"id": 8640,
 		"standingAnimation": -1,
 		"walkingAnimation": -1
+	},
+		{
+		"name": "Guardian of Armadyl",
+		"id": 16722,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Sprite</col>",
+		"id": 16691,
+		"standingAnimation": 15062,
+		"walkingAnimation": 15061
+	},
+	{
+		"name": "Ocellus",
+		"id": 16682,
+		"standingAnimation": 14840,
+		"walkingAnimation": 14849
+	},
+	{
+		"name": "Corpse",
+		"id": 16687,
+		"standingAnimation": 14999,
+		"walkingAnimation": 15000
+	},
+	{
+		"name": "Zeke",
+		"id": 16769,
+		"standingAnimation": 14683,
+		"walkingAnimation": 14684
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16719,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16714,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16713,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "Void Augmenter",
+		"id": 16680,
+		"standingAnimation": 14903,
+		"walkingAnimation": 14903
+	},
+	{
+		"name": "Sir Pelleas",
+		"id": 16757,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16743,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16749,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Dagon'hai Elder",
+		"id": 16643,
+		"standingAnimation": 14581,
+		"walkingAnimation": 14587
+	},
+	{
+		"name": "Dagon'hai Monk",
+		"id": 16645,
+		"standingAnimation": 14582,
+		"walkingAnimation": 14588
+	},
+	{
+		"name": "null",
+		"id": 16738,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Ivy Sophista",
+		"id": 16698,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Chest</col>",
+		"id": 16732,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>Animated Sword</col>",
+		"id": 16653,
+		"standingAnimation": 14707,
+		"walkingAnimation": 14707
+	},
+	{
+		"name": "Alliance builder",
+		"id": 16708,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Dork",
+		"id": 16639,
+		"standingAnimation": 14540,
+		"walkingAnimation": 14539
+	},
+	{
+		"name": "Xari",
+		"id": 16765,
+		"standingAnimation": 11391,
+		"walkingAnimation": 11390
+	},
+	{
+		"name": "null",
+		"id": 16740,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Zeke",
+		"id": 16637,
+		"standingAnimation": 14683,
+		"walkingAnimation": 14684
+	},
+	{
+		"name": "Eva Cashien",
+		"id": 16725,
+		"standingAnimation": 14465,
+		"walkingAnimation": 14466
+	},
+	{
+		"name": "Wizard apprentice",
+		"id": 16693,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Rift</col>",
+		"id": 16734,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "King Arthur",
+		"id": 16760,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Orion",
+		"id": 16632,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "Xarth",
+		"id": 16684,
+		"standingAnimation": 14979,
+		"walkingAnimation": 14980
+	},
+	{
+		"name": "Xari",
+		"id": 16633,
+		"standingAnimation": 11391,
+		"walkingAnimation": 11390
+	},
+	{
+		"name": "null",
+		"id": 16668,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Dagon'hai Monk",
+		"id": 16648,
+		"standingAnimation": 14586,
+		"walkingAnimation": 14592
+	},
+	{
+		"name": "Undead binder",
+		"id": 16670,
+		"standingAnimation": 14789,
+		"walkingAnimation": 14790
+	},
+	{
+		"name": "null",
+		"id": 16736,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>Void Vine</col>",
+		"id": 16681,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16718,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16702,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Alliance builder",
+		"id": 16709,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Demonic rift</col>",
+		"id": 16651,
+		"standingAnimation": 9355,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>The Blade</col>",
+		"id": 16676,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Eva Cashien",
+		"id": 16697,
+		"standingAnimation": 13993,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Dork",
+		"id": 16771,
+		"standingAnimation": 14540,
+		"walkingAnimation": 14539
+	},
+	{
+		"name": "Record Keeper",
+		"id": 16692,
+		"standingAnimation": 15057,
+		"walkingAnimation": 1739
+	},
+	{
+		"name": "Armacus Selles",
+		"id": 16727,
+		"standingAnimation": 13999,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16746,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16747,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Quartermaster",
+		"id": 16762,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Orion",
+		"id": 16631,
+		"standingAnimation": 14882,
+		"walkingAnimation": 14883
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16720,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Bork",
+		"id": 16640,
+		"standingAnimation": 14540,
+		"walkingAnimation": 14539
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16721,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Rift</col>",
+		"id": 16735,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16654,
+		"standingAnimation": 14729,
+		"walkingAnimation": 14729
+	},
+	{
+		"name": "Orion",
+		"id": 16764,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "Ocellus",
+		"id": 16673,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "null",
+		"id": 16642,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Ocellus",
+		"id": 16677,
+		"standingAnimation": 14840,
+		"walkingAnimation": 14849
+	},
+	{
+		"name": "Armacus Selles",
+		"id": 16724,
+		"standingAnimation": 14465,
+		"walkingAnimation": 14466
+	},
+	{
+		"name": "<col=00ffff>Inert Guardian</col>",
+		"id": 16662,
+		"standingAnimation": 15024,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Mimi",
+		"id": 16638,
+		"standingAnimation": 14783,
+		"walkingAnimation": 14783
+	},
+	{
+		"name": "Dreadnoth the Jellied",
+		"id": 16665,
+		"standingAnimation": 14776,
+		"walkingAnimation": 14778
+	},
+	{
+		"name": "Orion",
+		"id": 16763,
+		"standingAnimation": 14882,
+		"walkingAnimation": 14883
+	},
+	{
+		"name": "Sir Kay",
+		"id": 16754,
+		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16715,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Archive Guardian",
+		"id": 16658,
+		"standingAnimation": 14758,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16739,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16737,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16712,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "Void Siphon",
+		"id": 16679,
+		"standingAnimation": 14899,
+		"walkingAnimation": 14899
+	},
+	{
+		"name": "null",
+		"id": 16750,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Druid",
+		"id": 16694,
+		"standingAnimation": 15056,
+		"walkingAnimation": 1739
+	},
+	{
+		"name": "Imp",
+		"id": 16650,
+		"standingAnimation": 13841,
+		"walkingAnimation": 13844
+	},
+	{
+		"name": "Alliance Navigator",
+		"id": 16700,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16655,
+		"standingAnimation": 14713,
+		"walkingAnimation": 14713
+	},
+	{
+		"name": "<col=00ffff>Inert Guardian</col>",
+		"id": 16663,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Dagon'hai Monk",
+		"id": 16646,
+		"standingAnimation": 14585,
+		"walkingAnimation": 14591
+	},
+	{
+		"name": "Cole",
+		"id": 16636,
+		"standingAnimation": 479,
+		"walkingAnimation": 479
+	},
+	{
+		"name": "Sir Palomedes",
+		"id": 16759,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Armacus Selles",
+		"id": 16696,
+		"standingAnimation": 14534,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16699,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "General Montoya",
+		"id": 16705,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Rift</col>",
+		"id": 16690,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Jelly",
+		"id": 16666,
+		"standingAnimation": 1583,
+		"walkingAnimation": 1584
+	},
+	{
+		"name": "<col=00ffff>Inert Guardian</col>",
+		"id": 16661,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>Cauldron</col>",
+		"id": 16649,
+		"standingAnimation": 14656,
+		"walkingAnimation": 14656
+	},
+	{
+		"name": "Alliance builder",
+		"id": 16706,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Ocellus",
+		"id": 16674,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "Quartermaster",
+		"id": 16761,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Eva Cashien",
+		"id": 16728,
+		"standingAnimation": 13993,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16745,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16686,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16711,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "null",
+		"id": 16689,
+		"standingAnimation": 362,
+		"walkingAnimation": 362
+	},
+	{
+		"name": "Sir Bedivere",
+		"id": 16755,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16701,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Sir Gawain",
+		"id": 16753,
+		"standingAnimation": 813,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16675,
+		"standingAnimation": 14839,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Archive Guardian",
+		"id": 16660,
+		"standingAnimation": 14745,
+		"walkingAnimation": 14745
+	},
+	{
+		"name": "Archive Guardian",
+		"id": 16659,
+		"standingAnimation": 14745,
+		"walkingAnimation": 14745
+	},
+	{
+		"name": "<col=00ffff>Chest</col>",
+		"id": 16733,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Chubbles",
+		"id": 16635,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Chubbles",
+		"id": 16767,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Druid",
+		"id": 16717,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Cole",
+		"id": 16768,
+		"standingAnimation": 479,
+		"walkingAnimation": 479
+	},
+	{
+		"name": "<col=00ffff>Vine</col>",
+		"id": 16664,
+		"standingAnimation": 14770,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Druid",
+		"id": 16716,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Sir Tristram",
+		"id": 16756,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16742,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Archie",
+		"id": 16766,
+		"standingAnimation": 14745,
+		"walkingAnimation": 14745
+	},
+	{
+		"name": "Moia",
+		"id": 16667,
+		"standingAnimation": 14783,
+		"walkingAnimation": 14783
+	},
+	{
+		"name": "Hooded Figure",
+		"id": 16672,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "Dagon'hai Monk",
+		"id": 16647,
+		"standingAnimation": 14583,
+		"walkingAnimation": 14589
+	},
+	{
+		"name": "<col=00ffff>The Blade</col>",
+		"id": 16683,
+		"standingAnimation": 14946,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Temple Knight",
+		"id": 16710,
+		"standingAnimation": 813,
+		"walkingAnimation": 1205
+	},
+	{
+		"name": "Corpse",
+		"id": 16688,
+		"standingAnimation": 808,
+		"walkingAnimation": 15000
+	},
+	{
+		"name": "null",
+		"id": 16703,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "The Smorks",
+		"id": 16641,
+		"standingAnimation": 14553,
+		"walkingAnimation": 14553
+	},
+	{
+		"name": "Void Rift",
+		"id": 16678,
+		"standingAnimation": 14895,
+		"walkingAnimation": 14895
+	},
+	{
+		"name": "Sir Lucan",
+		"id": 16758,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Sir Lancelot",
+		"id": 16752,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Ivy Sophista",
+		"id": 16729,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16748,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Ezekiel",
+		"id": 16652,
+		"standingAnimation": 14683,
+		"walkingAnimation": 14684
+	},
+	{
+		"name": "null",
+		"id": 16669,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>Inert Guardian</col>",
+		"id": 16657,
+		"standingAnimation": 14757,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "null",
+		"id": 16671,
+		"standingAnimation": 14804,
+		"walkingAnimation": 14805
+	},
+	{
+		"name": "Ivy Sophista",
+		"id": 16726,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "Alliance builder",
+		"id": 16707,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16685,
+		"standingAnimation": -1,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Banker",
+		"id": 16704,
+		"standingAnimation": 15055,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16741,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Druid",
+		"id": 16695,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "<col=00ffff>Chest</col>",
+		"id": 16731,
+		"standingAnimation": 15081,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Dagon'hai Elder",
+		"id": 16644,
+		"standingAnimation": 14584,
+		"walkingAnimation": 14590
+	},
+	{
+		"name": "null",
+		"id": 16751,
+		"standingAnimation": 15102,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Archie",
+		"id": 16634,
+		"standingAnimation": 14745,
+		"walkingAnimation": 14745
+	},
+	{
+		"name": "<col=00ffff>Chest</col>",
+		"id": 16730,
+		"standingAnimation": 15079,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "<col=00ffff>Sword</col>",
+		"id": 16656,
+		"standingAnimation": 14690,
+		"walkingAnimation": -1
+	},
+	{
+		"name": "Mimi",
+		"id": 16770,
+		"standingAnimation": 14783,
+		"walkingAnimation": 14783
+	},
+	{
+		"name": "Guardian of Armadyl",
+		"id": 16723,
+		"standingAnimation": 808,
+		"walkingAnimation": 819
+	},
+	{
+		"name": "null",
+		"id": 16744,
+		"standingAnimation": 15099,
+		"walkingAnimation": -1
 	}
 ]
